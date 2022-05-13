@@ -1,0 +1,1418 @@
+﻿Log file open, 05/13/22 02:19:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=3172)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TFG
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19505902"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.0-19505902+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "F:\UNI\TFG\FIX TFG\TFG\TFG 5.0 5.0\TFG.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H1) "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="2a786aca413233a10f96c1b0fe8b752f"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.533725
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-80069C3940F68E7656933DB2578D88A0
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.02 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryScripting
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryScripting/Content/' mounted to '/GeometryScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-19505902
+LogInit: Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H1) (), CPU: Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Mar 25 2022 04:05:33
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: F:/Jocs/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.05.13-00.19.12:161][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.05.13-00.19.12:161][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.05.13-00.19.12:161][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.05.13-00.19.12:161][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.05.13-00.19.12:161][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.05.13-00.19.12:161][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.05.13-00.19.12:161][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.05.13-00.19.12:161][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.05.13-00.19.12:161][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.05.13-00.19.12:161][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.05.13-00.19.12:161][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.05.13-00.19.12:161][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.05.13-00.19.12:161][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.05.13-00.19.12:161][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.05.13-00.19.12:161][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.05.13-00.19.12:161][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.05.13-00.19.12:161][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.05.13-00.19.12:161][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.05.13-00.19.12:161][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.05.13-00.19.12:161][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.05.13-00.19.12:161][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.05.13-00.19.12:161][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.05.13-00.19.12:161][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.05.13-00.19.12:161][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.05.13-00.19.12:162][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.05.13-00.19.12:167][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.05.13-00.19.12:167][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.05.13-00.19.12:167][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.05.13-00.19.12:167][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.05.13-00.19.12:167][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.05.13-00.19.12:167][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.05.13-00.19.12:167][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.05.13-00.19.12:167][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.05.13-00.19.12:167][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.05.13-00.19.12:167][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.05.13-00.19.12:167][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.05.13-00.19.12:234][  0]LogD3D12RHI: Aftermath initialized
+[2022.05.13-00.19.12:234][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.05.13-00.19.12:402][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1070 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.05.13-00.19.12:403][  0]LogD3D12RHI: Adapter has 8088MB of dedicated video memory, 0MB of dedicated system memory, and 8154MB of shared system memory, 2 output[s]
+[2022.05.13-00.19.12:413][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.05.13-00.19.12:414][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8154MB of shared system memory, 0 output[s]
+[2022.05.13-00.19.12:414][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.05.13-00.19.12:414][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.05.13-00.19.12:414][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.05.13-00.19.12:414][  0]LogHAL: Display: Platform has ~ 16 GB [17100308480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.13-00.19.12:414][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.05.13-00.19.12:414][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.05.13-00.19.12:414][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.13-00.19.12:414][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.05.13-00.19.12:414][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Config/WindowsEditor/Editor.ini]
+[2022.05.13-00.19.12:414][  0]LogInit: Computer: OSCAR
+[2022.05.13-00.19.12:414][  0]LogInit: User: PcCom
+[2022.05.13-00.19.12:414][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.05.13-00.19.12:414][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.13-00.19.12:414][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.05.13-00.19.12:414][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.05.13-00.19.12:414][  0]LogMemory: Process Physical Memory: 259.30 MB used, 269.74 MB peak
+[2022.05.13-00.19.12:414][  0]LogMemory: Process Virtual Memory: 195.84 MB used, 195.84 MB peak
+[2022.05.13-00.19.12:414][  0]LogMemory: Physical Memory: 13703.29 MB used,  2604.84 MB free, 16308.12 MB total
+[2022.05.13-00.19.12:414][  0]LogMemory: Virtual Memory: 30870.18 MB used,  4140.18 MB free, 35010.36 MB total
+[2022.05.13-00.19.12:414][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.05.13-00.19.12:423][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.05.13-00.19.12:441][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.05.13-00.19.12:442][  0]LogInit: Using OS detected language (es-ES).
+[2022.05.13-00.19.12:442][  0]LogInit: Using OS detected locale (es-ES).
+[2022.05.13-00.19.12:444][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so 'es' will be used for the language.
+[2022.05.13-00.19.12:467][  0]LogInit: Setting process to per monitor DPI aware
+[2022.05.13-00.19.12:488][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.05.13-00.19.12:488][  0]LogWindowsTextInputMethodSystem:   - Español (España, internacional) - (Keyboard).
+[2022.05.13-00.19.12:488][  0]LogWindowsTextInputMethodSystem:   - Español (España, internacional) - Corrección de entrada táctil (TSF IME).
+[2022.05.13-00.19.12:489][  0]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2022.05.13-00.19.12:524][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.13-00.19.12:524][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.13-00.19.12:805][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.05.13-00.19.12:826][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.05.13-00.19.12:826][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.05.13-00.19.12:952][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.05.13-00.19.12:952][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.05.13-00.19.12:952][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.05.13-00.19.12:952][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.05.13-00.19.12:952][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.05.13-00.19.12:952][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.05.13-00.19.12:952][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.05.13-00.19.12:952][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.05.13-00.19.12:952][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.05.13-00.19.12:952][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.05.13-00.19.12:952][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.05.13-00.19.12:952][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.05.13-00.19.12:952][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.05.13-00.19.12:952][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.05.13-00.19.13:000][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.05.13-00.19.13:008][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.05.13-00.19.13:022][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.05.13-00.19.13:030][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.05.13-00.19.13:030][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.05.13-00.19.13:095][  0]LogD3D12RHI: Warning: Ray tracing is disabled for NVIDIA cards with the Pascal architecture.
+[2022.05.13-00.19.13:095][  0]LogD3D12RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2022.05.13-00.19.13:095][  0]LogWindows: EnumDisplayDevices:
+[2022.05.13-00.19.13:095][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2022.05.13-00.19.13:095][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2022.05.13-00.19.13:095][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2022.05.13-00.19.13:096][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2022.05.13-00.19.13:096][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.05.13-00.19.13:096][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2022.05.13-00.19.13:096][  0]LogD3D12RHI:   Driver Version: 512.15 (internal:30.0.15.1215, unified:512.15)
+[2022.05.13-00.19.13:096][  0]LogD3D12RHI:      Driver Date: 3-17-2022
+[2022.05.13-00.19.13:096][  0]LogRHI: Texture pool is 4611 MB (70% of 6588 MB)
+[2022.05.13-00.19.13:096][  0]LogD3D12RHI: Async texture creation enabled
+[2022.05.13-00.19.13:096][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.05.13-00.19.13:108][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.05.13-00.19.13:115][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/TFG.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Intermediate/TurnkeyReport_0.log" -log="F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Intermediate/TurnkeyLog_0.log" -project="F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/TFG.uproject"  -platform=all'
+[2022.05.13-00.19.13:115][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""F:/Jocs/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/TFG.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Intermediate/TurnkeyReport_0.log" -log="F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Intermediate/TurnkeyLog_0.log" -project="F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/TFG.uproject"  -platform=all" ]
+[2022.05.13-00.19.13:140][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.05.13-00.19.13:150][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.05.13-00.19.13:150][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.05.13-00.19.13:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.05.13-00.19.13:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.05.13-00.19.13:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.05.13-00.19.13:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.05.13-00.19.13:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.05.13-00.19.13:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.05.13-00.19.13:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.05.13-00.19.13:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.05.13-00.19.13:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.05.13-00.19.13:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.05.13-00.19.13:189][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.05.13-00.19.13:189][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.05.13-00.19.13:194][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.05.13-00.19.13:194][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.05.13-00.19.13:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.05.13-00.19.13:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.05.13-00.19.13:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.05.13-00.19.13:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.05.13-00.19.13:201][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.05.13-00.19.13:201][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.05.13-00.19.13:201][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.05.13-00.19.13:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.05.13-00.19.13:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.05.13-00.19.13:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.05.13-00.19.13:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.05.13-00.19.13:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.05.13-00.19.13:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.05.13-00.19.13:212][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.05.13-00.19.13:221][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.13-00.19.13:224][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.05.13-00.19.13:224][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.05.13-00.19.13:224][  0]LogTargetPlatformManager:   ADPCM
+[2022.05.13-00.19.13:224][  0]LogTargetPlatformManager:   PCM
+[2022.05.13-00.19.13:227][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.05.13-00.19.13:227][  0]LogTargetPlatformManager:   BINKA
+[2022.05.13-00.19.13:227][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.05.13-00.19.13:227][  0]LogTargetPlatformManager:   OGG
+[2022.05.13-00.19.13:227][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.05.13-00.19.13:227][  0]LogTargetPlatformManager:   OPUS
+[2022.05.13-00.19.13:274][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.05.13-00.19.13:280][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.05.13-00.19.13:280][  0]LogTargetPlatformManager:   SF_METAL
+[2022.05.13-00.19.13:280][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.05.13-00.19.13:280][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.05.13-00.19.13:280][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.05.13-00.19.13:280][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.05.13-00.19.13:280][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.05.13-00.19.13:280][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.05.13-00.19.13:280][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.05.13-00.19.13:280][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.05.13-00.19.13:280][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.05.13-00.19.13:280][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.05.13-00.19.13:280][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.05.13-00.19.13:280][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.05.13-00.19.13:280][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.05.13-00.19.13:280][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.05.13-00.19.13:284][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.05.13-00.19.13:284][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.05.13-00.19.13:284][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.05.13-00.19.13:284][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.05.13-00.19.13:284][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.05.13-00.19.13:284][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.05.13-00.19.13:284][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.05.13-00.19.13:284][  0]LogRendererCore: Ray tracing is disabled. Reason: not supported by current RHI.
+[2022.05.13-00.19.13:284][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.05.13-00.19.13:295][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.05.13-00.19.13:295][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.05.13-00.19.13:296][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.05.13-00.19.13:299][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.13-00.19.13:299][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.05.13-00.19.13:299][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.13-00.19.13:299][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.05.13-00.19.13:317][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1091 MiB)
+[2022.05.13-00.19.13:318][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.13-00.19.13:318][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.05.13-00.19.13:324][  0]LogDerivedDataCache: Speed tests for C:/Users/PcCom/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.05.13-00.19.13:324][  0]LogDerivedDataCache: Display: Performance to C:/Users/PcCom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=1077.15MBs, RandomWriteSpeed=191.92MBs. Assigned SpeedClass 'Local'
+[2022.05.13-00.19.13:325][  0]LogDerivedDataCache: Using Local data cache path C:/Users/PcCom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.05.13-00.19.13:325][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.05.13-00.19.13:325][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.05.13-00.19.13:331][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.05.13-00.19.13:331][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.05.13-00.19.13:331][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Intermediate/Shaders/WorkingDirectory/7540/).
+[2022.05.13-00.19.13:331][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/PcCom/AppData/Local/Temp/UnrealShaderWorkingDir/08288BBE499356973681889260B4BC62/'.
+[2022.05.13-00.19.13:331][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.05.13-00.19.13:331][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 3 workers.
+[2022.05.13-00.19.15:018][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.13-00.19.15:019][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.13-00.19.15:222][  0]LogAssetRegistry: FAssetRegistry took 0.0122 seconds to start up
+[2022.05.13-00.19.15:231][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.05.13-00.19.15:449][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.05.13-00.19.15:449][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.05.13-00.19.15:449][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.05.13-00.19.15:723][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.05.13-00.19.15:723][  0]LogDeviceProfileManager: Active device profile: [00000459CB47F6C0][00000459C556C800 50] WindowsEditor
+[2022.05.13-00.19.15:723][  0]LogDeviceProfileManager: Profiles: [00000459CB47F180][00000459C0795000 50] Windows, [00000459CB47F6C0][00000459C556C800 50] WindowsEditor, [00000459CB47EA80][00000459C4030000 50] WindowsServer, [00000459CB47EC40][00000459B660A000 50] WindowsClient, [00000459CB47F880][00000459CB7F0000 50] IOS, [00000459CB47E700][00000459CB7F5000 50] iPadAir2, [00000459CB47FDC0][00000459CB7FA000 50] IPadPro, [00000459CB07FDC0][00000459CB7F7800 50] iPadAir3, [00000459CB47E380][00000459CB7FC800 50] iPadAir4, [00000459CB47AF00][00000459C4032800 50] iPadMini4, [00000459CB47E1C0][00000459CB990000 50] iPadMini5, [00000459CB47FA40][00000459CB995000 50] iPadMini6, [00000459CBA32680][00000459CB99C800 50] iPhone6S, [00000459CBA32A00][00000459CB99A000 50] iPhone7, [00000459CBA32D80][00000459CB997800 50] iPodTouch7, [00000459CBA32140][00000459CB7F2800 50] iPhone6SPlus, [00000459CBA32300][00000459CB9D0000 50] iPhone7Plus, [00000459CBA31C00][00000459CB9D5000 50] iPhoneSE, [00000459CBA30540][00000459CB9D7800 50] iPhone8, [00000459CBA324C0][00000459CB9DA000 50] iPhone8Plus, [00000459CBA301C0][00000459CB9DC800 50] iPhoneX, [00000459CBA33800][00000459CB992800 50] iPhoneXS, [00000459CBA31DC0][00000459CBA10000 50] iPhoneXSMax, [00000459CBA332C0][00000459CBA15000 50] iPhoneXR, [00000459CBA33100][00000459CBA17800 50] iPhone11, [00000459CBA30FC0][00000459CBA1A000 50] iPhone11Pro, [00000459CBA31F80][00000459CBA1C800 50] iPhone11ProMax, [00000459CBA31180][00000459CB9D2800 50] iPhoneSE2, [00000459CBA31A40][00000459CB9B0000 50] iPhone12Mini, [00000459CBA31500][00000459CB9B5000 50] iPhone12, [00000459CBA34980][00000459CB9B7800 50] iPhone12Pro, [00000459CBA30700][00000459CB9BA000 50] iPhone12ProMax, [00000459CBA34B40][00000459CB9BC800 50] iPhone13Mini, [00000459CBA339C0][00000459CBA12800 50] iPhone13, [00000459CBA30380][00000459CBA40000 50] iPhone13Pro, [00000459CBA33F00][00000459CBA45000 50] iPhone13ProMax, [00000459CBA340C0][00000459CBA47800 50] iPadPro105, [00000459CBA35080][00000459CBA4A000 50] iPadPro129, [00000459CBA32BC0][00000459CBA4C800 50] iPadPro97, [00000459CBA35780][00000459CB9B2800 50] iPadPro2_129, [00000459CBA316C0][00000459CBA50000 50] iPad5, [00000459CBA34440][00000459CBA55000 50] iPad6, [00000459CBA31340][00000459CBA57800 50] iPad7, [00000459CBA30E00][00000459CBA5A000 50] iPad8, [00000459CBA33B80][00000459CBA5C800 50] iPad9, [00000459CBA35E80][00000459CBA42800 50] iPadPro11, [00000459CBA308C0][00000459CBA60000 50] iPadPro2_11, [00000459CBA36580][00000459CBA65000 50] iPadPro3_11, [00000459CBA355C0][00000459CBA67800 50] iPadPro3_129, [00000459CBA35CC0][00000459CBA6A000 50] iPadPro4_129, [00000459CBA34280][00000459CBA6C800 50] iPadPro5_129, [00000459CBA33480][00000459CBA52800 50] AppleTV, [00000459CBA34EC0][00000459CBA70000 50] AppleTV4K, [00000459CBA363C0][00000459CBA75000 50] TVOS, [00000459CBA38C00][00000459CBA7A000 50] Mac, [00000459CBA38F80][00000459CBA77800 50] MacEditor, [00000459CBA34D00][00000459CBA7C800 50] MacClient, [00000459CBA38A40][00000459CBA62800 50] MacServer, [00000459CBA38DC0][00000459CBA92800 50] Linux, [00000459CBA36040][00000459CBA90000 50] LinuxEditor, [00000459CBA38880][00000459CBA97800 50] LinuxArm64Editor, [00000459CBA32F40][00000459CBA9A000 50] LinuxArm64, [00000459CBA39300][00000459CBA9C800 50] LinuxClient, [00000459CBA394C0][00000459CBA72800 50] LinuxArm64Client, [00000459CBA37540][00000459CBAA0000 50] LinuxServer, [00000459CBA35B00][00000459CBAA5000 50] LinuxArm64Server, [00000459CBA38500][00000459CBAA7800 50] Android, [00000459CBA31880][00000459CBAAA000 50] Android_Preview_OpenGL, [00000459CBA37000][00000459CBAAC800 50] Android_Preview_Vulkan, [00000459CBA39840][00000459CBA95000 50] Android_Low, [00000459CBA371C0][00000459CBAB0000 50] Android_Mid, [00000459CBA36900][00000459CBAB5000 50] Android_High, [00000459CBA35240][00000459CBAB7800 50] Android_Default, [00000459CBA36C80][00000459CBABA000 50] Android_Adreno4xx, [00000459CBA37FC0][00000459CBABC800 50] Android_Adreno5xx_Low, [00000459CBA32840][00000459CBAA2800 50] Android_Adreno5xx, [00000459CBA378C0][00000459CBAC0000 50] Android_Adreno6xx, [00000459CBA35400][00000459CBAC5000 50] Android_Adreno6xx_Vulkan, [00000459CBA30000][00000459CBAC7800 50] Android_Adreno7xx, [00000459CBA386C0][00000459CBACA000 50] Android_Adreno7xx_Vulkan, [00000459CBA38180][00000459CBACC800 50] Android_Mali_T6xx, [00000459CBA37A80][00000459CBAB2800 50] Android_Mali_T7xx, [00000459CBA35940][00000459CBAD0000 50] Android_Mali_T8xx, [00000459CBA39140][00000459CBAD5000 50] Android_Mali_G71, [00000459CBA3A640][00000459CBAD7800 50] Android_Mali_G72, [00000459CBA39A00][00000459CBADA000 50] Android_Mali_G72_Vulkan, [00000459CBA33640][00000459CBADC800 50] Android_Mali_G76, [00000459CBA3A100][00000459CBAC2800 50] Android_Mali_G76_Vulkan, [00000459CBA34600][00000459CB9F0000 50] Android_Mali_G77, [00000459CBA33D40][00000459CB9F5000 50] Android_Mali_G77_Vulkan, [00000459CBA347C0][00000459CB9F7800 50] Android_Mali_G78, [00000459CBA36AC0][00000459CB9FA000 50] Android_Mali_G78_Vulkan, [00000459CBA37C40][00000459CB9FC800 50] Android_Mali_G710, [00000459CBA3B600][00000459CBAD2800 50] Android_Mali_G710_Vulkan, [00000459CBA36E40][00000459CBAE0000 50] Android_Xclipse_920, [00000459CBA36200][00000459CBAE5000 50] Android_Xclipse_920_Vulkan, [00000459CBA3B0C0][00000459CBAE7800 50] Android_Vulkan_SM5, [00000459CBA3AD40][00000459CBAEA000 50] Android_PowerVR_G6xxx, [00000459CBA36740][00000459CBAEC800 50] Android_PowerVR_GT7xxx, [00000459CBA3B280][00000459CB9F2800 50] Android_PowerVR_GE8xxx, [00000459CBA3A2C0][00000459CBAF0000 50] Android_PowerVR_GM9xxx, [00000459CBA3C5C0][00000459CBAF5000 50] Android_PowerVR_GM9xxx_Vulkan, [00000459CBA3AF00][00000459CBAF7800 50] Android_TegraK1, [00000459CBA39BC0][00000459CBAFA000 50] Android_Unknown_Vulkan, [00000459CBA3C080][00000459CBAFC800 50] Oculus_Quest, [00000459CBA39D80][00000459CBAE2800 50] Oculus_Quest2, [00000459CBA30A80][00000459CBB00000 50] HoloLens, 
+[2022.05.13-00.19.15:724][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.05.13-00.19.15:726][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.")
+[2022.05.13-00.19.15:726][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.05.13-00.19.15:726][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.05.13-00.19.15:726][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.05.13-00.19.15:726][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.18362.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.05.13-00.19.16:098][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.05.13-00.19.17:036][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.13-00.19.17:036][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.05.13-00.19.17:036][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.05.13-00.19.17:036][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.05.13-00.19.17:036][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.05.13-00.19.17:303][  0]LogNetVersion: TFG 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3994906756)
+[2022.05.13-00.19.19:015][  0]LogSlate: Border
+[2022.05.13-00.19.19:015][  0]LogSlate: BreadcrumbButton
+[2022.05.13-00.19.19:015][  0]LogSlate: Default
+[2022.05.13-00.19.19:015][  0]LogSlate: Icons.Save
+[2022.05.13-00.19.19:015][  0]LogSlate: Icons.Toolbar.Settings
+[2022.05.13-00.19.19:015][  0]LogSlate: ListView
+[2022.05.13-00.19.19:015][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.05.13-00.19.19:015][  0]LogSlate: SoftwareCursor_Grab
+[2022.05.13-00.19.19:015][  0]LogSlate: TableView.DarkRow
+[2022.05.13-00.19.19:015][  0]LogSlate: TableView.Row
+[2022.05.13-00.19.19:015][  0]LogSlate: TreeView
+[2022.05.13-00.19.23:040][  0]SourceControl: El control de código fuente está desactivado
+[2022.05.13-00.19.23:211][  0]SourceControl: El control de código fuente está desactivado
+[2022.05.13-00.19.23:211][  0]SourceControl: El control de código fuente está desactivado
+[2022.05.13-00.19.23:522][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.05.13-00.19.23:523][  0]LogUObjectAllocator: 5584248 out of 0 bytes used by permanent object pool.
+[2022.05.13-00.19.23:523][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.13-00.19.25:411][  0]LogPython: Using Python 3.9.7
+[2022.05.13-00.19.27:357][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 55350EEF4214B22DBCDA3E8C131AAF44 | Instance: 6B64549447D6EE54EC58F685AEFE42EA (OSCAR-7540).
+[2022.05.13-00.19.27:530][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.05.13-00.19.27:551][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.05.13-00.19.27:975][  0]SourceControl: El control de código fuente está desactivado
+[2022.05.13-00.19.27:991][  0]SourceControl: El control de código fuente está desactivado
+[2022.05.13-00.19.28:042][  0]SourceControl: El control de código fuente está desactivado
+[2022.05.13-00.19.28:126][  0]LogUProjectInfo: Found projects:
+[2022.05.13-00.19.29:377][  0]LogOpenImageDenoise: OIDN starting up
+[2022.05.13-00.19.29:630][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.13-00.19.29:713][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.13-00.19.29:713][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.13-00.19.30:059][  0]LogCollectionManager: Loaded 0 collections in 0.000913 seconds
+[2022.05.13-00.19.30:376][  0]LogFileCache: Scanning file cache for directory 'F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Collections/' took 0.00s
+[2022.05.13-00.19.30:376][  0]LogFileCache: Scanning file cache for directory 'F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Developers/PcCom/Collections/' took 0.00s
+[2022.05.13-00.19.30:376][  0]LogFileCache: Scanning file cache for directory 'F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Collections/' took 0.00s
+[2022.05.13-00.19.30:944][  0]LogEngine: Initializing Engine...
+[2022.05.13-00.19.30:985][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.05.13-00.19.31:805][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.13-00.19.31:805][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.13-00.19.31:928][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.13-00.19.32:218][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.05.13-00.19.32:219][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.05.13-00.19.32:371][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.05.13-00.19.32:386][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.05.13-00.19.32:386][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.05.13-00.19.32:387][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.05.13-00.19.32:387][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.05.13-00.19.32:387][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.13-00.19.32:387][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.13-00.19.32:387][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.13-00.19.32:387][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.13-00.19.32:387][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.13-00.19.32:387][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.13-00.19.32:387][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.13-00.19.32:387][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.13-00.19.32:387][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.13-00.19.32:387][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.13-00.19.32:387][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.13-00.19.32:560][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.13-00.19.32:631][  0]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logitech PRO X Gaming Headset)
+[2022.05.13-00.19.32:631][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.13-00.19.32:728][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.13-00.19.32:728][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.13-00.19.32:729][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.05.13-00.19.32:729][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2022.05.13-00.19.32:730][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.05.13-00.19.32:730][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.05.13-00.19.32:730][  0]LogInit: FAudioDevice initialized.
+[2022.05.13-00.19.32:730][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.13-00.19.32:730][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.13-00.19.32:730][  0]LogInit: Texture streaming: Enabled
+[2022.05.13-00.19.32:941][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.0-19505902+++UE5+Release-5.0
+[2022.05.13-00.19.32:964][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.05.13-00.19.33:041][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.05.13-00.19.33:062][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.05.13-00.19.33:063][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.05.13-00.19.51:114][  0]LogLiveCoding: Display: First instance in process group "UE_TFG_0x179b1559", spawning console
+[2022.05.13-00.19.51:115][  0]LogLiveCoding: Display: Waiting for server
+[2022.05.13-00.19.51:115][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.05.13-00.19.51:143][  0]LogInit: Transaction tracking system initialized
+[2022.05.13-00.19.51:695][  0]BlueprintLog: New page: Cargar el editor
+[2022.05.13-00.19.52:310][  0]LocalizationService: Localization service is disabled
+[2022.05.13-00.19.52:440][  0]TimingProfiler: Initialize
+[2022.05.13-00.19.52:440][  0]TimingProfiler: OnSessionChanged
+[2022.05.13-00.19.52:440][  0]LoadingProfiler: Initialize
+[2022.05.13-00.19.52:440][  0]LoadingProfiler: OnSessionChanged
+[2022.05.13-00.19.52:440][  0]NetworkingProfiler: Initialize
+[2022.05.13-00.19.52:440][  0]NetworkingProfiler: OnSessionChanged
+[2022.05.13-00.19.52:440][  0]MemoryProfiler: Initialize
+[2022.05.13-00.19.52:440][  0]MemoryProfiler: OnSessionChanged
+[2022.05.13-00.19.52:575][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_12'
+[2022.05.13-00.19.52:575][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_12
+[2022.05.13-00.19.55:013][  0]LogFileCache: Scanning file cache for directory 'F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/' took 0.01s
+[2022.05.13-00.19.55:013][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.05.13-00.19.55:166][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.05.13-00.19.55:168][  0]SourceControl: El control de código fuente está desactivado
+[2022.05.13-00.19.55:168][  0]LogUnrealEdMisc: Loading editor; pre map load, took 45.477
+[2022.05.13-00.19.55:168][  0]Cmd: MAP LOAD FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/TFG_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.13-00.19.55:168][  0]LightingResults: New page: Diseñar la iluminación
+[2022.05.13-00.19.55:183][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.13-00.19.55:183][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.13-00.19.55:183][  0]MapCheck: New page: Revisión del mapa
+[2022.05.13-00.19.55:183][  0]LightingResults: New page: Diseñar la iluminación
+[2022.05.13-00.19.55:189][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.13-00.19.55:192][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.05.13-00.19.55:358][  0]LogLinker: Warning: [AssetLog] F:\UNI\TFG\FIX TFG\TFG\TFG 5.0 5.0\Content\Tools\B_GeneratedTube.uasset: Error al cargar '{FileName}': No puede encontrar el archivo
+[2022.05.13-00.19.55:358][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /LyraExampleContent/Materials/MI_Black_GlossFakeFloor'
+[2022.05.13-00.19.55:376][  0]LogLinker: Warning: [AssetLog] F:\UNI\TFG\FIX TFG\TFG\TFG 5.0 5.0\Content\Tools\B_Tool_RampMakerControl_BGM.uasset: Error al cargar '{FileName}': No puede encontrar el archivo
+[2022.05.13-00.19.55:376][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /LyraExampleContent/Materials/MI_MS_Surface_13'
+[2022.05.13-00.19.56:314][  0]LogLinker: Warning: [AssetLog] F:\UNI\TFG\FIX TFG\TFG\TFG 5.0 5.0\Content\Assets\TFG_Map.umap: Error al cargar '{FileName}': No puede encontrar el archivo
+[2022.05.13-00.19.56:314][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/TFG_Map_BuiltData'
+[2022.05.13-00.19.56:316][  0]LogLinker: Warning: [AssetLog] F:\UNI\TFG\FIX TFG\TFG\TFG 5.0 5.0\Content\Assets\Beams\Beam_100.uasset: Error al cargar '{FileName}': No puede encontrar el archivo
+[2022.05.13-00.19.56:316][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/lambert1'
+[2022.05.13-00.19.56:325][  0]LogLinker: Warning: [AssetLog] F:\UNI\TFG\FIX TFG\TFG\TFG 5.0 5.0\Content\Assets\Walls\Wall_45_A.uasset: Error al cargar '{FileName}': No puede encontrar el archivo
+[2022.05.13-00.19.56:325][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/Walls/lambert1'
+[2022.05.13-00.19.56:329][  0]LogLinker: Warning: [AssetLog] F:\UNI\TFG\FIX TFG\TFG\TFG 5.0 5.0\Content\Assets\windows\window_XL.uasset: Error al cargar '{FileName}': No puede encontrar el archivo
+[2022.05.13-00.19.56:329][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Assets/lambert2'
+[2022.05.13-00.19.56:747][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube should be resaved to improve async compilation performance.
+[2022.05.13-00.19.56:747][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane should be resaved to improve async compilation performance.
+[2022.05.13-00.19.56:831][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TFG_Map'.
+[2022.05.13-00.19.56:831][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.13-00.19.56:832][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.13-00.19.56:832][  0]LogAIModule: Creating AISystem for world TFG_Map
+[2022.05.13-00.19.57:025][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.13-00.19.57:090][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.05.13-00.19.57:091][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.13-00.19.57:091][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,232ms to complete.
+[2022.05.13-00.19.57:091][  0]LogFileHelpers: Loading map 'TFG_Map' took 1.923
+[2022.05.13-00.19.57:178][  0]LogUnrealEdMisc: Total Editor Startup Time, took 47.487
+[2022.05.13-00.19.57:178][  0]LogShaderCompilers: Display: ================================================
+[2022.05.13-00.19.57:178][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.13-00.19.57:178][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.05.13-00.19.57:178][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.05.13-00.19.57:178][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.05.13-00.19.57:178][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.05.13-00.19.57:178][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.05.13-00.19.57:178][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.05.13-00.19.57:178][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.05.13-00.19.57:178][  0]LogShaderCompilers: Display: ================================================
+[2022.05.13-00.19.57:395][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.13-00.19.57:402][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.13-00.19.57:408][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.13-00.19.57:415][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.13-00.19.57:483][  0]LogPakFile: Display: Mounted Pak file 'F:/Jocs/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.05.13-00.19.57:483][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.13-00.19.57:497][  0]LogPakFile: Display: Mounted Pak file 'F:/Jocs/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.05.13-00.19.57:497][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.13-00.19.57:510][  0]LogPakFile: Display: Mounted Pak file 'F:/Jocs/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.05.13-00.19.57:510][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.13-00.19.57:530][  0]LogPakFile: Display: Mounted Pak file 'F:/Jocs/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.05.13-00.19.57:530][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.13-00.19.57:551][  0]LogPakFile: Display: Mounted Pak file 'F:/Jocs/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.05.13-00.19.57:551][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.13-00.19.57:564][  0]LogPakFile: Display: Mounted Pak file 'F:/Jocs/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.05.13-00.19.57:564][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.13-00.19.57:581][  0]LogPakFile: Display: Mounted Pak file 'F:/Jocs/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.05.13-00.19.57:581][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.13-00.19.57:594][  0]LogPakFile: Display: Mounted Pak file 'F:/Jocs/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.05.13-00.19.57:594][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.13-00.19.57:605][  0]LogPakFile: Display: Mounted Pak file 'F:/Jocs/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.05.13-00.19.57:605][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.13-00.19.57:625][  0]LogPakFile: Display: Mounted Pak file 'F:/Jocs/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.05.13-00.19.57:625][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.13-00.19.58:287][  0]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Docking.TabFont'. Utilizando FTextBlockStyle predeterminado en su lugar.
+[2022.05.13-00.19.58:287][  0]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Docking.TabFont'. Utilizando FTextBlockStyle predeterminado en su lugar.
+[2022.05.13-00.19.58:388][  0]LogSlate: Took 0.014136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.13-00.19.58:420][  0]LogSlate: Took 0.015851 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.13-00.19.58:431][  0]LogSlate: Took 0.010634 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.13-00.19.58:449][  0]LogSlate: Took 0.016776 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.13-00.19.58:461][  0]LogSlate: Took 0.011291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.13-00.19.58:922][  0]LogStall: Startup...
+[2022.05.13-00.19.58:923][  0]LogStall: Startup complete.
+[2022.05.13-00.19.58:969][  0]LogInput: Warning: Action Jump uses invalid key Daydream_Left_Select_Click.
+[2022.05.13-00.19.58:969][  0]LogInput: Warning: Action ResetVR uses invalid key Daydream_Left_Trackpad_Click.
+[2022.05.13-00.19.58:969][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.05.13-00.19.58:969][  0]LogInput: Warning: Action Jump uses invalid key MagicLeap_Left_Trigger.
+[2022.05.13-00.19.58:969][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.05.13-00.19.58:969][  0]LogInput: Warning: Action ResetVR uses invalid key MagicLeap_Left_Bumper.
+[2022.05.13-00.19.58:969][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.05.13-00.19.58:969][  0]LogLoad: (Engine Initialization) Total time: 49.28 seconds
+[2022.05.13-00.19.58:969][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.05.13-00.19.59:003][  0]LogAssetRegistry: Asset discovery search completed in 43.7817 seconds
+[2022.05.13-00.19.59:124][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.05.13-00.19.59:153][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.05.13-00.19.59:927][  1]LogFileCache: Retrieving MD5 hashes for directory 'F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/' took 0.94s
+[2022.05.13-00.20.00:448][  2]LogSlate: Took 0.024059 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.13-00.20.02:219][  5]AssetReimport: New page: Outstanding source content changes 4:20:02
+[2022.05.13-00.20.02:252][  5]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.13-00.20.02:836][  6]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/moodboard.png)
+[2022.05.13-00.20.03:114][  6]LogTexture: Display: Building textures: /Game/moodboard.moodboard (BGRA8, 2286X1513 X1X1) (Required Memory Estimate: 65.96981 MB), EncodeSpeed: Fast
+[2022.05.13-00.20.03:538][  7]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Balcony.fbx]
+[2022.05.13-00.20.03:546][  7]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Balcony.fbx
+[2022.05.13-00.20.03:552][  7]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.03:580][  7]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Balcony.Balcony
+[2022.05.13-00.20.03:588][  7]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.04:271][  8]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Door.fbx]
+[2022.05.13-00.20.04:278][  8]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Door.fbx
+[2022.05.13-00.20.04:283][  8]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.04:327][  8]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Door.Door
+[2022.05.13-00.20.04:360][  8]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.04:785][  9]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/fence.fbx]
+[2022.05.13-00.20.04:793][  9]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/fence.fbx
+[2022.05.13-00.20.04:799][  9]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.04:818][  9]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/fence.fence
+[2022.05.13-00.20.04:827][  9]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.05:332][ 10]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/Beam_100.fbx]
+[2022.05.13-00.20.05:339][ 10]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/Beam_100.fbx
+[2022.05.13-00.20.05:345][ 10]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.05:354][ 10]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Beams/Beam_100.Beam_100
+[2022.05.13-00.20.05:364][ 10]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.05:379][ 11]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/Beam_200.fbx]
+[2022.05.13-00.20.05:387][ 11]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/Beam_200.fbx
+[2022.05.13-00.20.05:393][ 11]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.05:402][ 11]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Beams/Beam_200.Beam_200
+[2022.05.13-00.20.05:410][ 11]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.05:423][ 12]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/Beam_250.fbx]
+[2022.05.13-00.20.05:434][ 12]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/Beam_250.fbx
+[2022.05.13-00.20.05:449][ 12]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.05:463][ 12]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Beams/Beam_250.Beam_250
+[2022.05.13-00.20.05:471][ 12]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.05:479][ 13]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/Beam_300.fbx]
+[2022.05.13-00.20.05:487][ 13]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/Beam_300.fbx
+[2022.05.13-00.20.05:493][ 13]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.05:509][ 13]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Beams/Beam_300.Beam_300
+[2022.05.13-00.20.05:517][ 13]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.05:528][ 14]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/Beam_350.fbx]
+[2022.05.13-00.20.05:536][ 14]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/Beam_350.fbx
+[2022.05.13-00.20.05:542][ 14]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.05:551][ 14]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Beams/Beam_350.Beam_350
+[2022.05.13-00.20.05:559][ 14]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.05:569][ 15]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/individual/anvil.fbx]
+[2022.05.13-00.20.05:577][ 15]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/individual/anvil.fbx
+[2022.05.13-00.20.05:601][ 15]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.05:616][ 15]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/individual/anvil.anvil
+[2022.05.13-00.20.05:623][ 15]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.05:632][ 16]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/individual/forja.fbx]
+[2022.05.13-00.20.05:639][ 16]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/individual/forja.fbx
+[2022.05.13-00.20.05:645][ 16]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.05:669][ 16]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/individual/forja.forja
+[2022.05.13-00.20.05:677][ 16]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.05:687][ 17]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/individual/RoofTile.fbx]
+[2022.05.13-00.20.05:698][ 17]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/individual/RoofTile.fbx
+[2022.05.13-00.20.05:705][ 17]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.05:715][ 17]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/individual/RoofTile.RoofTile
+[2022.05.13-00.20.05:722][ 17]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.05:799][ 18]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_100x100.fbx]
+[2022.05.13-00.20.05:806][ 18]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_100x100.fbx
+[2022.05.13-00.20.05:813][ 18]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.05:864][ 18]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/roof/roof_100x100_.roof_100x100_
+[2022.05.13-00.20.05:877][ 18]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.05:893][ 19]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/Roof_45_A.fbx]
+[2022.05.13-00.20.05:901][ 19]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/Roof_45_A.fbx
+[2022.05.13-00.20.05:908][ 19]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.05:935][ 19]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/roof/Roof_45_A.Roof_45_A
+[2022.05.13-00.20.05:944][ 19]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.05:955][ 20]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/Roof_45_B.fbx]
+[2022.05.13-00.20.05:962][ 20]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/Roof_45_B.fbx
+[2022.05.13-00.20.05:968][ 20]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.05:997][ 20]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/roof/Roof_45_B.Roof_45_B
+[2022.05.13-00.20.06:006][ 20]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.06:018][ 21]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_100x100.fbx]
+[2022.05.13-00.20.06:025][ 21]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_100x100.fbx
+[2022.05.13-00.20.06:030][ 21]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.06:036][ 21]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/roof/roof_simple_100x100.roof_simple_100x100
+[2022.05.13-00.20.06:041][ 21]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.06:051][ 22]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_100x200.fbx]
+[2022.05.13-00.20.06:058][ 22]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_100x200.fbx
+[2022.05.13-00.20.06:063][ 22]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.06:069][ 22]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/roof/roof_simple_100x200.roof_simple_100x200
+[2022.05.13-00.20.06:075][ 22]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.06:085][ 23]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_100x300.fbx]
+[2022.05.13-00.20.06:092][ 23]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_100x300.fbx
+[2022.05.13-00.20.06:099][ 23]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.06:105][ 23]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/roof/roof_simple_100x300.roof_simple_100x300
+[2022.05.13-00.20.06:112][ 23]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.06:121][ 24]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_200x100.fbx]
+[2022.05.13-00.20.06:129][ 24]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_200x100.fbx
+[2022.05.13-00.20.06:134][ 24]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.06:141][ 24]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/roof/roof_simple_200x100.roof_simple_200x100
+[2022.05.13-00.20.06:148][ 24]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.06:159][ 25]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_200x200.fbx]
+[2022.05.13-00.20.06:166][ 25]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_200x200.fbx
+[2022.05.13-00.20.06:172][ 25]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.06:178][ 25]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/roof/roof_simple_200x200.roof_simple_200x200
+[2022.05.13-00.20.06:184][ 25]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.06:194][ 26]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_200x300.fbx]
+[2022.05.13-00.20.06:202][ 26]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_200x300.fbx
+[2022.05.13-00.20.06:209][ 26]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.06:215][ 26]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/roof/roof_simple_200x300.roof_simple_200x300
+[2022.05.13-00.20.06:221][ 26]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.06:232][ 27]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_300x100.fbx]
+[2022.05.13-00.20.06:239][ 27]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_300x100.fbx
+[2022.05.13-00.20.06:245][ 27]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.06:251][ 27]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/roof/roof_simple_300x100.roof_simple_300x100
+[2022.05.13-00.20.06:258][ 27]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.06:269][ 28]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_300x200.fbx]
+[2022.05.13-00.20.06:278][ 28]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_300x200.fbx
+[2022.05.13-00.20.06:284][ 28]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.06:289][ 28]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/roof/roof_simple_300x200.roof_simple_300x200
+[2022.05.13-00.20.06:296][ 28]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.06:305][ 29]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_300x300.fbx]
+[2022.05.13-00.20.06:313][ 29]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_300x300.fbx
+[2022.05.13-00.20.06:320][ 29]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.06:325][ 29]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/roof/roof_simple_300x300.roof_simple_300x300
+[2022.05.13-00.20.06:333][ 29]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.06:341][ 30]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_100x100.fbx]
+[2022.05.13-00.20.06:348][ 30]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_100x100.fbx
+[2022.05.13-00.20.06:354][ 30]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.06:361][ 30]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Walls/Wall_100x100.Wall_100x100
+[2022.05.13-00.20.06:364][ 30]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.06:376][ 31]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_100x200.fbx]
+[2022.05.13-00.20.06:384][ 31]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_100x200.fbx
+[2022.05.13-00.20.06:389][ 31]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.06:397][ 31]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Walls/Wall_100x200.Wall_100x200
+[2022.05.13-00.20.06:401][ 31]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.06:411][ 32]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_100x300.fbx]
+[2022.05.13-00.20.06:418][ 32]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_100x300.fbx
+[2022.05.13-00.20.06:424][ 32]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.06:432][ 32]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Walls/Wall_100x300.Wall_100x300
+[2022.05.13-00.20.06:436][ 32]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.06:446][ 33]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_200x100.fbx]
+[2022.05.13-00.20.06:454][ 33]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_200x100.fbx
+[2022.05.13-00.20.06:460][ 33]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.06:468][ 33]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Walls/Wall_200x100.Wall_200x100
+[2022.05.13-00.20.06:472][ 33]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.06:482][ 34]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_200x200.fbx]
+[2022.05.13-00.20.06:489][ 34]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_200x200.fbx
+[2022.05.13-00.20.06:495][ 34]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.06:506][ 34]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Walls/Wall_200x200.Wall_200x200
+[2022.05.13-00.20.06:510][ 34]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.06:519][ 35]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_200x300.fbx]
+[2022.05.13-00.20.06:526][ 35]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_200x300.fbx
+[2022.05.13-00.20.06:533][ 35]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.06:541][ 35]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Walls/Wall_200x300.Wall_200x300
+[2022.05.13-00.20.06:545][ 35]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.06:555][ 36]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_300x100.fbx]
+[2022.05.13-00.20.06:563][ 36]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_300x100.fbx
+[2022.05.13-00.20.06:569][ 36]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.06:579][ 36]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Walls/Wall_300x100.Wall_300x100
+[2022.05.13-00.20.06:583][ 36]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.06:593][ 37]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_300x200.fbx]
+[2022.05.13-00.20.06:601][ 37]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_300x200.fbx
+[2022.05.13-00.20.06:606][ 37]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.06:614][ 37]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Walls/Wall_300x200.Wall_300x200
+[2022.05.13-00.20.06:617][ 37]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.06:627][ 38]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_300x300.fbx]
+[2022.05.13-00.20.06:634][ 38]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_300x300.fbx
+[2022.05.13-00.20.06:640][ 38]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.06:650][ 38]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Walls/Wall_300x300.Wall_300x300
+[2022.05.13-00.20.06:655][ 38]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.06:663][ 39]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_45_A.fbx]
+[2022.05.13-00.20.06:670][ 39]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_45_A.fbx
+[2022.05.13-00.20.06:676][ 39]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.06:682][ 39]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Walls/Wall_45_A.Wall_45_A
+[2022.05.13-00.20.06:686][ 39]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.06:695][ 40]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_45_B.fbx]
+[2022.05.13-00.20.06:702][ 40]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_45_B.fbx
+[2022.05.13-00.20.06:708][ 40]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.06:713][ 40]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Walls/Wall_45_B.Wall_45_B
+[2022.05.13-00.20.06:717][ 40]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.06:725][ 41]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_Trim_100x100.fbx]
+[2022.05.13-00.20.06:733][ 41]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_Trim_100x100.fbx
+[2022.05.13-00.20.06:739][ 41]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.06:746][ 41]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Walls/Wall_Trim_100x100.Wall_Trim_100x100
+[2022.05.13-00.20.06:753][ 41]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.06:764][ 42]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_Trim_100x200.fbx]
+[2022.05.13-00.20.06:772][ 42]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_Trim_100x200.fbx
+[2022.05.13-00.20.06:780][ 42]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.06:787][ 42]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Walls/Wall_Trim_100x200.Wall_Trim_100x200
+[2022.05.13-00.20.06:793][ 42]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.06:802][ 43]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_Trim_300x300.fbx]
+[2022.05.13-00.20.06:809][ 43]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_Trim_300x300.fbx
+[2022.05.13-00.20.06:816][ 43]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.06:823][ 43]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Walls/Wall_Trim_300x300.Wall_Trim_300x300
+[2022.05.13-00.20.06:830][ 43]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.06:841][ 44]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/windows/window_L.fbx]
+[2022.05.13-00.20.06:848][ 44]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/windows/window_L.fbx
+[2022.05.13-00.20.06:854][ 44]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.06:871][ 44]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/windows/window_L.window_L
+[2022.05.13-00.20.06:878][ 44]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.06:889][ 45]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/windows/window_M.fbx]
+[2022.05.13-00.20.06:896][ 45]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/windows/window_M.fbx
+[2022.05.13-00.20.06:903][ 45]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.06:918][ 45]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/windows/window_M.window_M
+[2022.05.13-00.20.06:925][ 45]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.06:936][ 46]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/windows/window_S.fbx]
+[2022.05.13-00.20.06:944][ 46]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/windows/window_S.fbx
+[2022.05.13-00.20.06:950][ 46]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.06:964][ 46]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/windows/window_S.window_S
+[2022.05.13-00.20.06:973][ 46]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.06:981][ 47]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/windows/window_XL.fbx]
+[2022.05.13-00.20.06:987][ 47]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/windows/window_XL.fbx
+[2022.05.13-00.20.06:994][ 47]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.07:012][ 47]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/windows/window_XL.window_XL
+[2022.05.13-00.20.07:020][ 47]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.07:031][ 48]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/windows/window_XXL.fbx]
+[2022.05.13-00.20.07:039][ 48]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/windows/window_XXL.fbx
+[2022.05.13-00.20.07:045][ 48]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.07:064][ 48]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/windows/window_XXL.window_XXL
+[2022.05.13-00.20.07:072][ 48]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.07:083][ 49]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/simple/Beam_100_B.fbx]
+[2022.05.13-00.20.07:091][ 49]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/simple/Beam_100_B.fbx
+[2022.05.13-00.20.07:097][ 49]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.07:107][ 49]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Beams/simple/Beam_100_B.Beam_100_B
+[2022.05.13-00.20.07:115][ 49]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.07:125][ 50]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/simple/Beam_200_B.fbx]
+[2022.05.13-00.20.07:142][ 50]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/simple/Beam_200_B.fbx
+[2022.05.13-00.20.07:152][ 50]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.07:158][ 50]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Beams/simple/Beam_200_B.Beam_200_B
+[2022.05.13-00.20.07:164][ 50]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.07:173][ 51]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/simple/Beam_250_B.fbx]
+[2022.05.13-00.20.07:181][ 51]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/simple/Beam_250_B.fbx
+[2022.05.13-00.20.07:186][ 51]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.07:192][ 51]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Beams/simple/Beam_250_B.Beam_250_B
+[2022.05.13-00.20.07:198][ 51]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.07:208][ 52]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/simple/Beam_300_B.fbx]
+[2022.05.13-00.20.07:216][ 52]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/simple/Beam_300_B.fbx
+[2022.05.13-00.20.07:221][ 52]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.07:227][ 52]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Beams/simple/Beam_300_B.Beam_300_B
+[2022.05.13-00.20.07:235][ 52]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.07:245][ 53]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/simple/Beam_350_B.fbx]
+[2022.05.13-00.20.07:252][ 53]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/simple/Beam_350_B.fbx
+[2022.05.13-00.20.07:261][ 53]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.20.07:267][ 53]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Beams/simple/Beam_350_B.Beam_350_B
+[2022.05.13-00.20.07:273][ 53]LogEditorFactories: -- imported successfully
+[2022.05.13-00.20.07:409][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/moodboard" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/moodboard.uasset" SILENT=true
+[2022.05.13-00.20.07:413][ 54]LogPackageLocalizationCache: Processed 28 localized package path(s) for 1 prioritized culture(s) in 0.003886 seconds
+[2022.05.13-00.20.07:942][ 54]LogSavePackage: Moving output files for package: /Game/moodboard
+[2022.05.13-00.20.07:942][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/moodboardADC1E4484344AFA4967E07B09F57C34A.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/moodboard.uasset'
+[2022.05.13-00.20.07:985][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Balcony" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Balcony.uasset" SILENT=true
+[2022.05.13-00.20.08:003][ 54]LogSavePackage: Moving output files for package: /Game/Assets/Balcony
+[2022.05.13-00.20.08:004][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/BalconyB7B595AE43859FB36428C99898790EC1.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Balcony.uasset'
+[2022.05.13-00.20.08:017][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Door" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Door.uasset" SILENT=true
+[2022.05.13-00.20.08:021][ 54]LogSavePackage: Moving output files for package: /Game/Assets/Door
+[2022.05.13-00.20.08:022][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Door4A52C12C494069258A535AA411EE6140.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Door.uasset'
+[2022.05.13-00.20.08:030][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/fence" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/fence.uasset" SILENT=true
+[2022.05.13-00.20.08:033][ 54]LogSavePackage: Moving output files for package: /Game/Assets/fence
+[2022.05.13-00.20.08:034][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/fenceA5419FFD405E01C373D66EB3FDA7786A.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/fence.uasset'
+[2022.05.13-00.20.08:042][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Beams/Beam_100" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/Beam_100.uasset" SILENT=true
+[2022.05.13-00.20.08:045][ 54]LogSavePackage: Moving output files for package: /Game/Assets/Beams/Beam_100
+[2022.05.13-00.20.08:046][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Beam_10099EDF5284328D0D5EB8F0E8DA591A951.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/Beam_100.uasset'
+[2022.05.13-00.20.08:054][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Beams/Beam_200" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/Beam_200.uasset" SILENT=true
+[2022.05.13-00.20.08:057][ 54]LogSavePackage: Moving output files for package: /Game/Assets/Beams/Beam_200
+[2022.05.13-00.20.08:058][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Beam_200D8F34D0341ACED18EF0393A9FE131ADB.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/Beam_200.uasset'
+[2022.05.13-00.20.08:066][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Beams/Beam_250" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/Beam_250.uasset" SILENT=true
+[2022.05.13-00.20.08:069][ 54]LogSavePackage: Moving output files for package: /Game/Assets/Beams/Beam_250
+[2022.05.13-00.20.08:069][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Beam_2501F91846F42CA7E6F0F92CF87120B6FF5.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/Beam_250.uasset'
+[2022.05.13-00.20.08:077][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Beams/Beam_300" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/Beam_300.uasset" SILENT=true
+[2022.05.13-00.20.08:080][ 54]LogSavePackage: Moving output files for package: /Game/Assets/Beams/Beam_300
+[2022.05.13-00.20.08:081][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Beam_3007D56FA794EB1AD12D9A0F5A987162A27.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/Beam_300.uasset'
+[2022.05.13-00.20.08:088][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Beams/Beam_350" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/Beam_350.uasset" SILENT=true
+[2022.05.13-00.20.08:091][ 54]LogSavePackage: Moving output files for package: /Game/Assets/Beams/Beam_350
+[2022.05.13-00.20.08:092][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Beam_35063DA097E4CB5546AA0B4BEB16A749C20.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/Beam_350.uasset'
+[2022.05.13-00.20.08:100][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/individual/anvil" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/individual/anvil.uasset" SILENT=true
+[2022.05.13-00.20.08:103][ 54]LogSavePackage: Moving output files for package: /Game/Assets/individual/anvil
+[2022.05.13-00.20.08:104][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/anvil010B482E4863808CBFFC3488608D7759.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/individual/anvil.uasset'
+[2022.05.13-00.20.08:111][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/individual/forja" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/individual/forja.uasset" SILENT=true
+[2022.05.13-00.20.08:114][ 54]LogSavePackage: Moving output files for package: /Game/Assets/individual/forja
+[2022.05.13-00.20.08:115][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/forjaFDC5EFE54B6D1EB1D0096788BBD9D640.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/individual/forja.uasset'
+[2022.05.13-00.20.08:123][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/individual/RoofTile" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/individual/RoofTile.uasset" SILENT=true
+[2022.05.13-00.20.08:126][ 54]LogSavePackage: Moving output files for package: /Game/Assets/individual/RoofTile
+[2022.05.13-00.20.08:127][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/RoofTileEB92DACF491CD850AA27568B4465AD1C.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/individual/RoofTile.uasset'
+[2022.05.13-00.20.08:135][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/roof/roof_100x100_" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_100x100_.uasset" SILENT=true
+[2022.05.13-00.20.08:141][ 54]LogSavePackage: Moving output files for package: /Game/Assets/roof/roof_100x100_
+[2022.05.13-00.20.08:142][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/roof_100x100_DA69D71D407F3131AF05C4863F512D42.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_100x100_.uasset'
+[2022.05.13-00.20.08:150][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/roof/Roof_45_A" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/Roof_45_A.uasset" SILENT=true
+[2022.05.13-00.20.08:154][ 54]LogSavePackage: Moving output files for package: /Game/Assets/roof/Roof_45_A
+[2022.05.13-00.20.08:154][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Roof_45_AFC572A45426A3D5AC18CF48AE48C002C.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/Roof_45_A.uasset'
+[2022.05.13-00.20.08:162][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/roof/Roof_45_B" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/Roof_45_B.uasset" SILENT=true
+[2022.05.13-00.20.08:166][ 54]LogSavePackage: Moving output files for package: /Game/Assets/roof/Roof_45_B
+[2022.05.13-00.20.08:167][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Roof_45_BAEF207814093B796CBC35CB6227E1785.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/Roof_45_B.uasset'
+[2022.05.13-00.20.08:174][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/roof/roof_simple_100x100" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_100x100.uasset" SILENT=true
+[2022.05.13-00.20.08:177][ 54]LogSavePackage: Moving output files for package: /Game/Assets/roof/roof_simple_100x100
+[2022.05.13-00.20.08:178][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/roof_simple_100x1006C73430843015A412516789E7638EF0C.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_100x100.uasset'
+[2022.05.13-00.20.08:186][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/roof/roof_simple_100x200" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_100x200.uasset" SILENT=true
+[2022.05.13-00.20.08:189][ 54]LogSavePackage: Moving output files for package: /Game/Assets/roof/roof_simple_100x200
+[2022.05.13-00.20.08:189][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/roof_simple_100x2001C86E67F41C03AD4FC5D62AA2E882EC5.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_100x200.uasset'
+[2022.05.13-00.20.08:197][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/roof/roof_simple_100x300" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_100x300.uasset" SILENT=true
+[2022.05.13-00.20.08:200][ 54]LogSavePackage: Moving output files for package: /Game/Assets/roof/roof_simple_100x300
+[2022.05.13-00.20.08:201][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/roof_simple_100x3000C2605824B0E0ED32602E086274D8D29.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_100x300.uasset'
+[2022.05.13-00.20.08:209][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/roof/roof_simple_200x100" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_200x100.uasset" SILENT=true
+[2022.05.13-00.20.08:212][ 54]LogSavePackage: Moving output files for package: /Game/Assets/roof/roof_simple_200x100
+[2022.05.13-00.20.08:212][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/roof_simple_200x100CD9637EA4E08CCC3D220CEB60D6D9DE4.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_200x100.uasset'
+[2022.05.13-00.20.08:220][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/roof/roof_simple_200x200" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_200x200.uasset" SILENT=true
+[2022.05.13-00.20.08:223][ 54]LogSavePackage: Moving output files for package: /Game/Assets/roof/roof_simple_200x200
+[2022.05.13-00.20.08:223][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/roof_simple_200x2007A12BB3341386A8751693CA9CA5F1F58.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_200x200.uasset'
+[2022.05.13-00.20.08:231][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/roof/roof_simple_200x300" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_200x300.uasset" SILENT=true
+[2022.05.13-00.20.08:234][ 54]LogSavePackage: Moving output files for package: /Game/Assets/roof/roof_simple_200x300
+[2022.05.13-00.20.08:235][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/roof_simple_200x300B6A44CF84271ACDE514DB4840B1BFAA4.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_200x300.uasset'
+[2022.05.13-00.20.08:242][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/roof/roof_simple_300x100" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_300x100.uasset" SILENT=true
+[2022.05.13-00.20.08:246][ 54]LogSavePackage: Moving output files for package: /Game/Assets/roof/roof_simple_300x100
+[2022.05.13-00.20.08:246][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/roof_simple_300x1000821323C46919AAA7025DFAA5BC00774.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_300x100.uasset'
+[2022.05.13-00.20.08:255][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/roof/roof_simple_300x200" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_300x200.uasset" SILENT=true
+[2022.05.13-00.20.08:258][ 54]LogSavePackage: Moving output files for package: /Game/Assets/roof/roof_simple_300x200
+[2022.05.13-00.20.08:258][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/roof_simple_300x2000C162FCA4264118A933F8C9197F3570B.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_300x200.uasset'
+[2022.05.13-00.20.08:266][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/roof/roof_simple_300x300" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_300x300.uasset" SILENT=true
+[2022.05.13-00.20.08:269][ 54]LogSavePackage: Moving output files for package: /Game/Assets/roof/roof_simple_300x300
+[2022.05.13-00.20.08:269][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/roof_simple_300x30016451CAE4C0B3F9E43B3238983E29DB4.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_300x300.uasset'
+[2022.05.13-00.20.08:278][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Walls/Wall_100x100" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_100x100.uasset" SILENT=true
+[2022.05.13-00.20.08:280][ 54]LogSavePackage: Moving output files for package: /Game/Assets/Walls/Wall_100x100
+[2022.05.13-00.20.08:281][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Wall_100x1005290B6334D9A6FE3F3B86A862B2951A8.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_100x100.uasset'
+[2022.05.13-00.20.08:289][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Walls/Wall_100x200" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_100x200.uasset" SILENT=true
+[2022.05.13-00.20.08:292][ 54]LogSavePackage: Moving output files for package: /Game/Assets/Walls/Wall_100x200
+[2022.05.13-00.20.08:292][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Wall_100x200E697B95C4DF8BB5FDF919D82915CCE1C.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_100x200.uasset'
+[2022.05.13-00.20.08:300][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Walls/Wall_100x300" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_100x300.uasset" SILENT=true
+[2022.05.13-00.20.08:303][ 54]LogSavePackage: Moving output files for package: /Game/Assets/Walls/Wall_100x300
+[2022.05.13-00.20.08:304][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Wall_100x30096A148814A98BC01DCDAB998D9849DE2.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_100x300.uasset'
+[2022.05.13-00.20.08:311][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Walls/Wall_200x100" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_200x100.uasset" SILENT=true
+[2022.05.13-00.20.08:314][ 54]LogSavePackage: Moving output files for package: /Game/Assets/Walls/Wall_200x100
+[2022.05.13-00.20.08:314][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Wall_200x10052361D6E481474C201E654AEC3AE62A9.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_200x100.uasset'
+[2022.05.13-00.20.08:323][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Walls/Wall_200x200" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_200x200.uasset" SILENT=true
+[2022.05.13-00.20.08:326][ 54]LogSavePackage: Moving output files for package: /Game/Assets/Walls/Wall_200x200
+[2022.05.13-00.20.08:327][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Wall_200x2007294F66E4349E7536246908F964A03A0.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_200x200.uasset'
+[2022.05.13-00.20.08:335][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Walls/Wall_200x300" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_200x300.uasset" SILENT=true
+[2022.05.13-00.20.08:337][ 54]LogSavePackage: Moving output files for package: /Game/Assets/Walls/Wall_200x300
+[2022.05.13-00.20.08:338][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Wall_200x30096DDEA4840CF1ADB443B8195F123C601.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_200x300.uasset'
+[2022.05.13-00.20.08:348][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Walls/Wall_300x100" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_300x100.uasset" SILENT=true
+[2022.05.13-00.20.08:354][ 54]LogSavePackage: Moving output files for package: /Game/Assets/Walls/Wall_300x100
+[2022.05.13-00.20.08:355][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Wall_300x100B88964CA4DB45C1717775AA845E4BEA2.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_300x100.uasset'
+[2022.05.13-00.20.08:363][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Walls/Wall_300x200" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_300x200.uasset" SILENT=true
+[2022.05.13-00.20.08:365][ 54]LogSavePackage: Moving output files for package: /Game/Assets/Walls/Wall_300x200
+[2022.05.13-00.20.08:366][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Wall_300x200F1E0D25F43F586D347D3BEB74E25E45D.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_300x200.uasset'
+[2022.05.13-00.20.08:374][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Walls/Wall_300x300" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_300x300.uasset" SILENT=true
+[2022.05.13-00.20.08:377][ 54]LogSavePackage: Moving output files for package: /Game/Assets/Walls/Wall_300x300
+[2022.05.13-00.20.08:377][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Wall_300x300F39D043048FD85633B4E66A5BACB132D.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_300x300.uasset'
+[2022.05.13-00.20.08:385][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Walls/Wall_45_A" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_45_A.uasset" SILENT=true
+[2022.05.13-00.20.08:388][ 54]LogSavePackage: Moving output files for package: /Game/Assets/Walls/Wall_45_A
+[2022.05.13-00.20.08:388][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Wall_45_A692601C8467D73BA3FE79EA40F753A6D.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_45_A.uasset'
+[2022.05.13-00.20.08:396][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Walls/Wall_45_B" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_45_B.uasset" SILENT=true
+[2022.05.13-00.20.08:399][ 54]LogSavePackage: Moving output files for package: /Game/Assets/Walls/Wall_45_B
+[2022.05.13-00.20.08:400][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Wall_45_B7B9AD73B499CDAF75A3091BEBF6903AC.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_45_B.uasset'
+[2022.05.13-00.20.08:407][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Walls/Wall_Trim_100x100" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_Trim_100x100.uasset" SILENT=true
+[2022.05.13-00.20.08:410][ 54]LogSavePackage: Moving output files for package: /Game/Assets/Walls/Wall_Trim_100x100
+[2022.05.13-00.20.08:411][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Wall_Trim_100x100703431D84F21711C07D8588729D3C81E.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_Trim_100x100.uasset'
+[2022.05.13-00.20.08:419][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Walls/Wall_Trim_100x200" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_Trim_100x200.uasset" SILENT=true
+[2022.05.13-00.20.08:422][ 54]LogSavePackage: Moving output files for package: /Game/Assets/Walls/Wall_Trim_100x200
+[2022.05.13-00.20.08:423][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Wall_Trim_100x20044E9141E4768BBADDDF87AA2B16E9141.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_Trim_100x200.uasset'
+[2022.05.13-00.20.08:431][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Walls/Wall_Trim_300x300" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_Trim_300x300.uasset" SILENT=true
+[2022.05.13-00.20.08:434][ 54]LogSavePackage: Moving output files for package: /Game/Assets/Walls/Wall_Trim_300x300
+[2022.05.13-00.20.08:434][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Wall_Trim_300x300984940C34C2632397284428204001690.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_Trim_300x300.uasset'
+[2022.05.13-00.20.08:442][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/windows/window_L" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/windows/window_L.uasset" SILENT=true
+[2022.05.13-00.20.08:445][ 54]LogSavePackage: Moving output files for package: /Game/Assets/windows/window_L
+[2022.05.13-00.20.08:446][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/window_L3DB3B3FB43D1EDA5A3FAEAB0A8F337CA.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/windows/window_L.uasset'
+[2022.05.13-00.20.08:454][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/windows/window_M" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/windows/window_M.uasset" SILENT=true
+[2022.05.13-00.20.08:457][ 54]LogSavePackage: Moving output files for package: /Game/Assets/windows/window_M
+[2022.05.13-00.20.08:457][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/window_M7E46AA3C4A8110DC42E492872017D843.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/windows/window_M.uasset'
+[2022.05.13-00.20.08:466][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/windows/window_S" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/windows/window_S.uasset" SILENT=true
+[2022.05.13-00.20.08:469][ 54]LogSavePackage: Moving output files for package: /Game/Assets/windows/window_S
+[2022.05.13-00.20.08:469][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/window_S6634863946D1D65181BDDA9C9F4E2456.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/windows/window_S.uasset'
+[2022.05.13-00.20.08:477][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/windows/window_XL" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/windows/window_XL.uasset" SILENT=true
+[2022.05.13-00.20.08:480][ 54]LogSavePackage: Moving output files for package: /Game/Assets/windows/window_XL
+[2022.05.13-00.20.08:481][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/window_XLB54A79CB493E5681654B569361DF470B.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/windows/window_XL.uasset'
+[2022.05.13-00.20.08:489][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/windows/window_XXL" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/windows/window_XXL.uasset" SILENT=true
+[2022.05.13-00.20.08:492][ 54]LogSavePackage: Moving output files for package: /Game/Assets/windows/window_XXL
+[2022.05.13-00.20.08:494][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/window_XXLCDA4F8BC47020050F4324797069E8849.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/windows/window_XXL.uasset'
+[2022.05.13-00.20.08:502][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Beams/simple/Beam_100_B" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/simple/Beam_100_B.uasset" SILENT=true
+[2022.05.13-00.20.08:505][ 54]LogSavePackage: Moving output files for package: /Game/Assets/Beams/simple/Beam_100_B
+[2022.05.13-00.20.08:505][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Beam_100_BA27A839947088CB6708FF3A5F017935B.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/simple/Beam_100_B.uasset'
+[2022.05.13-00.20.08:514][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Beams/simple/Beam_200_B" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/simple/Beam_200_B.uasset" SILENT=true
+[2022.05.13-00.20.08:517][ 54]LogSavePackage: Moving output files for package: /Game/Assets/Beams/simple/Beam_200_B
+[2022.05.13-00.20.08:517][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Beam_200_B32DD3A994102DF43C8DDA7B18F604C28.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/simple/Beam_200_B.uasset'
+[2022.05.13-00.20.08:525][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Beams/simple/Beam_250_B" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/simple/Beam_250_B.uasset" SILENT=true
+[2022.05.13-00.20.08:528][ 54]LogSavePackage: Moving output files for package: /Game/Assets/Beams/simple/Beam_250_B
+[2022.05.13-00.20.08:529][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Beam_250_B0D1976EE4004498B8423348632997D91.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/simple/Beam_250_B.uasset'
+[2022.05.13-00.20.08:537][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Beams/simple/Beam_300_B" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/simple/Beam_300_B.uasset" SILENT=true
+[2022.05.13-00.20.08:540][ 54]LogSavePackage: Moving output files for package: /Game/Assets/Beams/simple/Beam_300_B
+[2022.05.13-00.20.08:541][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Beam_300_B288D932B463E5672DD6CFF9A32548DF8.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/simple/Beam_300_B.uasset'
+[2022.05.13-00.20.08:552][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Beams/simple/Beam_350_B" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/simple/Beam_350_B.uasset" SILENT=true
+[2022.05.13-00.20.08:555][ 54]LogSavePackage: Moving output files for package: /Game/Assets/Beams/simple/Beam_350_B
+[2022.05.13-00.20.08:555][ 54]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Beam_350_BDB99DB864CE6AF7F151567917C300729.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/simple/Beam_350_B.uasset'
+[2022.05.13-00.20.08:589][ 55]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.13-00.20.08:589][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Beams/Beam_100.Beam_100
+[2022.05.13-00.20.08:589][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Beams/Beam_200.Beam_200
+[2022.05.13-00.20.08:589][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Beams/Beam_300.Beam_300
+[2022.05.13-00.20.08:589][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Beams/Beam_350.Beam_350
+[2022.05.13-00.20.08:589][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Door.Door
+[2022.05.13-00.20.08:589][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/fence.fence
+[2022.05.13-00.20.08:589][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/individual/anvil.anvil
+[2022.05.13-00.20.08:589][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/individual/forja.forja
+[2022.05.13-00.20.08:589][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/roof/roof_100x100_.roof_100x100_
+[2022.05.13-00.20.08:589][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Walls/Wall_100x100.Wall_100x100
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Walls/Wall_200x300.Wall_200x300
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Walls/Wall_45_A.Wall_45_A
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Walls/Wall_45_B.Wall_45_B
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Walls/Wall_Trim_100x100.Wall_Trim_100x100
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Walls/Wall_Trim_300x300.Wall_Trim_300x300
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/windows/window_XL.window_XL
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating Texture2D /Game/moodboard.moodboard
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Balcony.Balcony
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Beams/Beam_250.Beam_250
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/individual/RoofTile.RoofTile
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/roof/Roof_45_A.Roof_45_A
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/roof/Roof_45_B.Roof_45_B
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/roof/roof_simple_100x100.roof_simple_100x100
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/roof/roof_simple_100x200.roof_simple_100x200
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/roof/roof_simple_100x300.roof_simple_100x300
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/roof/roof_simple_200x100.roof_simple_200x100
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/roof/roof_simple_200x200.roof_simple_200x200
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/roof/roof_simple_200x300.roof_simple_200x300
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/roof/roof_simple_300x100.roof_simple_300x100
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/roof/roof_simple_300x200.roof_simple_300x200
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/roof/roof_simple_300x300.roof_simple_300x300
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Walls/Wall_100x200.Wall_100x200
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Walls/Wall_100x300.Wall_100x300
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Walls/Wall_200x100.Wall_200x100
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Walls/Wall_200x200.Wall_200x200
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Walls/Wall_300x100.Wall_300x100
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Walls/Wall_300x200.Wall_300x200
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Walls/Wall_300x300.Wall_300x300
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Walls/Wall_Trim_100x200.Wall_Trim_100x200
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/windows/window_L.window_L
+[2022.05.13-00.20.08:590][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/windows/window_M.window_M
+[2022.05.13-00.20.08:591][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/windows/window_S.window_S
+[2022.05.13-00.20.08:591][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/windows/window_XXL.window_XXL
+[2022.05.13-00.20.08:591][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Beams/simple/Beam_100_B.Beam_100_B
+[2022.05.13-00.20.08:591][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Beams/simple/Beam_200_B.Beam_200_B
+[2022.05.13-00.20.08:591][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Beams/simple/Beam_250_B.Beam_250_B
+[2022.05.13-00.20.08:591][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Beams/simple/Beam_300_B.Beam_300_B
+[2022.05.13-00.20.08:591][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Beams/simple/Beam_350_B.Beam_350_B
+[2022.05.13-00.20.11:575][224]AssetReimport: Importing new asset /Game/moodboard.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset Balcony from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Balcony.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset Door from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Door.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset fence from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/fence.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset Beam_100 from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/Beam_100.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset Beam_200 from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/Beam_200.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset Beam_250 from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/Beam_250.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset Beam_300 from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/Beam_300.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset Beam_350 from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/Beam_350.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset anvil from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/individual/anvil.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset forja from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/individual/forja.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset RoofTile from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/individual/RoofTile.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset roof_100x100_ from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_100x100.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset Roof_45_A from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/Roof_45_A.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset Roof_45_B from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/Roof_45_B.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset roof_simple_100x100 from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_100x100.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset roof_simple_100x200 from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_100x200.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset roof_simple_100x300 from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_100x300.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset roof_simple_200x100 from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_200x100.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset roof_simple_200x200 from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_200x200.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset roof_simple_200x300 from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_200x300.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset roof_simple_300x100 from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_300x100.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset roof_simple_300x200 from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_300x200.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset roof_simple_300x300 from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/roof/roof_simple_300x300.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset Wall_100x100 from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_100x100.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset Wall_100x200 from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_100x200.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset Wall_100x300 from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_100x300.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset Wall_200x100 from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_200x100.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset Wall_200x200 from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_200x200.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset Wall_200x300 from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_200x300.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset Wall_300x100 from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_300x100.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset Wall_300x200 from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_300x200.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset Wall_300x300 from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_300x300.fbx.
+[2022.05.13-00.20.11:575][224]AssetReimport: Reimported asset Wall_45_A from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_45_A.fbx.
+[2022.05.13-00.20.11:576][224]AssetReimport: Reimported asset Wall_45_B from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_45_B.fbx.
+[2022.05.13-00.20.11:576][224]AssetReimport: Reimported asset Wall_Trim_100x100 from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_Trim_100x100.fbx.
+[2022.05.13-00.20.11:576][224]AssetReimport: Reimported asset Wall_Trim_100x200 from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_Trim_100x200.fbx.
+[2022.05.13-00.20.11:576][224]AssetReimport: Reimported asset Wall_Trim_300x300 from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Walls/Wall_Trim_300x300.fbx.
+[2022.05.13-00.20.11:576][224]AssetReimport: Reimported asset window_L from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/windows/window_L.fbx.
+[2022.05.13-00.20.11:576][224]AssetReimport: Reimported asset window_M from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/windows/window_M.fbx.
+[2022.05.13-00.20.11:576][224]AssetReimport: Reimported asset window_S from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/windows/window_S.fbx.
+[2022.05.13-00.20.11:576][224]AssetReimport: Reimported asset window_XL from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/windows/window_XL.fbx.
+[2022.05.13-00.20.11:576][224]AssetReimport: Reimported asset window_XXL from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/windows/window_XXL.fbx.
+[2022.05.13-00.20.11:576][224]AssetReimport: Reimported asset Beam_100_B from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/simple/Beam_100_B.fbx.
+[2022.05.13-00.20.11:576][224]AssetReimport: Reimported asset Beam_200_B from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/simple/Beam_200_B.fbx.
+[2022.05.13-00.20.11:576][224]AssetReimport: Reimported asset Beam_250_B from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/simple/Beam_250_B.fbx.
+[2022.05.13-00.20.11:576][224]AssetReimport: Reimported asset Beam_300_B from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/simple/Beam_300_B.fbx.
+[2022.05.13-00.20.11:576][224]AssetReimport: Reimported asset Beam_350_B from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Beams/simple/Beam_350_B.fbx.
+[2022.05.13-00.21.03:003][300]AssetReimport: New page: Outstanding source content changes 4:21:03
+[2022.05.13-00.21.03:007][300]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/moodboard.psd]
+[2022.05.13-00.21.03:055][300]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/moodboard.psd)
+[2022.05.13-00.21.03:132][300]LogEditorFactories: -- imported successfully
+[2022.05.13-00.21.06:340][310]AssetReimport: Reimported asset moodboard from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/moodboard.psd.
+[2022.05.13-00.21.16:342][341]LogDerivedDataCache: C:/Users/PcCom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.807 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.13-00.21.26:368][370]AssetReimport: New page: Outstanding source content changes 4:21:26
+[2022.05.13-00.21.26:428][370]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/TrimSheet/Beam.obj)
+[2022.05.13-00.21.26:582][370]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/TrimSheet/Beam.obj
+[2022.05.13-00.21.32:702][370]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.24.13:309][370]LogSlate: Window 'Opciones de importación de FBX' being destroyed
+[2022.05.13-00.24.23:729][370]LogStaticMesh: Built static mesh [6.70s] /Game/TrimSheet/Beam.Beam
+[2022.05.13-00.24.31:541][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrimSheet/Beam" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/TrimSheet/Beam.uasset" SILENT=true
+[2022.05.13-00.24.32:833][371]LogSavePackage: Moving output files for package: /Game/TrimSheet/Beam
+[2022.05.13-00.24.32:833][371]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/BeamDBFFDB1147E80D1B99D82A8E81250B93.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/TrimSheet/Beam.uasset'
+[2022.05.13-00.24.33:976][372]AssetCheck: New page: Asset Save: Beam
+[2022.05.13-00.24.33:976][372]LogContentValidation: Display: Validating StaticMesh /Game/TrimSheet/Beam.Beam
+[2022.05.13-00.24.33:982][372]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/TrimSheet/trimSheet.obj)
+[2022.05.13-00.24.33:987][372]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/TrimSheet/trimSheet.obj
+[2022.05.13-00.24.34:187][372]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.24.40:018][372]LogSlate: Window 'Opciones de importación de FBX' being destroyed
+[2022.05.13-00.24.40:136][372]LogStaticMesh: Built static mesh [0.01s] /Game/TrimSheet/trimSheet.trimSheet
+[2022.05.13-00.24.40:162][372]LogShaderCompilers: Display: ================================================
+[2022.05.13-00.24.40:162][372]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.13-00.24.40:162][372]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2022.05.13-00.24.40:162][372]LogShaderCompilers: Display: Tracking 3 distinct input hashes that result in 2 distinct outputs (66.67%)
+[2022.05.13-00.24.40:162][372]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.05.13-00.24.40:162][372]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.05.13-00.24.40:162][372]LogShaderCompilers: Display: Shaders Compiled: 2
+[2022.05.13-00.24.40:162][372]LogShaderCompilers: Display: Jobs assigned 4, completed 3 (75.00%)
+[2022.05.13-00.24.40:162][372]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.05.13-00.24.40:162][372]LogShaderCompilers: Display: Time job spent in pending queue: average 2.15 s, longest 8.36 s
+[2022.05.13-00.24.40:162][372]LogShaderCompilers: Display: Job execution time: average 8.29 s, max 8.29 s
+[2022.05.13-00.24.40:173][372]LogShaderCompilers: Display: Job life time (pending + execution): average 8.37 s, max 8.38
+[2022.05.13-00.24.40:173][372]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.38 s
+[2022.05.13-00.24.40:173][372]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.05.13-00.24.40:173][372]LogShaderCompilers: Display: Average processing rate: 0.36 jobs/sec
+[2022.05.13-00.24.40:173][372]LogShaderCompilers: Display: Effective parallelization: 0.77 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2022.05.13-00.24.40:173][372]LogShaderCompilers: Display: Top 3 most expensive shader types by average time:
+[2022.05.13-00.24.40:173][372]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 2.16 sec, max 2.16 sec, min 2.16 sec)
+[2022.05.13-00.24.40:173][372]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 2.15 sec, max 2.15 sec, min 2.15 sec)
+[2022.05.13-00.24.40:173][372]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 2.15 sec, max 2.15 sec, min 2.15 sec)
+[2022.05.13-00.24.40:173][372]LogShaderCompilers: Display: Top 3 shader types by total compile time:
+[2022.05.13-00.24.40:174][372]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 33.37% of total time (compiled    1 times, average 2.16 sec, max 2.16 sec, min 2.16 sec)
+[2022.05.13-00.24.40:174][372]LogShaderCompilers: Display:                                                 FLumenCardVS - 33.33% of total time (compiled    1 times, average 2.15 sec, max 2.15 sec, min 2.15 sec)
+[2022.05.13-00.24.40:174][372]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 33.30% of total time (compiled    1 times, average 2.15 sec, max 2.15 sec, min 2.15 sec)
+[2022.05.13-00.24.40:174][372]LogShaderCompilers: Display: ================================================
+[2022.05.13-00.24.40:203][373]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/TrimSheet/trimSheet.fbx)
+[2022.05.13-00.24.40:203][373]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/TrimSheet/trimSheet.fbx]
+[2022.05.13-00.24.40:211][373]LogFbx: Loading FBX Scene from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/TrimSheet/trimSheet.fbx
+[2022.05.13-00.24.40:216][373]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.13-00.24.40:236][373]LogStaticMesh: Built static mesh [0.01s] /Game/TrimSheet/trimSheet.trimSheet
+[2022.05.13-00.24.59:986][373]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2022.05.13-00.25.00:051][373]LogEditorFactories: -- imported successfully
+[2022.05.13-00.25.00:208][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrimSheet/trimSheet" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/TrimSheet/trimSheet.uasset" SILENT=true
+[2022.05.13-00.25.00:212][374]LogSavePackage: Moving output files for package: /Game/TrimSheet/trimSheet
+[2022.05.13-00.25.00:212][374]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/trimSheetD5411E774FF155143E5CD9B33B67177D.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/TrimSheet/trimSheet.uasset'
+[2022.05.13-00.25.00:213][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrimSheet/trimSheet" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/TrimSheet/trimSheet.uasset" SILENT=true
+[2022.05.13-00.25.00:216][374]LogSavePackage: Moving output files for package: /Game/TrimSheet/trimSheet
+[2022.05.13-00.25.00:216][374]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/trimSheet0425934841EC0B5B147E329D35A08399.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/TrimSheet/trimSheet.uasset'
+[2022.05.13-00.25.00:405][375]AssetCheck: New page: Asset Save: trimSheet
+[2022.05.13-00.25.00:405][375]LogContentValidation: Display: Validating StaticMesh /Game/TrimSheet/trimSheet.trimSheet
+[2022.05.13-00.25.00:413][375]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/window_L_1001_Normal.png)
+[2022.05.13-00.25.00:543][375]LogTexture: Display: Building textures: /Game/Textures/window_L_1001_Normal.window_L_1001_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.13-00.25.00:691][376]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/window_L_1001_MetallicSmoothness.png)
+[2022.05.13-00.25.00:801][376]LogTexture: Display: Building textures: /Game/Textures/window_L_1001_MetallicSmoothness.window_L_1001_MetallicSmoothness (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.13-00.25.00:810][377]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/window_L_1001_AlbedoTransparency.png)
+[2022.05.13-00.25.01:011][378]LogFactory: FactoryCreateFile: DataTable with ReimportDataTableFactory (0 1 F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/wall.json)
+[2022.05.13-00.25.55:179][378]LogSlate: Window 'Opciones de la DataTable' being destroyed
+[2022.05.13-00.25.55:299][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.05.13-00.25.55:311][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.13-00.25.55:363][379]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/Wall_100x100_1001_Normal.png]
+[2022.05.13-00.25.55:369][379]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/Wall_100x100_1001_Normal.png)
+[2022.05.13-00.25.55:489][379]LogEditorFactories: -- imported successfully
+[2022.05.13-00.25.55:632][380]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/Wall_100x100_1001_MetallicSmoothness.png]
+[2022.05.13-00.25.55:632][380]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/Wall_100x100_1001_MetallicSmoothness.png)
+[2022.05.13-00.25.55:682][380]LogEditorFactories: -- imported successfully
+[2022.05.13-00.25.55:738][380]LogTexture: Display: Building textures: /Game/Textures/Wall_100x100_1001_MetallicSmoothness.Wall_100x100_1001_MetallicSmoothness (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.13-00.25.55:801][381]LogEditorFactories: Performing atomic reimport of [F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/Wall_100x100_1001_AlbedoTransparency.png]
+[2022.05.13-00.25.55:807][381]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/Wall_100x100_1001_AlbedoTransparency.png)
+[2022.05.13-00.25.55:932][381]LogEditorFactories: -- imported successfully
+[2022.05.13-00.25.55:967][381]LogTexture: Display: Building textures: /Game/Textures/Wall_100x100_1001_AlbedoTransparency.Wall_100x100_1001_AlbedoTransparency (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.13-00.25.56:092][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/window_L_1001_Normal" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/window_L_1001_Normal.uasset" SILENT=true
+[2022.05.13-00.25.56:518][382]LogSavePackage: Moving output files for package: /Game/Textures/window_L_1001_Normal
+[2022.05.13-00.25.56:518][382]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/window_L_1001_Normal1103182A4AD122A818E22594F043C76A.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/window_L_1001_Normal.uasset'
+[2022.05.13-00.25.56:521][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/window_L_1001_MetallicSmoothness" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/window_L_1001_MetallicSmoothness.uasset" SILENT=true
+[2022.05.13-00.25.57:016][382]LogSavePackage: Moving output files for package: /Game/Textures/window_L_1001_MetallicSmoothness
+[2022.05.13-00.25.57:016][382]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/window_L_1001_MetallicSmoothnessC67B15084B547AD33CA217A08ABE06CF.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/window_L_1001_MetallicSmoothness.uasset'
+[2022.05.13-00.25.57:018][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/window_L_1001_AlbedoTransparency" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/window_L_1001_AlbedoTransparency.uasset" SILENT=true
+[2022.05.13-00.25.57:393][382]LogSavePackage: Moving output files for package: /Game/Textures/window_L_1001_AlbedoTransparency
+[2022.05.13-00.25.57:393][382]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/window_L_1001_AlbedoTransparency96166D174DF82304913522953DE6640B.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/window_L_1001_AlbedoTransparency.uasset'
+[2022.05.13-00.25.57:395][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Wall_100x100_1001_Normal" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/Wall_100x100_1001_Normal.uasset" SILENT=true
+[2022.05.13-00.25.57:920][382]LogSavePackage: Moving output files for package: /Game/Textures/Wall_100x100_1001_Normal
+[2022.05.13-00.25.57:921][382]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Wall_100x100_1001_Normal724AB57749DC00D2F70E9BB059B4A042.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/Wall_100x100_1001_Normal.uasset'
+[2022.05.13-00.25.58:052][382]LogSavePackage: Moving output files for package: /Game/Textures/Wall_100x100_1001_MetallicSmoothness
+[2022.05.13-00.25.58:053][382]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Wall_100x100_1001_MetallicSmoothA5F9CED142069622295119BDE96027AE.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/Wall_100x100_1001_MetallicSmoothness.uasset'
+[2022.05.13-00.25.58:527][382]LogSavePackage: Moving output files for package: /Game/Textures/Wall_100x100_1001_AlbedoTransparency
+[2022.05.13-00.25.58:527][382]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Wall_100x100_1001_AlbedoTranspar2E52BB7D4D65DA02D547109D7230FFB3.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/Wall_100x100_1001_AlbedoTransparency.uasset'
+[2022.05.13-00.25.58:552][383]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.13-00.25.58:552][383]LogContentValidation: Display: Validating Texture2D /Game/Textures/Wall_100x100_1001_AlbedoTransparency.Wall_100x100_1001_AlbedoTransparency
+[2022.05.13-00.25.58:552][383]LogContentValidation: Display: Validating Texture2D /Game/Textures/window_L_1001_Normal.window_L_1001_Normal
+[2022.05.13-00.25.58:552][383]LogContentValidation: Display: Validating Texture2D /Game/Textures/window_L_1001_MetallicSmoothness.window_L_1001_MetallicSmoothness
+[2022.05.13-00.25.58:552][383]LogContentValidation: Display: Validating Texture2D /Game/Textures/Wall_100x100_1001_MetallicSmoothness.Wall_100x100_1001_MetallicSmoothness
+[2022.05.13-00.25.58:552][383]LogContentValidation: Display: Validating Texture2D /Game/Textures/window_L_1001_AlbedoTransparency.window_L_1001_AlbedoTransparency
+[2022.05.13-00.25.58:552][383]LogContentValidation: Display: Validating Texture2D /Game/Textures/Wall_100x100_1001_Normal.Wall_100x100_1001_Normal
+[2022.05.13-00.26.01:544][538]AssetReimport: Importing new asset /Game/TrimSheet/Beam.
+[2022.05.13-00.26.01:544][538]AssetReimport: Importing new asset /Game/TrimSheet/trimSheet.
+[2022.05.13-00.26.01:544][538]AssetReimport: Importing new asset /Game/TrimSheet/trimSheet.
+[2022.05.13-00.26.01:544][538]AssetReimport: Importing new asset /Game/Textures/window_L_1001_Normal.
+[2022.05.13-00.26.01:544][538]AssetReimport: Importing new asset /Game/Textures/window_L_1001_MetallicSmoothness.
+[2022.05.13-00.26.01:544][538]AssetReimport: Importing new asset /Game/Textures/window_L_1001_AlbedoTransparency.
+[2022.05.13-00.26.01:544][538]AssetReimport: Importing new asset /Game/Textures/wall.
+[2022.05.13-00.26.01:544][538]AssetReimport: Failed to import file F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/wall.json.
+[2022.05.13-00.26.01:544][538]AssetReimport: Reimported asset Wall_100x100_1001_Normal from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/Wall_100x100_1001_Normal.png.
+[2022.05.13-00.26.01:544][538]AssetReimport: Reimported asset Wall_100x100_1001_MetallicSmoothness from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/Wall_100x100_1001_MetallicSmoothness.png.
+[2022.05.13-00.26.01:544][538]AssetReimport: Reimported asset Wall_100x100_1001_AlbedoTransparency from F:/UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/Wall_100x100_1001_AlbedoTransparency.png.
+[2022.05.13-00.26.45:159][ 81]LogContentBrowser: Deferred new asset folder creation: Carpeta nueva
+[2022.05.13-00.26.45:168][ 81]LogContentBrowser: Creating deferred item: Carpeta nueva
+[2022.05.13-00.26.45:176][ 82]LogContentBrowser: Renaming the item being created (Deferred Item: Carpeta nueva).
+[2022.05.13-00.26.52:828][512]LogContentBrowser: Attempting asset rename: Carpeta nueva -> Carpeta nueva
+[2022.05.13-00.26.52:828][512]LogContentBrowser: End creating deferred item Carpeta nueva
+[2022.05.13-00.27.00:075][885]LogSlate: Window 'Create Pose Asset' being destroyed
+[2022.05.13-00.27.02:636][103]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.05.13-00.27.02:643][103]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.05.13-00.27.02:652][104]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2022.05.13-00.27.09:020][458]LogContentBrowser: Attempting asset rename: NewMaterial -> Beams
+[2022.05.13-00.27.09:022][458]LogContentBrowser: End creating deferred item NewMaterial
+[2022.05.13-00.27.11:972][608]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Textures/Beams.Beams
+[2022.05.13-00.27.12:066][608]LogMaterial: Display: Missing cached shadermap for Preview:Beams in PCD3D_SM5, Default, SM5 (DDC key hash: 6CCD474C97C67002537E3FF2EBC99CEAE29949D0), compiling. 
+[2022.05.13-00.27.12:218][608]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.13-00.27.12:414][608]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2022.05.13-00.27.12:498][608]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2022.05.13-00.27.13:250][608]LogMaterial: Display: Missing cached shadermap for Preview:Beams in PCD3D_SM5, Default, SM5 (DDC key hash: 962DA5703D75DAEF09B24E0513D0E1875DB67B18), compiling. 
+[2022.05.13-00.27.13:291][608]LogMaterial: Display: Missing cached shadermap for Preview:Beams in PCD3D_SM5, Default, SM5 (DDC key hash: 9D9DB2448C57EC80FC52780B9840109DED619E58), compiling. 
+[2022.05.13-00.27.13:341][608]MaterialEditorStats: Texture samplers: 0/16
+[2022.05.13-00.27.13:341][608]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.05.13-00.27.13:341][608]MaterialEditorStats: Shader Count: 0
+[2022.05.13-00.27.13:381][608]LogSlate: Took 0.024137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.05.13-00.27.16:024][610]MaterialEditorStats: Texture samplers: 2/16
+[2022.05.13-00.27.16:024][610]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.05.13-00.27.16:024][610]MaterialEditorStats: Shader Count: 4
+[2022.05.13-00.27.20:447][775]LogMaterial: Display: Missing cached shadermap for Preview:Beams in PCD3D_SM5, Default, SM5 (DDC key hash: 218807D4C28F59BDE4ACBD08BF34DF584952056B), compiling. 
+[2022.05.13-00.27.20:450][775]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DB1B143DEDAC1C20BC4ACFE51FCAEEB18E876993), compiling. 
+[2022.05.13-00.27.20:481][775]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1DD9DCD213B386F4DEDA4D9AFD48C4BEE1A42671), compiling. 
+[2022.05.13-00.27.20:491][775]LogMaterial: Display: Missing cached shadermap for Preview:Beams in PCD3D_SM5, Default, SM5 (DDC key hash: 3C1C4C253068AB26D2512EF0A50562B666672694), compiling. 
+[2022.05.13-00.27.20:494][775]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3E978E4A475B7C74F76BB489F46425752EA2F588), compiling. 
+[2022.05.13-00.27.20:496][775]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E15D5F821B6EDB1AA29563612DD276ED625F90D8), compiling. 
+[2022.05.13-00.27.20:498][775]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 9FF037FF5115D6A58D9F059E2F5C8AB215C43D76), compiling. 
+[2022.05.13-00.27.20:509][775]LogMaterial: Display: Missing cached shadermap for Preview:Beams in PCD3D_SM5, Default, SM5 (DDC key hash: 51BC46A4AF11BE93C16DC326DF2243409546C121), compiling. 
+[2022.05.13-00.27.20:512][775]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 35E88BEB348D3DD5515B6613FC6F911A18A3AC01), compiling. 
+[2022.05.13-00.27.20:514][775]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E664ECBA4EBB7ABE0A415F178A6552D68627D77F), compiling. 
+[2022.05.13-00.27.20:515][775]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 62EB10B212E421147FBF90CFA6A977EF1B313B6E), compiling. 
+[2022.05.13-00.27.20:517][775]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9E814C0501A4D9F4291183D4EA371E9806A9D0F7), compiling. 
+[2022.05.13-00.27.20:532][775]MaterialEditorStats: Texture samplers: 0/16
+[2022.05.13-00.27.20:532][775]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.05.13-00.27.20:533][775]MaterialEditorStats: Shader Count: 0
+[2022.05.13-00.27.20:720][778]MaterialEditorStats: Texture samplers: 2/16
+[2022.05.13-00.27.20:720][778]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.05.13-00.27.20:720][778]MaterialEditorStats: Shader Count: 4
+[2022.05.13-00.27.27:549][258]LogMaterial: Display: Missing cached shadermap for Preview:Beams in PCD3D_SM5, Default, SM5 (DDC key hash: FE9D3D4BC748A55504D45F6ABFF5C5A1DE3963C3), compiling. 
+[2022.05.13-00.27.27:564][258]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 34F01D362BA68694DF1AACC99861D5A8C0EC0BAE), compiling. 
+[2022.05.13-00.27.27:570][258]MaterialEditorStats: Texture samplers: 0/16
+[2022.05.13-00.27.27:570][258]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.05.13-00.27.27:570][258]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.13-00.27.27:570][258]MaterialEditorStats: Shader Count: 0
+[2022.05.13-00.27.30:155][411]MaterialEditorStats: Texture samplers: 3/16
+[2022.05.13-00.27.30:155][411]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.05.13-00.27.30:155][411]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.13-00.27.30:155][411]MaterialEditorStats: Shader Count: 2
+[2022.05.13-00.27.31:250][493]LogMaterial: Display: Missing cached shadermap for Preview:Beams in PCD3D_SM5, Default, SM5 (DDC key hash: F935FDB729391D522CC307F621567D51A71671D1), compiling. 
+[2022.05.13-00.27.31:252][493]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 631DC59C7700B3EB68DE8AF8D0C184F198751377), compiling. 
+[2022.05.13-00.27.31:256][493]MaterialEditorStats: Texture samplers: 0/16
+[2022.05.13-00.27.31:256][493]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.05.13-00.27.31:256][493]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.13-00.27.31:256][493]MaterialEditorStats: Shader Count: 0
+[2022.05.13-00.27.33:227][623]LogMaterial: Display: Missing cached shadermap for Preview:Beams in PCD3D_SM5, Default, SM5 (DDC key hash: 2181A01BB77ADC71848BE4C4543F1447278F0953), compiling. 
+[2022.05.13-00.27.33:230][623]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: D92A7B9E62B64923FE8C52E2157BF80AE2EEADC5), compiling. 
+[2022.05.13-00.27.33:235][623]MaterialEditorStats: Texture samplers: 0/16
+[2022.05.13-00.27.33:235][623]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.05.13-00.27.33:235][623]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.13-00.27.33:235][623]MaterialEditorStats: Shader Count: 0
+[2022.05.13-00.27.37:027][878]MaterialEditorStats: Texture samplers: 5/16
+[2022.05.13-00.27.37:027][878]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.05.13-00.27.37:028][878]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.13-00.27.37:028][878]MaterialEditorStats: Shader Count: 4
+[2022.05.13-00.27.48:965][745]LogMaterialEditor: Saving and Compiling material Beams
+[2022.05.13-00.27.52:097][745]LogMaterial: Display: Missing cached shadermap for Preview:Beams in PCD3D_SM5, Default, SM5 (DDC key hash: 129DBF41DD82D9C7F2792879268199F2CD32B98A), compiling. 
+[2022.05.13-00.27.52:155][745]LogMaterial: Display: Missing cached shadermap for Beams in PCD3D_SM5, Default, SM5 (DDC key hash: B7BE8BD8400372CEE8E9115560E33F397245CE3A), compiling. 
+[2022.05.13-00.27.52:271][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.13-00.27.52:462][745]LogShaderCompilers: Display: ================================================
+[2022.05.13-00.27.52:462][745]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.13-00.27.52:462][745]LogShaderCompilers: Display: Total job queries 77, among them cache hits 34 (44.16%)
+[2022.05.13-00.27.52:462][745]LogShaderCompilers: Display: Tracking 25 distinct input hashes that result in 14 distinct outputs (56.00%)
+[2022.05.13-00.27.52:463][745]LogShaderCompilers: Display: RAM used: 0.03 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.05.13-00.27.52:463][745]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.05.13-00.27.52:463][745]LogShaderCompilers: Display: Shaders Compiled: 25
+[2022.05.13-00.27.52:463][745]LogShaderCompilers: Display: Jobs assigned 27, completed 25 (92.59%)
+[2022.05.13-00.27.52:463][745]LogShaderCompilers: Display: Average time worker was idle: 21.76 s
+[2022.05.13-00.27.52:463][745]LogShaderCompilers: Display: Time job spent in pending queue: average 0.93 s, longest 8.36 s
+[2022.05.13-00.27.52:463][745]LogShaderCompilers: Display: Job execution time: average 2.57 s, max 8.29 s
+[2022.05.13-00.27.52:463][745]LogShaderCompilers: Display: Job life time (pending + execution): average 3.57 s, max 8.87
+[2022.05.13-00.27.52:463][745]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 23.23 s
+[2022.05.13-00.27.52:463][745]LogShaderCompilers: Display: Jobs were issued in 26 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.05.13-00.27.52:463][745]LogShaderCompilers: Display: Average processing rate: 1.08 jobs/sec
+[2022.05.13-00.27.52:463][745]LogShaderCompilers: Display: Effective parallelization: 1.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2022.05.13-00.27.52:463][745]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2022.05.13-00.27.52:463][745]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    8 times, average 1.98 sec, max 2.35 sec, min 0.74 sec)
+[2022.05.13-00.27.52:463][745]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    5 times, average 1.89 sec, max 2.24 sec, min 0.78 sec)
+[2022.05.13-00.27.52:463][745]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 1.78 sec, max 2.28 sec, min 0.80 sec)
+[2022.05.13-00.27.52:463][745]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    4 times, average 0.43 sec, max 0.53 sec, min 0.27 sec)
+[2022.05.13-00.27.52:463][745]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2022.05.13-00.27.52:463][745]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 38.41% of total time (compiled    8 times, average 1.98 sec, max 2.35 sec, min 0.74 sec)
+[2022.05.13-00.27.52:463][745]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 34.48% of total time (compiled    8 times, average 1.78 sec, max 2.28 sec, min 0.80 sec)
+[2022.05.13-00.27.52:463][745]LogShaderCompilers: Display:                                                 FLumenCardVS - 22.96% of total time (compiled    5 times, average 1.89 sec, max 2.24 sec, min 0.78 sec)
+[2022.05.13-00.27.52:463][745]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.14% of total time (compiled    4 times, average 0.43 sec, max 0.53 sec, min 0.27 sec)
+[2022.05.13-00.27.52:463][745]LogShaderCompilers: Display: ================================================
+[2022.05.13-00.27.53:541][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
