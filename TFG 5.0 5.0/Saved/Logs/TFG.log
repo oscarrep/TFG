@@ -2961,3 +2961,1491 @@ Beam_100_B1629
 [2022.09.01-22.52.01:815][755]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/TFG_Map87A7169044701B294E291FB3AA07F92D.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/TFG_Map.umap'
 [2022.09.01-22.52.01:859][755]AssetCheck: New page: Asset Save: TFG_Map
 [2022.09.01-22.52.01:859][755]LogContentValidation: Display: Validating World /Game/Assets/TFG_Map.TFG_Map
+[2022.09.01-22.52.53:365][ 38]Cmd: DELETE
+[2022.09.01-22.52.53:365][ 38]Cmd: ACTOR DELETE
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x200x30_Blueprint72.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint39.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint93.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Fence_300x100_Blueprint29.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Fence_300x100_Blueprint30.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint95.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint96.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x200x30_Blueprint81.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint100.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint105.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint109.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint57.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint110.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_Window_Blueprint27.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint111.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_DoorFrame_300x300_Blueprint5.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_Window_Blueprint28.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint112.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint113.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint58.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_200x300_Blueprint20.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_200x300_Blueprint21.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint114.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint59.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint108.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_Window_Blueprint29.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint115.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint60.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint116.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint117.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_200x300_Blueprint23.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint61.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint153.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint203.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint271.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint275.
+[2022.09.01-22.52.53:410][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint277.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_200x300_Blueprint56.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_200x300_Blueprint57.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_DoorFrame_Blueprint10.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint278.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint279.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint280.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_Window_Blueprint59.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_Window_Blueprint60.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint91.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint93.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_Window_Blueprint30.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint272.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint95.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint273.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint274.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_200x300_Blueprint58.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint256.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint281.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint282.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint259.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint260.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint261.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint262.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint263.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint264.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint265.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint266.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint267.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_200x300_Blueprint59.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint268.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by B_Tool_RampMakerControl_BGM25.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint269.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Roof_Wall_2_Blueprint8.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint270.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint271.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint272.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint273.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint274.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint275.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint276.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint277.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_200x200_Blueprint23.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_200x200_Blueprint24.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_200x200_Blueprint25.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x200x30_Blueprint147.
+[2022.09.01-22.52.53:411][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint280.
+[2022.09.01-22.52.53:412][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint286.
+[2022.09.01-22.52.53:412][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint281.
+[2022.09.01-22.52.53:412][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint287.
+[2022.09.01-22.52.53:412][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint282.
+[2022.09.01-22.52.53:412][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint288.
+[2022.09.01-22.52.53:412][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint283.
+[2022.09.01-22.52.53:412][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint289.
+[2022.09.01-22.52.53:412][ 38]LogEditorActor: Actor GroupActor24 is referenced by Beam_30x300x30_Blueprint290.
+[2022.09.01-22.52.53:412][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint290.
+[2022.09.01-22.52.53:412][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint291.
+[2022.09.01-22.52.53:412][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint292.
+[2022.09.01-22.52.53:412][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint293.
+[2022.09.01-22.52.53:412][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint294.
+[2022.09.01-22.52.53:412][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint295.
+[2022.09.01-22.52.53:412][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint296.
+[2022.09.01-22.52.53:412][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint297.
+[2022.09.01-22.52.53:412][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint299.
+[2022.09.01-22.52.53:412][ 38]LogEditorActor: Actor GroupActor24 is referenced by Wall_300x300_Blueprint298.
+[2022.09.01-22.52.53:412][ 38]LogEditorActor: Actor GroupActor24 is referenced by Fence_200x100_Blueprint112.
+[2022.09.01-22.52.55:152][ 38]LogSlate: Window 'Message' being destroyed
+[2022.09.01-22.52.55:156][ 38]Message dialog closed, result: Yes, title: Message, text: Actor GroupActor24 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+Beam_30x200x30_Blueprint72
+Wall_300x300_Blueprint39
+Beam_30x300x30_Blueprint93
+Fence_300x100_Blueprint29
+Fence_300x100_Blueprint30
+Beam_30x300x30_Blueprint95
+Beam_30x300x30_Blueprint96
+Beam_30x200x30_Blueprint81
+Beam_30x300x30_Blueprint100
+Beam_30x300x30_Blueprint105
+Beam_30x300x30_Blueprint109
+Wall_300x300_Blueprint57
+Beam_30x300x30_Blueprint110
+Wall_Window_Blueprint27
+Beam_30x300x30_Blueprint111
+Wall_DoorFrame_300x300_Blueprint5
+Wall_Window_Blueprint28
+Beam_30x300x30_Blueprint112
+Beam_30x300x30_Blueprint113
+Wall_300x300_Blueprint58
+Wall_200x300_Blueprint20
+Wall_200x300_Blueprint21
+Beam_30x300x30_Blueprint114
+Wall_300x300_Blueprint59
+Beam_30x300x30_Blueprint108
+Wall_Window_Blueprint29
+Beam_30x300x30_Blueprint115
+Wall_300x300_Blueprint60
+Beam_30x300x30_Blueprint116
+Beam_30x300x30_Blueprint117
+Wall_200x300_Blueprint23
+Wall_300x300_Blueprint61
+Beam_30x300x30_Blueprint153
+Beam_30x300x30_Blueprint203
+Beam_30x300x30_Blueprint271
+Beam_30x300x30_Blueprint275
+Beam_30x300x30_Blueprint277
+Wall_200x300_Blueprint56
+Wall_200x300_Blueprint57
+Wall_DoorFrame_Blueprint10
+Beam_30x300x30_Blueprint278
+Beam_30x300x30_Blueprint279
+Beam_30x300x30_Blueprint280
+Wall_Window_Blueprint59
+Wall_Window_Blueprint60
+Wall_300x300_Blueprint91
+Wall_300x300_Blueprint93
+Wall_Window_Blueprint30
+Beam_30x300x30_Blueprint272
+Wall_300x300_Blueprint95
+Beam_30x300x30_Blueprint273
+Beam_30x300x30_Blueprint274
+Wall_200x300_Blueprint58
+Wall_300x300_Blueprint256
+Beam_30x300x30_Blueprint281
+Beam_30x300x30_Blueprint282
+Wall_300x300_Blueprint259
+Wall_300x300_Blueprint260
+Wall_300x300_Blueprint261
+Wall_300x300_Blueprint262
+Wall_300x300_Blueprint263
+Wall_300x300_Blueprint264
+Wall_300x300_Blueprint265
+Wall_300x300_Blueprint266
+Wall_300x300_Blueprint267
+Wall_200x300_Blueprint59
+Wall_300x300_Blueprint268
+B_Tool_RampMakerControl_BGM25
+Wall_300x300_Blueprint269
+Roof_Wall_2_Blueprint8
+Wall_300x300_Blueprint270
+Wall_300x300_Blueprint271
+Wall_300x300_Blueprint272
+Wall_300x300_Blueprint273
+Wall_300x300_Blueprint274
+Wall_300x300_Blueprint275
+Wall_300x300_Blueprint276
+Wall_300x300_Blueprint277
+Wall_200x200_Blueprint23
+Wall_200x200_Blueprint24
+Wall_200x200_Blueprint25
+Beam_30x200x30_Blueprint147
+Wall_300x300_Blueprint280
+Beam_30x300x30_Blueprint286
+Wall_300x300_Blueprint281
+Beam_30x300x30_Blueprint287
+Wall_300x300_Blueprint282
+Beam_30x300x30_Blueprint288
+Wall_300x300_Blueprint283
+Beam_30x300x30_Blueprint289
+Beam_30x300x30_Blueprint290
+Wall_300x300_Blueprint290
+Wall_300x300_Blueprint291
+Wall_300x300_Blueprint292
+Wall_300x300_Blueprint293
+Wall_300x300_Blueprint294
+Wall_300x300_Blueprint295
+Wall_300x300_Blueprint296
+Wall_300x300_Blueprint297
+Wall_300x300_Blueprint299
+Wall_300x300_Blueprint298
+Fence_200x100_Blueprint112
+[2022.09.01-22.52.55:188][ 38]LogEditorActor: Deleted Actor: GroupActor
+[2022.09.01-22.52.55:189][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:190][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:190][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:190][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:191][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:193][ 38]LogEditorActor: Deleted Actor: Wall_Window_Blueprint_C
+[2022.09.01-22.52.55:194][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:194][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:195][ 38]LogEditorActor: Deleted Actor: Wall_DoorFrame_300x300_Blueprint_C
+[2022.09.01-22.52.55:195][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:195][ 38]LogEditorActor: Deleted Actor: Wall_Window_Blueprint_C
+[2022.09.01-22.52.55:196][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:196][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:197][ 38]LogEditorActor: Deleted Actor: Wall_200x300_Blueprint_C
+[2022.09.01-22.52.55:197][ 38]LogEditorActor: Deleted Actor: Wall_200x300_Blueprint_C
+[2022.09.01-22.52.55:197][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:198][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:198][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:199][ 38]LogEditorActor: Deleted Actor: Wall_200x300_Blueprint_C
+[2022.09.01-22.52.55:200][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:200][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:201][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:201][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:201][ 38]LogEditorActor: Deleted Actor: Wall_Window_Blueprint_C
+[2022.09.01-22.52.55:202][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:202][ 38]LogEditorActor: Deleted Actor: Wall_200x300_Blueprint_C
+[2022.09.01-22.52.55:203][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:203][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:203][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:204][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:204][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:204][ 38]LogEditorActor: Deleted Actor: Wall_DoorFrame_Blueprint_C
+[2022.09.01-22.52.55:205][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:205][ 38]LogEditorActor: Deleted Actor: Wall_200x300_Blueprint_C
+[2022.09.01-22.52.55:206][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:207][ 38]LogEditorActor: Deleted Actor: Wall_Window_Blueprint_C
+[2022.09.01-22.52.55:208][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:208][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:209][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:209][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:210][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:210][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:210][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:211][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:211][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:211][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:212][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:212][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:213][ 38]LogEditorActor: Deleted Actor: Wall_Window_Blueprint_C
+[2022.09.01-22.52.55:213][ 38]LogEditorActor: Deleted Actor: Wall_Window_Blueprint_C
+[2022.09.01-22.52.55:214][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:214][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:215][ 38]LogEditorActor: Deleted Actor: B_Tool_RampMakerControl_BGM_C
+[2022.09.01-22.52.55:215][ 38]LogEditorActor: Deleted Actor: Roof_Wall_2_Blueprint_C
+[2022.09.01-22.52.55:216][ 38]LogEditorActor: Deleted Actor: Wall_200x200_Blueprint_C
+[2022.09.01-22.52.55:216][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:217][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:217][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:217][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:218][ 38]LogEditorActor: Deleted Actor: Wall_200x200_Blueprint_C
+[2022.09.01-22.52.55:218][ 38]LogEditorActor: Deleted Actor: Beam_30x200x30_Blueprint_C
+[2022.09.01-22.52.55:218][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:219][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:219][ 38]LogEditorActor: Deleted Actor: Wall_200x300_Blueprint_C
+[2022.09.01-22.52.55:220][ 38]LogEditorActor: Deleted Actor: Wall_200x300_Blueprint_C
+[2022.09.01-22.52.55:221][ 38]LogEditorActor: Deleted Actor: Wall_200x200_Blueprint_C
+[2022.09.01-22.52.55:221][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:222][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:223][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:223][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:224][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:224][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:224][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:225][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:225][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:226][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:226][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:226][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:227][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:228][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:228][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:228][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:229][ 38]LogEditorActor: Deleted Actor: Beam_30x200x30_Blueprint_C
+[2022.09.01-22.52.55:229][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:230][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:230][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:230][ 38]LogEditorActor: Deleted Actor: Fence_300x100_Blueprint_C
+[2022.09.01-22.52.55:231][ 38]LogEditorActor: Deleted Actor: Beam_30x200x30_Blueprint_C
+[2022.09.01-22.52.55:231][ 38]LogEditorActor: Deleted Actor: Fence_300x100_Blueprint_C
+[2022.09.01-22.52.55:231][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:232][ 38]LogEditorActor: Deleted Actor: Beam_30x300x30_Blueprint_C
+[2022.09.01-22.52.55:232][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:233][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:233][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:233][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:234][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:235][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:235][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:235][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:236][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:236][ 38]LogEditorActor: Deleted Actor: Wall_300x300_Blueprint_C
+[2022.09.01-22.52.55:237][ 38]LogEditorActor: Deleted Actor: Fence_200x100_Blueprint_C
+[2022.09.01-22.52.55:247][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.09.01-22.52.55:249][ 38]LogEditorActor: Deleted 103 Actors (0.139 secs)
+[2022.09.01-22.55.10:818][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/TFG_Map" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/TFG_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.01-22.55.10:831][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.09.01-22.55.11:552][577]LogSavePackage: Moving output files for package: /Game/Assets/TFG_Map
+[2022.09.01-22.55.11:553][577]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/TFG_MapD92BD11943397241639B9A8A5B9786DB.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/TFG_Map.umap'
+[2022.09.01-22.55.11:603][577]AssetCheck: New page: Asset Save: TFG_Map
+[2022.09.01-22.55.11:603][577]LogContentValidation: Display: Validating World /Game/Assets/TFG_Map.TFG_Map
+[2022.09.01-22.55.50:167][463]Cmd: TRANSACTION UNDO
+[2022.09.01-22.55.50:167][463]LogEditorTransaction: Undo Move Elements
+[2022.09.01-22.55.57:895][251]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.01-22.56.17:949][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/TFG_Map" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/TFG_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.01-22.56.17:981][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.09.01-22.56.18:706][368]LogSavePackage: Moving output files for package: /Game/Assets/TFG_Map
+[2022.09.01-22.56.18:707][368]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/TFG_MapCCD0FC74443466607D74639D8E0110CA.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/TFG_Map.umap'
+[2022.09.01-22.56.18:746][368]AssetCheck: New page: Asset Save: TFG_Map
+[2022.09.01-22.56.18:746][368]LogContentValidation: Display: Validating World /Game/Assets/TFG_Map.TFG_Map
+[2022.09.01-22.58.34:746][716]LogViewport: Scene viewport resized to 1020x642, mode Windowed.
+[2022.09.01-22.58.51:017][305]Cmd: TRANSACTION UNDO
+[2022.09.01-22.58.51:017][305]LogEditorTransaction: Undo Foliage Editing
+[2022.09.01-22.58.51:375][314]Cmd: TRANSACTION UNDO
+[2022.09.01-22.58.51:376][314]LogEditorTransaction: Undo Foliage Editing
+[2022.09.01-22.58.51:655][328]Cmd: TRANSACTION UNDO
+[2022.09.01-22.58.51:655][328]LogEditorTransaction: Undo Foliage Editing
+[2022.09.01-22.58.51:846][343]Cmd: TRANSACTION UNDO
+[2022.09.01-22.58.51:846][343]LogEditorTransaction: Undo Foliage Editing
+[2022.09.01-22.58.52:018][356]Cmd: TRANSACTION UNDO
+[2022.09.01-22.58.52:018][356]LogEditorTransaction: Undo Foliage Editing
+[2022.09.01-22.58.52:178][368]Cmd: TRANSACTION UNDO
+[2022.09.01-22.58.52:178][368]LogEditorTransaction: Undo Foliage Editing
+[2022.09.01-22.58.52:374][384]Cmd: TRANSACTION UNDO
+[2022.09.01-22.58.52:374][384]LogEditorTransaction: Undo Foliage Editing
+[2022.09.01-22.58.52:734][417]Cmd: TRANSACTION UNDO
+[2022.09.01-22.58.52:734][417]LogEditorTransaction: Undo Foliage Editing
+[2022.09.01-22.58.59:726][169]Cmd: TRANSACTION UNDO
+[2022.09.01-22.58.59:726][169]LogEditorTransaction: Undo Foliage Editing
+[2022.09.01-22.58.59:980][175]Cmd: TRANSACTION UNDO
+[2022.09.01-22.58.59:980][175]LogEditorTransaction: Undo Foliage Editing
+[2022.09.01-22.59.00:388][197]Cmd: TRANSACTION UNDO
+[2022.09.01-22.59.00:388][197]LogEditorTransaction: Undo Foliage Editing
+[2022.09.01-22.59.00:846][237]Cmd: TRANSACTION UNDO
+[2022.09.01-22.59.00:846][237]LogEditorTransaction: Undo Foliage Editing
+[2022.09.01-22.59.34:240][524]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.09.01-22.59.34:249][524]LogViewport: Scene viewport resized to 1284x642, mode Windowed.
+[2022.09.01-22.59.47:133][ 18]LogViewport: Scene viewport resized to 1020x642, mode Windowed.
+[2022.09.01-23.00.08:242][506]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.09.01-23.00.08:253][506]LogViewport: Scene viewport resized to 1284x642, mode Windowed.
+[2022.09.01-23.00.09:392][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/TFG_Map" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/TFG_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.01-23.00.09:404][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.09.01-23.00.10:109][635]LogSavePackage: Moving output files for package: /Game/Assets/TFG_Map
+[2022.09.01-23.00.10:109][635]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/TFG_Map6CF111DC492840E2179BEF93A16A8887.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/TFG_Map.umap'
+[2022.09.01-23.00.10:137][635]AssetCheck: New page: Asset Save: TFG_Map
+[2022.09.01-23.00.10:138][635]LogContentValidation: Display: Validating World /Game/Assets/TFG_Map.TFG_Map
+[2022.09.01-23.01.04:456][457]Cmd: TRANSACTION UNDO
+[2022.09.01-23.01.04:456][457]LogEditorTransaction: Undo Move Elements
+[2022.09.01-23.01.59:651][418]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.01-23.03.29:551][ 89]Cmd: DELETE
+[2022.09.01-23.03.29:551][ 89]Cmd: ACTOR DELETE
+[2022.09.01-23.03.29:590][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.01-23.03.29:590][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.01-23.03.29:602][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.09.01-23.03.29:603][ 89]LogEditorActor: Deleted 2 Actors (0.053 secs)
+[2022.09.01-23.03.39:822][242]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.01-23.04.56:415][617]LogSlate: Window 'Color Picker' being destroyed
+[2022.09.01-23.05.10:998][195]Cmd: TRANSACTION UNDO
+[2022.09.01-23.05.10:998][195]LogEditorTransaction: Undo Edit B
+[2022.09.01-23.05.11:362][209]Cmd: TRANSACTION UNDO
+[2022.09.01-23.05.11:362][209]LogEditorTransaction: Undo Edit G
+[2022.09.01-23.05.12:451][323]Cmd: TRANSACTION UNDO
+[2022.09.01-23.05.12:451][323]LogEditorTransaction: Undo Edit R
+[2022.09.01-23.08.18:706][884]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/v2/Walls/B/Wall_Cube_B_.Wall_Cube_B_
+[2022.09.01-23.08.18:839][884]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.01-23.08.19:130][884]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2022.09.01-23.08.20:014][884]LogViewport: Scene viewport resized to 763x673, mode Windowed.
+[2022.09.01-23.08.48:299][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/v2/Walls/B/Wall_Cube_B_" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Walls/B/Wall_Cube_B_.uasset" SILENT=true
+[2022.09.01-23.08.48:460][640]LogSavePackage: Moving output files for package: /Game/Assets/v2/Walls/B/Wall_Cube_B_
+[2022.09.01-23.08.48:460][640]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Wall_Cube_B_E11020254BA939907752ECACD0790EFD.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Walls/B/Wall_Cube_B_.uasset'
+[2022.09.01-23.08.48:485][640]AssetCheck: New page: Asset Save: Wall_Cube_B_
+[2022.09.01-23.08.48:485][640]LogContentValidation: Display: Validating StaticMesh /Game/Assets/v2/Walls/B/Wall_Cube_B_.Wall_Cube_B_
+[2022.09.01-23.08.53:241][768]LogSlate: Window 'Message' being destroyed
+[2022.09.01-23.08.53:246][768]Message dialog closed, result: Yes, title: Message, text: Would you like to apply level of detail changes to Wall_Cube_B_?
+
+(No will lose all changes!)
+[2022.09.01-23.08.53:342][768]LogStaticMesh: Display: Building static mesh Wall_Cube_B_...
+[2022.09.01-23.08.53:342][768]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/v2/Walls/B/Wall_Cube_B_) ...
+[2022.09.01-23.08.53:646][768]LogStaticMesh: Built static mesh [0.16s] /Game/Assets/v2/Walls/B/Wall_Cube_B_.Wall_Cube_B_
+[2022.09.01-23.08.53:646][768]LogStaticMesh: Warning: Wall_Cube_B_ has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.09.01-23.08.54:035][768]LogSlate: Window 'Wall_Cube_B_' being destroyed
+[2022.09.01-23.08.54:036][768]LogSlate: Window 'Wall_Cube_B_' being destroyed
+[2022.09.01-23.08.54:389][768]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-23.08.54:389][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-23.09.06:900][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/TFG_Map" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/TFG_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.01-23.09.06:958][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.09.01-23.09.07:669][199]LogSavePackage: Moving output files for package: /Game/Assets/TFG_Map
+[2022.09.01-23.09.07:670][199]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/TFG_MapCD3A702B4534D4A2C28C419109D9A0E4.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/TFG_Map.umap'
+[2022.09.01-23.09.07:701][199]AssetCheck: New page: Asset Save: TFG_Map
+[2022.09.01-23.09.07:701][199]LogContentValidation: Display: Validating World /Game/Assets/TFG_Map.TFG_Map
+[2022.09.01-23.09.30:541][891]MapCheck: New page: Map Check
+[2022.09.01-23.09.30:573][891]LogSlate: Took 0.008210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.09.01-23.09.30:661][891]LightingResults: New page: Lighting Build - Sep 2, 2022, 3:09:30 AM
+[2022.09.01-23.09.30:786][891]LightingResults: Warning: InstancedFoliageActor_1 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2022.09.01-23.09.30:932][891]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.09.01-23.09.31:039][891]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.09.01-23.09.31:060][891]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.09.01-23.09.32:601][891]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.09.01-23.09.32:601][891]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17744
+[2022.09.01-23.09.40:158][891]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.09.01-23.09.40:158][891]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.09.01-23.09.40:165][891]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.09.01-23.09.40:165][891]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.09.01-23.09.40:165][891]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.09.01-23.09.40:988][891]LogEditorBuildUtils: Build time 0:10
+[2022.09.01-23.09.41:009][891]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MaterialInstanceDynamic_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 88D065D95C3F93285591A7B4BD06039DD6BA079D), compiling. 
+[2022.09.01-23.09.41:248][891]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MaterialInstanceDynamic_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 154E30FE0AAE8A4BFE3005816A35A2C5F8C39E88), compiling. 
+[2022.09.01-23.09.41:323][892]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer map in PCD3D_SM5, Default, SM5 (DDC key hash: 4DD4488E0E50E7CE0CA7BAA719F898034750B4E7), compiling. 
+[2022.09.01-23.09.41:333][892]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer map in PCD3D_SM5, Default, SM5 (DDC key hash: 610D13F71E635F1BE8AA24206BFB3BB9AF61E849), compiling. 
+[2022.09.01-23.09.41:377][893]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 2C13782219B89E0AE89678C94E0EBBA4454BD911), compiling. 
+[2022.09.01-23.09.41:387][893]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 173F7A1D8A26ED5F56F1177C915293A9DA409D8E), compiling. 
+[2022.09.01-23.09.41:419][894]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Balcony in PCD3D_SM5, Default, SM5 (DDC key hash: 70C4093FED73EB327356977B60CDE2C4B2BB8B31), compiling. 
+[2022.09.01-23.09.41:427][894]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Balcony in PCD3D_SM5, Default, SM5 (DDC key hash: A291D943BFC7317B6EBAE098CFC2BD920688AFFF), compiling. 
+[2022.09.01-23.09.41:457][895]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Door in PCD3D_SM5, Default, SM5 (DDC key hash: F1D8B06434C4E4C7454D6A7AEDB8B5C6278E8EB9), compiling. 
+[2022.09.01-23.09.41:465][895]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Door in PCD3D_SM5, Default, SM5 (DDC key hash: CBD8B2A71905413D311F92120C566A4BAD86598D), compiling. 
+[2022.09.01-23.09.41:478][896]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Fence in PCD3D_SM5, Default, SM5 (DDC key hash: 1D6ABAA340D307148A171288C10D362C4EA25DEE), compiling. 
+[2022.09.01-23.09.41:486][896]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Fence in PCD3D_SM5, Default, SM5 (DDC key hash: E78D20E3FB9E6C556AC8FFFB77F335F59B22D18D), compiling. 
+[2022.09.01-23.09.41:499][897]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer roofSquare in PCD3D_SM5, Default, SM5 (DDC key hash: 392CEF933531374F45F62C43159917D2587F7881), compiling. 
+[2022.09.01-23.09.41:507][897]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer roofSquare in PCD3D_SM5, Default, SM5 (DDC key hash: 871105742FF7AF34C2D44D5A6A80E036FACC4DAD), compiling. 
+[2022.09.01-23.09.41:521][898]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer roofA in PCD3D_SM5, Default, SM5 (DDC key hash: 24736D62242AC20071614CBB51AF8DAA53A2F6A7), compiling. 
+[2022.09.01-23.09.41:541][898]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer roofA in PCD3D_SM5, Default, SM5 (DDC key hash: 5EE8B55859B0AB0218F3864D0E1F3AD4ED661EA4), compiling. 
+[2022.09.01-23.09.41:554][899]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer roofB in PCD3D_SM5, Default, SM5 (DDC key hash: 7F4A0FE77EA12C5AC5B7DFEFDC3F7FC375B5FD6D), compiling. 
+[2022.09.01-23.09.41:563][899]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer roofB in PCD3D_SM5, Default, SM5 (DDC key hash: 69C8CD8D827A74B12F6D9E5E465C3AE043B18A29), compiling. 
+[2022.09.01-23.09.41:577][900]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Beam2 in PCD3D_SM5, Default, SM5 (DDC key hash: 7DD9A3B632E788F1F9B5BC43B62C5A3E50E2D666), compiling. 
+[2022.09.01-23.09.41:585][900]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Beam2 in PCD3D_SM5, Default, SM5 (DDC key hash: 3D4C8C9B67EA302C10D095A7FD3AAFC61FD07FEB), compiling. 
+[2022.09.01-23.09.41:599][901]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Beam in PCD3D_SM5, Default, SM5 (DDC key hash: A62225C7296BDD34A62912EB626484523D349D4C), compiling. 
+[2022.09.01-23.09.41:607][901]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Beam in PCD3D_SM5, Default, SM5 (DDC key hash: E9F3268ABB528B1C951A1A83CB2CBE7ED8285DEA), compiling. 
+[2022.09.01-23.09.41:632][902]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Window_L in PCD3D_SM5, Default, SM5 (DDC key hash: 4E9D3B591D0C696E263EEDAE4138B80CF8D3353B), compiling. 
+[2022.09.01-23.09.41:641][902]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Window_L in PCD3D_SM5, Default, SM5 (DDC key hash: 35FFCD12457BB7229AC8E9EEE47AF12F9F60D898), compiling. 
+[2022.09.01-23.09.41:654][903]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Wall in PCD3D_SM5, Default, SM5 (DDC key hash: C8995D5E95E4DFB1DF3E29B7B0911C5406A40A58), compiling. 
+[2022.09.01-23.09.41:662][903]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Wall in PCD3D_SM5, Default, SM5 (DDC key hash: B0CD1C8F02EAB00E0E628D0236F9FE07E484FFC2), compiling. 
+[2022.09.01-23.09.41:677][904]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A513DED97EBCC2F27912465F5A35D7806F76059F), compiling. 
+[2022.09.01-23.09.41:687][904]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 5B1260086509C63C6829D2DA64CF5E9DE0FF177C), compiling. 
+[2022.09.01-23.09.41:703][905]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Rock_Basalt in PCD3D_SM5, Default, SM5 (DDC key hash: 3D53D50A620A0A1F73DC9DF5CA630CF85F1C5D9C), compiling. 
+[2022.09.01-23.09.41:713][905]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Rock_Basalt in PCD3D_SM5, Default, SM5 (DDC key hash: F8FFA7110B13AB9BEC6E9011DB3532E928D865AB), compiling. 
+[2022.09.01-23.09.41:726][906]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Ground in PCD3D_SM5, Default, SM5 (DDC key hash: 084ADF505F91ED830A96CA2203CD53A2C0B02686), compiling. 
+[2022.09.01-23.09.41:734][906]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Ground in PCD3D_SM5, Default, SM5 (DDC key hash: A379B115BFE33F8571CB2D255FB7C72A83BA6E64), compiling. 
+[2022.09.01-23.09.41:748][907]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer StylizedWater in PCD3D_SM5, Default, SM5 (DDC key hash: B5B2A33786A2859C5557073F5E733927C9C41CDE), compiling. 
+[2022.09.01-23.09.41:755][907]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer StylizedWater in PCD3D_SM5, Default, SM5 (DDC key hash: F15E19A8BB3012040F9E85F735EFFCEEB1191340), compiling. 
+[2022.09.01-23.09.41:769][908]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: D4A5AFD07B69A58E66CDCB3D4CBEA9F67225AE0A), compiling. 
+[2022.09.01-23.09.41:777][908]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 12BB38841C7411ADC6EEE0CE3DD35B9961D02591), compiling. 
+[2022.09.01-23.09.41:791][909]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: E8E385FD7EAC21B38EBEF03A9F53329043CEAA3E), compiling. 
+[2022.09.01-23.09.41:805][909]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 894CD5B2B8D771135F5030C419AE679DFA252C72), compiling. 
+[2022.09.01-23.09.41:822][910]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer grassMaterial_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: 011443EFA691928CE0F0E80B80D713111C821986), compiling. 
+[2022.09.01-23.09.41:833][910]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer grassMaterial_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: 585EF8CE6E5350A0CE7A681F6B759CCF9EA88003), compiling. 
+[2022.09.01-23.09.41:847][911]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Wood_Stone_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: B0FEDAD28950A02741B8EE86AB9E8341FB9F5CDA), compiling. 
+[2022.09.01-23.09.41:855][911]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Wood_Stone_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: 9DC334F4778DA115CC02404B815958356C514DFE), compiling. 
+[2022.09.01-23.09.41:868][912]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer StoneGround in PCD3D_SM5, Default, SM5 (DDC key hash: 009D8F545366E2125E312A07D855208108BC11BD), compiling. 
+[2022.09.01-23.09.41:876][912]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer StoneGround in PCD3D_SM5, Default, SM5 (DDC key hash: EF8805C00DEECE46A54BF5F93C929D39E0D9E08E), compiling. 
+[2022.09.01-23.09.41:889][913]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MatAnvil in PCD3D_SM5, Default, SM5 (DDC key hash: 3595C22D63A60AC0EE6E2BB46894692F43745CEA), compiling. 
+[2022.09.01-23.09.41:897][913]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MatAnvil in PCD3D_SM5, Default, SM5 (DDC key hash: 68B78ED27A4334FE1D186332F91B3940DF8C76DB), compiling. 
+[2022.09.01-23.09.41:911][914]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MatLantA in PCD3D_SM5, Default, SM5 (DDC key hash: A8C41F6FF51DAF8DA10945231AEC132D2D415D21), compiling. 
+[2022.09.01-23.09.41:919][914]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MatLantA in PCD3D_SM5, Default, SM5 (DDC key hash: 7675417F29A6AD807B47EBF22C03486F4A4EC3AA), compiling. 
+[2022.09.01-23.09.41:933][915]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MatLantB in PCD3D_SM5, Default, SM5 (DDC key hash: 4A7014D48578C52D6BDAC7ED2499B0E52533E6CD), compiling. 
+[2022.09.01-23.09.41:941][915]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MatLantB in PCD3D_SM5, Default, SM5 (DDC key hash: 1700FB379F166BF1419FB40B6C0B6332C8442EF1), compiling. 
+[2022.09.01-23.09.41:956][916]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MatLantPole in PCD3D_SM5, Default, SM5 (DDC key hash: 4454EE6F8A7C0724616113DA79660D0F7C161F33), compiling. 
+[2022.09.01-23.09.41:964][916]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MatLantPole in PCD3D_SM5, Default, SM5 (DDC key hash: F303C49CCB9C993405D608B1F64BE9C4FE19E943), compiling. 
+[2022.09.01-23.09.41:979][917]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer BlueRoof_Wall_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: F398186ACBF4F9AAAA73CE1D15A69036FE8C20DF), compiling. 
+[2022.09.01-23.09.41:987][917]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer BlueRoof_Wall_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 7B9AAD6FA6FC81B937D1811FA5CC3C8E622151C0), compiling. 
+[2022.09.01-23.09.42:002][918]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Green_Red_Roof in PCD3D_SM5, Default, SM5 (DDC key hash: 5F7C44EAC70A028F4CFE30C2DD8572A07E19EF24), compiling. 
+[2022.09.01-23.09.42:016][918]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Green_Red_Roof in PCD3D_SM5, Default, SM5 (DDC key hash: 04F706B1E5A606F5E56BB9079586399C3477DB04), compiling. 
+[2022.09.01-23.10.15:119][919]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2022.09.01-23.10.15:119][919]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' report submitted, and took 0.037476s
+[2022.09.01-23.10.15:119][919]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.003001s (19.238766s overbudget)
+[2022.09.01-23.10.15:402][919]LogShaderCompilers: Display: ================================================
+[2022.09.01-23.10.15:403][919]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.01-23.10.15:403][919]LogShaderCompilers: Display: Total job queries 112, among them cache hits 0 (0.00%)
+[2022.09.01-23.10.15:403][919]LogShaderCompilers: Display: Tracking 108 distinct input hashes that result in 12 distinct outputs (11.11%)
+[2022.09.01-23.10.15:403][919]LogShaderCompilers: Display: RAM used: 0.03 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.09.01-23.10.15:403][919]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.01-23.10.15:403][919]LogShaderCompilers: Display: Shaders Compiled: 54
+[2022.09.01-23.10.15:403][919]LogShaderCompilers: Display: Jobs assigned 108, completed 108 (100.00%)
+[2022.09.01-23.10.15:403][919]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.09.01-23.10.15:410][919]LogShaderCompilers: Display: Time job spent in pending queue: average 19.20 s, longest 33.00 s
+[2022.09.01-23.10.15:410][919]LogShaderCompilers: Display: Job execution time: average 6.09 s, max 14.64 s
+[2022.09.01-23.10.15:410][919]LogShaderCompilers: Display: Job life time (pending + execution): average 25.29 s, max 33.60
+[2022.09.01-23.10.15:410][919]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 33.88 s
+[2022.09.01-23.10.15:410][919]LogShaderCompilers: Display: Jobs were issued in 17 batches (only local compilation was used), average 6.35 jobs/batch
+[2022.09.01-23.10.15:410][919]LogShaderCompilers: Display: Average processing rate: 3.19 jobs/sec
+[2022.09.01-23.10.15:410][919]LogShaderCompilers: Display: Effective parallelization: 1.85 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2022.09.01-23.10.15:410][919]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2022.09.01-23.10.15:410][919]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   54 times, average 0.62 sec, max 0.74 sec, min 0.51 sec)
+[2022.09.01-23.10.15:410][919]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   54 times, average 0.54 sec, max 0.86 sec, min 0.43 sec)
+[2022.09.01-23.10.15:410][919]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2022.09.01-23.10.15:411][919]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 53.20% of total time (compiled   54 times, average 0.62 sec, max 0.74 sec, min 0.51 sec)
+[2022.09.01-23.10.15:411][919]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 46.80% of total time (compiled   54 times, average 0.54 sec, max 0.86 sec, min 0.43 sec)
+[2022.09.01-23.10.15:411][919]LogShaderCompilers: Display: ================================================
+[2022.09.01-23.10.16:272][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.09.01-23.10.39:123][800]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/v2/Materials/BlueRoof_Wall_Glass.BlueRoof_Wall_Glass
+[2022.09.01-23.10.39:174][800]LogMaterial: Display: Missing cached shadermap for Preview:BlueRoof_Wall_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 629863CECCD00B9E5BE1BDDBE0F74B37797E1B56), compiling. 
+[2022.09.01-23.10.39:330][800]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.01-23.10.39:813][800]LogMaterial: Display: Missing cached shadermap for Preview:BlueRoof_Wall_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 8B6425584B7367248C653FF4CB7D93A102B95A8D), compiling. 
+[2022.09.01-23.10.39:832][800]LogMaterial: Display: Missing cached shadermap for Preview:BlueRoof_Wall_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 6F478A2A1F1916D63FD850C9EDDD1FF6CA15D0A4), compiling. 
+[2022.09.01-23.10.39:841][800]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C8F0058025EA7487B119246A3B678D61E7358529), compiling. 
+[2022.09.01-23.10.39:843][800]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 9E5243A29BCD5D82F7E76FD01E812C71EB105D73), compiling. 
+[2022.09.01-23.10.39:884][800]MaterialEditorStats: Texture samplers: 0/16
+[2022.09.01-23.10.39:884][800]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.09.01-23.10.39:884][800]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.09.01-23.10.39:884][800]MaterialEditorStats: Shader Count: 0
+[2022.09.01-23.10.39:913][800]LogViewport: Scene viewport resized to 214x334, mode Windowed.
+[2022.09.01-23.10.41:961][869]MaterialEditorStats: Texture samplers: 4/16
+[2022.09.01-23.10.41:961][869]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.09.01-23.10.41:961][869]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.09.01-23.10.41:961][869]MaterialEditorStats: Shader Count: 1
+[2022.09.01-23.10.46:045][ 70]LogMaterial: Display: Missing cached shadermap for Preview:BlueRoof_Wall_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 364C4092A30EA52C4EE6F3C5506FD210ACDFFB7E), compiling. 
+[2022.09.01-23.10.46:114][ 70]LogMaterial: Display: Missing cached shadermap for Preview:BlueRoof_Wall_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 143D331134B14EBE2A3F262E175828856B71BF93), compiling. 
+[2022.09.01-23.10.46:120][ 70]LogMaterial: Display: Missing cached shadermap for Preview:BlueRoof_Wall_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 44D0BB9F9AA719F45A75F05B3A509EC218DFE3A9), compiling. 
+[2022.09.01-23.10.46:123][ 70]MaterialEditorStats: Texture samplers: 0/16
+[2022.09.01-23.10.46:123][ 70]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.09.01-23.10.46:123][ 70]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.09.01-23.10.46:123][ 70]MaterialEditorStats: Shader Count: 0
+[2022.09.01-23.10.49:089][242]MaterialEditorStats: Texture samplers: 4/16
+[2022.09.01-23.10.49:089][242]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.09.01-23.10.49:089][242]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.09.01-23.10.49:089][242]MaterialEditorStats: Shader Count: 2
+[2022.09.01-23.11.02:154][942]LogMaterialEditor: Saving and Compiling material BlueRoof_Wall_Glass
+[2022.09.01-23.11.05:199][942]LogMaterial: Display: Missing cached shadermap for Preview:BlueRoof_Wall_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: CF2061FC1D61019CA18B12BB8D91A8B8A76850AB), compiling. 
+[2022.09.01-23.11.05:270][942]LogMaterial: Display: Missing cached shadermap for BlueRoof_Wall_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 859A58FA390384846F446980E81B5D28D40EC127), compiling. 
+[2022.09.01-23.11.05:396][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.09.01-23.11.06:870][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.01-23.11.35:602][942]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2022.09.01-23.11.35:602][942]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.049988s
+[2022.09.01-23.11.35:603][942]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.050000s (0.053490s overbudget)
+[2022.09.01-23.11.35:695][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/v2/Materials/BlueRoof_Wall_Glass" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Materials/BlueRoof_Wall_Glass.uasset" SILENT=true
+[2022.09.01-23.11.35:697][942]LogSavePackage: Moving output files for package: /Game/Assets/v2/Materials/BlueRoof_Wall_Glass
+[2022.09.01-23.11.35:698][942]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/BlueRoof_Wall_Glass0514C1104DDECD0A97B233B852A28BE3.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Materials/BlueRoof_Wall_Glass.uasset'
+[2022.09.01-23.11.35:708][942]AssetCheck: New page: Asset Save: BlueRoof_Wall_Glass
+[2022.09.01-23.11.35:708][942]LogContentValidation: Display: Validating Material /Game/Assets/v2/Materials/BlueRoof_Wall_Glass.BlueRoof_Wall_Glass
+[2022.09.01-23.11.35:722][942]MaterialEditorStats: Base pass shader: 137 instructions
+[2022.09.01-23.11.35:722][942]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.09.01-23.11.35:722][942]MaterialEditorStats: Texture samplers: 5/16
+[2022.09.01-23.11.35:722][942]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.09.01-23.11.35:722][942]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.09.01-23.11.35:722][942]MaterialEditorStats: Shader Count: 25
+[2022.09.01-23.11.41:937][268]LogSlate: Window 'BlueRoof_Wall_Glass' being destroyed
+[2022.09.01-23.11.41:944][268]LogSlate: Window 'BlueRoof_Wall_Glass' being destroyed
+[2022.09.01-23.11.42:014][268]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-23.11.42:014][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-23.11.58:105][657]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/v2/Materials/Wood_Stone_Metal.Wood_Stone_Metal
+[2022.09.01-23.11.58:107][657]LogMaterial: Display: Missing cached shadermap for Preview:Wood_Stone_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: 6DEC4198F329F75E5E216AC454363D4B70FFE618), compiling. 
+[2022.09.01-23.11.58:127][657]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.01-23.11.58:212][657]LogMaterial: Display: Missing cached shadermap for Preview:Wood_Stone_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: F8A44F5A964F42F472EAAAB30FEAC8025B060103), compiling. 
+[2022.09.01-23.11.58:216][657]LogMaterial: Display: Missing cached shadermap for Preview:Wood_Stone_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: 29CD1356A9BD6E77850A274F654029F5CCC04160), compiling. 
+[2022.09.01-23.11.58:219][657]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C681E7C938AC2443E5A1843EE7DCBF5DDB91B497), compiling. 
+[2022.09.01-23.11.58:221][657]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2797E84D4B040CAA9FEA795042AD0D9A71729F8F), compiling. 
+[2022.09.01-23.11.58:238][657]MaterialEditorStats: Texture samplers: 0/16
+[2022.09.01-23.11.58:238][657]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.09.01-23.11.58:238][657]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.09.01-23.11.58:238][657]MaterialEditorStats: Shader Count: 0
+[2022.09.01-23.11.58:260][657]LogViewport: Scene viewport resized to 214x334, mode Windowed.
+[2022.09.01-23.12.00:383][766]LogMaterial: Display: Missing cached shadermap for Preview:Wood_Stone_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: F44F4D18BBEB3CEC944F105B44FBE0D3AD1306F5), compiling. 
+[2022.09.01-23.12.00:389][766]LogMaterial: Display: Missing cached shadermap for Preview:Wood_Stone_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: 7A3122D131FF4DAD257E7FFE3450F73F38D54974), compiling. 
+[2022.09.01-23.12.00:395][766]LogMaterial: Display: Missing cached shadermap for Preview:Wood_Stone_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: EC764F6888F2F8F849C71AFC6C5C99382B80835D), compiling. 
+[2022.09.01-23.12.01:742][826]LogMaterialEditor: Saving and Compiling material Wood_Stone_Metal
+[2022.09.01-23.12.02:365][826]LogMaterial: Display: Missing cached shadermap for Preview:Wood_Stone_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: 3261928F41B60FB80DE8EEF6D4CCD075288C33AB), compiling. 
+[2022.09.01-23.12.02:415][826]LogMaterial: Display: Missing cached shadermap for Wood_Stone_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: AD635B522FD35A73CC64AAC78F83A420E01195AE), compiling. 
+[2022.09.01-23.12.02:542][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.09.01-23.12.05:918][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.09.01-23.12.08:066][826]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.09.01-23.12.12:728][826]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004999s (4.677381s overbudget)
+[2022.09.01-23.12.12:771][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/v2/Materials/Wood_Stone_Metal" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Materials/Wood_Stone_Metal.uasset" SILENT=true
+[2022.09.01-23.12.12:773][826]LogSavePackage: Moving output files for package: /Game/Assets/v2/Materials/Wood_Stone_Metal
+[2022.09.01-23.12.12:774][826]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Wood_Stone_Metal8C58AF5B43A9E5E0CB4893B1FAE65C97.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Materials/Wood_Stone_Metal.uasset'
+[2022.09.01-23.12.12:805][826]AssetCheck: New page: Asset Save: Wood_Stone_Metal
+[2022.09.01-23.12.12:805][826]LogContentValidation: Display: Validating Material /Game/Assets/v2/Materials/Wood_Stone_Metal.Wood_Stone_Metal
+[2022.09.01-23.12.12:806][826]MaterialEditorStats: Base pass shader: 137 instructions
+[2022.09.01-23.12.12:806][826]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.09.01-23.12.12:806][826]MaterialEditorStats: Texture samplers: 5/16
+[2022.09.01-23.12.12:806][826]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.09.01-23.12.12:806][826]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.09.01-23.12.12:806][826]MaterialEditorStats: Shader Count: 25
+[2022.09.01-23.12.17:347][ 86]LogSlate: Window 'Wood_Stone_Metal' being destroyed
+[2022.09.01-23.12.17:351][ 86]LogSlate: Window 'Wood_Stone_Metal' being destroyed
+[2022.09.01-23.12.17:361][ 86]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-23.12.17:361][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-23.12.49:248][372]Cmd: TRANSACTION UNDO
+[2022.09.01-23.12.49:248][372]LogEditorTransaction: Undo Move Elements
+[2022.09.01-23.13.30:293][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/TFG_Map" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/TFG_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.01-23.13.30:308][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.09.01-23.13.31:068][489]LogSavePackage: Moving output files for package: /Game/Assets/TFG_Map
+[2022.09.01-23.13.31:068][489]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/TFG_MapD7887FFB4B8EC6493752D2B977C38573.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/TFG_Map.umap'
+[2022.09.01-23.13.31:100][489]AssetCheck: New page: Asset Save: TFG_Map
+[2022.09.01-23.13.31:100][489]LogContentValidation: Display: Validating World /Game/Assets/TFG_Map.TFG_Map
+[2022.09.01-23.21.00:249][170]Job is a success!
+[2022.09.01-23.21.01:077][171]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.144s
+[2022.09.01-23.21.01:085][171]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.09.01-23.21.01:085][171]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb
+[2022.09.01-23.21.01:085][171]LogVolumetricLightmapImport:      Bricks at depth
+[2022.09.01-23.21.01:085][171]LogVolumetricLightmapImport:          0: 2.5% covering 100.0% of volume
+[2022.09.01-23.21.01:085][171]LogVolumetricLightmapImport:          1: 10.0% covering 6.2% of volume
+[2022.09.01-23.21.01:085][171]LogVolumetricLightmapImport:          2: 87.5% covering 0.9% of volume
+[2022.09.01-23.21.01:085][171]LogVolumetricLightmapImport:      Bricks in each level
+[2022.09.01-23.21.01:085][171]LogVolumetricLightmapImport:          TFG_Map 			 40 bricks 	 100.0% (Persistent Level)
+[2022.09.01-23.21.19:932][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:SkyOcclusion0_1 (TFO_AutoDXT, 8192X4096 X1X1) (Required Memory Estimate: 853.33334 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.23:972][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 1706.66666 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.29:728][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 8192X8192 X1X1) (Required Memory Estimate: 1706.66666 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.33:765][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:SkyOcclusion0_2 (TFO_AutoDXT, 512X256 X1X1) (Required Memory Estimate: 3.33334 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.33:780][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.33:807][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.33:826][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:SkyOcclusion0_3 (TFO_AutoDXT, 128X64 X1X1) (Required Memory Estimate: 0.20834 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.33:827][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:HQ_Lightmap0_3 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.33:828][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:LQ_Lightmap_0_3 (TFO_DXT1, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.33:830][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:SkyOcclusion0_4 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.33:888][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:HQ_Lightmap0_4 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.34:024][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:LQ_Lightmap_0_4 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.34:122][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:SkyOcclusion0_5 (TFO_AutoDXT, 512X256 X1X1) (Required Memory Estimate: 3.33334 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.34:131][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:HQ_Lightmap0_5 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.34:148][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:LQ_Lightmap_0_5 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.34:161][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:SkyOcclusion0_6 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.34:194][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:HQ_Lightmap0_6 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.34:264][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:LQ_Lightmap_0_6 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.34:311][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:SkyOcclusion0_7 (TFO_AutoDXT, 256X128 X1X1) (Required Memory Estimate: 0.83334 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.34:315][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:HQ_Lightmap0_7 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.34:319][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:LQ_Lightmap_0_7 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.34:323][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:SkyOcclusion0_8 (TFO_AutoDXT, 64X32 X1X1) (Required Memory Estimate: 0.05209 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.34:324][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:HQ_Lightmap0_8 (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.34:325][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:LQ_Lightmap_0_8 (TFO_DXT1, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.34:326][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:SkyOcclusion0_9 (TFO_AutoDXT, 64X32 X1X1) (Required Memory Estimate: 0.05209 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.34:327][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:HQ_Lightmap0_9 (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.34:327][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:LQ_Lightmap_0_9 (TFO_DXT1, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.44:774][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:ShadowMapTexture2D_0 (G8, 8192X4096 X1X1) (Required Memory Estimate: 213.333335 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.45:885][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:ShadowMapTexture2D_1 (G8, 1024X128 X1X1) (Required Memory Estimate: 0.833354 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.45:890][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:ShadowMapTexture2D_2 (G8, 1024X1024 X1X1) (Required Memory Estimate: 6.666665 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.45:949][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:ShadowMapTexture2D_3 (G8, 64X64 X1X1) (Required Memory Estimate: 0.02604 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.45:955][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:ShadowMapTexture2D_4 (G8, 1024X128 X1X1) (Required Memory Estimate: 0.833354 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.45:961][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:ShadowMapTexture2D_5 (G8, 128X32 X1X1) (Required Memory Estimate: 0.02605 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.45:965][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:ShadowMapTexture2D_6 (G8, 32X32 X1X1) (Required Memory Estimate: 0.006509 MB), EncodeSpeed: Fast
+[2022.09.01-23.21.51:745][171]Lightmass on OSCAR: 11:27 min total, 381 ms importing, 1.63 sec setup, 1:37 min photons, 9:48 min processing, 0 us extra exporting [8072/8072 mappings]. Threads: 39:14 min total, 26:59 min processing.
+[2022.09.01-23.21.51:838][171]LogStaticLightingSystem: TFG_Map_BuiltData storing lightmap data for 2195 meshes in 16 LightmapResourceClusters (137.2 Meshes per cluster).
+[2022.09.01-23.21.52:297][171]LogMaterial: Display: Material /Game/Assets/v2/Materials/Wood_Stone_Metal.Wood_Stone_Metal needed to have new flag set bUsedWithStaticLighting !
+[2022.09.01-23.21.52:350][171]LogMaterial: Display: Missing cached shadermap for Wood_Stone_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: F94744106CF0D05358655BD8F97C793D22568891), compiling. 
+[2022.09.01-23.21.52:567][171]LogMaterial: Display: Material /Game/Textures/Window_L.Window_L needed to have new flag set bUsedWithStaticLighting !
+[2022.09.01-23.21.52:576][171]LogMaterial: Display: Missing cached shadermap for Window_L in PCD3D_SM5, Default, SM5 (DDC key hash: E1BD2B888F9271281926E7E9326747D4EC78DA7C), compiling. 
+[2022.09.01-23.21.52:633][171]LogMaterial: Display: Material /Game/Assets/v2/Materials/BlueRoof_Wall_Glass.BlueRoof_Wall_Glass needed to have new flag set bUsedWithStaticLighting !
+[2022.09.01-23.21.52:643][171]LogMaterial: Display: Missing cached shadermap for BlueRoof_Wall_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 2BBC4C2BE80BE49A72BEF841B1C69E96CEE1AECC), compiling. 
+[2022.09.01-23.21.52:714][171]LogMaterial: Display: Material /Game/Textures/Wall.Wall needed to have new flag set bUsedWithStaticLighting !
+[2022.09.01-23.21.52:720][171]LogMaterial: Display: Missing cached shadermap for Wall in PCD3D_SM5, Default, SM5 (DDC key hash: DBE0BA8D3DACB45563E57B51BB92EA044CAC816E), compiling. 
+[2022.09.01-23.21.52:759][171]LogMaterial: Display: Material /Game/Textures/Beam.Beam needed to have new flag set bUsedWithStaticLighting !
+[2022.09.01-23.21.52:766][171]LogMaterial: Display: Missing cached shadermap for Beam in PCD3D_SM5, Default, SM5 (DDC key hash: 2B58D3F4D8A77070DE2AA000319D631385076230), compiling. 
+[2022.09.01-23.21.52:807][171]LogMaterial: Display: Material /Game/Assets/v2/Materials/Ground.Ground needed to have new flag set bUsedWithStaticLighting !
+[2022.09.01-23.21.52:814][171]LogMaterial: Display: Missing cached shadermap for Ground in PCD3D_SM5, Default, SM5 (DDC key hash: 58D9A5F36F51A2B5154B26A39A4A1211AD4FE698), compiling. 
+[2022.09.01-23.21.52:855][171]LogMaterial: Display: Material /Game/Assets/v2/Materials/StoneGround.StoneGround needed to have new flag set bUsedWithStaticLighting !
+[2022.09.01-23.21.52:863][171]LogMaterial: Display: Missing cached shadermap for StoneGround in PCD3D_SM5, Default, SM5 (DDC key hash: B37653215F2639ECC596159B37DB28E6E22BAD16), compiling. 
+[2022.09.01-23.21.52:907][171]LogMaterial: Display: Material /Game/Assets/Water/grassMaterial.grassMaterial needed to have new flag set bUsedWithStaticLighting !
+[2022.09.01-23.21.53:063][171]LogMaterial: Display: Missing cached shadermap for grassMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 88A7834F4E2D3210FF7454DDFE4608629E471C54), compiling. 
+[2022.09.01-23.21.53:840][171]LogMaterial: Display: Material /Game/Textures/Door.Door needed to have new flag set bUsedWithStaticLighting !
+[2022.09.01-23.21.53:847][171]LogMaterial: Display: Missing cached shadermap for Door in PCD3D_SM5, Default, SM5 (DDC key hash: 0E4CADBC31C63A5CC85A1C4A6DB500AE4FD58996), compiling. 
+[2022.09.01-23.21.53:885][171]LogMaterial: Display: Material /Game/Assets/v2/Props/lambert1.lambert1 needed to have new flag set bUsedWithStaticLighting !
+[2022.09.01-23.21.53:891][171]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6097F6EED0E16E902805C797B726138C6A9A675C), compiling. 
+[2022.09.01-23.21.53:966][171]LogMaterial: Display: Material /Game/Assets/Rocks/lambert1.lambert1 needed to have new flag set bUsedWithStaticLighting !
+[2022.09.01-23.21.53:975][171]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: BF70C6C9CDDFF72E36B79C02DF069C1B8E226D63), compiling. 
+[2022.09.01-23.21.54:041][171]LogMaterial: Display: Material /Game/Assets/Water/StylizedWater.StylizedWater needed to have new flag set bUsedWithStaticLighting !
+[2022.09.01-23.21.54:047][171]LogMaterial: Display: Missing cached shadermap for StylizedWater in PCD3D_SM5, Default, SM5 (DDC key hash: 7D75D26DB71DB8DD023FF67ABD855CF4A131CBB8), compiling. 
+[2022.09.01-23.21.55:199][171]LogMaterial: Display: Material /Game/Textures/Balcony.Balcony needed to have new flag set bUsedWithStaticLighting !
+[2022.09.01-23.21.55:205][171]LogMaterial: Display: Missing cached shadermap for Balcony in PCD3D_SM5, Default, SM5 (DDC key hash: C392D24528B7E80C030A68673C97B97BEBA17F9A), compiling. 
+[2022.09.01-23.21.55:243][171]LogMaterial: Display: Material /Game/Assets/v2/Materials/Green_Red_Roof.Green_Red_Roof needed to have new flag set bUsedWithStaticLighting !
+[2022.09.01-23.21.55:297][171]LogMaterial: Display: Missing cached shadermap for Green_Red_Roof in PCD3D_SM5, Default, SM5 (DDC key hash: 5C0C945004A38E5FCE9DE00BDC37C072C467C566), compiling. 
+[2022.09.01-23.21.55:334][171]LogMaterial: Display: Material /Game/Textures/Fence.Fence needed to have new flag set bUsedWithStaticLighting !
+[2022.09.01-23.21.55:340][171]LogMaterial: Display: Missing cached shadermap for Fence in PCD3D_SM5, Default, SM5 (DDC key hash: BC03409718D03BFE823C7CAAFF4467ADE1B4775C), compiling. 
+[2022.09.01-23.21.55:380][171]LogMaterial: Display: Material /Game/Textures/Beam2.Beam2 needed to have new flag set bUsedWithStaticLighting !
+[2022.09.01-23.21.55:386][171]LogMaterial: Display: Missing cached shadermap for Beam2 in PCD3D_SM5, Default, SM5 (DDC key hash: CF4B4C343B1C79C9EF9EC2D276AF2AF126DD206F), compiling. 
+[2022.09.01-23.21.55:429][171]LogMaterial: Display: Material /Game/Textures/roofSquare.roofSquare needed to have new flag set bUsedWithStaticLighting !
+[2022.09.01-23.21.55:436][171]LogMaterial: Display: Missing cached shadermap for roofSquare in PCD3D_SM5, Default, SM5 (DDC key hash: 9A4873BC4272F3C067A9B0C0A7673AD2E04DCA1A), compiling. 
+[2022.09.01-23.21.55:477][171]LogMaterial: Display: Material /Game/Assets/v2/Props/Materials/MatAnvil.MatAnvil needed to have new flag set bUsedWithStaticLighting !
+[2022.09.01-23.21.55:484][171]LogMaterial: Display: Missing cached shadermap for MatAnvil in PCD3D_SM5, Default, SM5 (DDC key hash: AF68113BF80FA1C9A0FC63C6EBB132345B34C2FA), compiling. 
+[2022.09.01-23.21.55:520][171]LogMaterial: Display: Material /Game/Assets/v2/Props/Materials/MatLantA.MatLantA needed to have new flag set bUsedWithStaticLighting !
+[2022.09.01-23.21.55:529][171]LogMaterial: Display: Missing cached shadermap for MatLantA in PCD3D_SM5, Default, SM5 (DDC key hash: BBA5A3817FA5384165E71F436CE606C7789DFBA8), compiling. 
+[2022.09.01-23.21.55:569][171]LogMaterial: Display: Material /Game/Assets/v2/Props/Materials/MatLantB.MatLantB needed to have new flag set bUsedWithStaticLighting !
+[2022.09.01-23.21.55:576][171]LogMaterial: Display: Missing cached shadermap for MatLantB in PCD3D_SM5, Default, SM5 (DDC key hash: FD936C8BDCA07A97D4079BF816535313906907AF), compiling. 
+[2022.09.01-23.21.55:616][171]LogMaterial: Display: Material /Game/Assets/v2/Props/Materials/MatLantPole.MatLantPole needed to have new flag set bUsedWithStaticLighting !
+[2022.09.01-23.21.55:623][171]LogMaterial: Display: Missing cached shadermap for MatLantPole in PCD3D_SM5, Default, SM5 (DDC key hash: 18358A9915C6A54C8F655006AA18E562EBAD2F77), compiling. 
+[2022.09.01-23.21.55:661][171]LogMaterial: Display: Material /Game/Textures/roofA.roofA needed to have new flag set bUsedWithStaticLighting !
+[2022.09.01-23.21.55:668][171]LogMaterial: Display: Missing cached shadermap for roofA in PCD3D_SM5, Default, SM5 (DDC key hash: 722A5FBA450E8687BBD57D2AB214DDD861E0D57D), compiling. 
+[2022.09.01-23.21.55:711][171]LogMaterial: Display: Material /Game/Textures/roofB.roofB needed to have new flag set bUsedWithStaticLighting !
+[2022.09.01-23.21.55:716][171]LogMaterial: Display: Missing cached shadermap for roofB in PCD3D_SM5, Default, SM5 (DDC key hash: 8C16351E391EA4DA528EACA45C0630F58B026BAE), compiling. 
+[2022.09.01-23.21.56:365][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.09.01-23.21.56:456][171]LogStaticLightingSystem: Illumination: 12:25 min (20.1 sec encoding lightmaps, 11.6 sec encoding shadowmaps)
+[2022.09.01-23.21.56:456][171]LogStaticLightingSystem: Lightmap texture memory:  178.0 MB (178.0 MB streaming, 0.0 MB non-streaming), 18 textures
+[2022.09.01-23.21.56:456][171]LogStaticLightingSystem: Shadowmap texture memory: 44.5 MB (44.5 MB streaming, 0.0 MB non-streaming), 7 textures
+[2022.09.01-23.21.57:323][171]DumpUnbuiltLightIteractions
+[2022.09.01-23.21.57:323][171]Lights with unbuilt interactions: 1
+[2022.09.01-23.21.57:323][171]    Light Light Source
+[2022.09.01-23.21.57:323][171]
+[2022.09.01-23.21.57:323][171]Primitives with unbuilt interactions: 11
+[2022.09.01-23.21.57:323][171]    Primitive StaticMeshComponent /Game/Assets/TFG_Map.TFG_Map:PersistentLevel.StaticMeshActor_968.StaticMeshComponent0
+[2022.09.01-23.21.57:323][171]    Primitive StaticMeshComponent /Game/Assets/TFG_Map.TFG_Map:PersistentLevel.StaticMeshActor_967.StaticMeshComponent0
+[2022.09.01-23.21.57:323][171]    Primitive StaticMeshComponent /Game/Assets/TFG_Map.TFG_Map:PersistentLevel.StaticMeshActor_966.StaticMeshComponent0
+[2022.09.01-23.21.57:323][171]    Primitive StaticMeshComponent /Game/Assets/TFG_Map.TFG_Map:PersistentLevel.StaticMeshActor_965.StaticMeshComponent0
+[2022.09.01-23.21.57:323][171]    Primitive StaticMeshComponent /Game/Assets/TFG_Map.TFG_Map:PersistentLevel.StaticMeshActor_964.StaticMeshComponent0
+[2022.09.01-23.21.57:323][171]    Primitive StaticMeshComponent /Game/Assets/TFG_Map.TFG_Map:PersistentLevel.StaticMeshActor_963.StaticMeshComponent0
+[2022.09.01-23.21.57:323][171]    Primitive StaticMeshComponent /Game/Assets/TFG_Map.TFG_Map:PersistentLevel.StaticMeshActor_962.StaticMeshComponent0
+[2022.09.01-23.21.57:323][171]    Primitive StaticMeshComponent /Game/Assets/TFG_Map.TFG_Map:PersistentLevel.StaticMeshActor_961.StaticMeshComponent0
+[2022.09.01-23.21.57:323][171]    Primitive StaticMeshComponent /Game/Assets/TFG_Map.TFG_Map:PersistentLevel.StaticMeshActor_960.StaticMeshComponent0
+[2022.09.01-23.21.57:323][171]    Primitive StaticMeshComponent /Game/Assets/TFG_Map.TFG_Map:PersistentLevel.StaticMeshActor_918.StaticMeshComponent0
+[2022.09.01-23.21.57:323][171]    Primitive StaticMeshComponent /Game/Assets/TFG_Map.TFG_Map:PersistentLevel.StaticMeshActor_917.StaticMeshComponent0
+[2022.09.01-23.26.07:418][171]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s
+[2022.09.01-23.26.07:444][171]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.001856s (248.120067s overbudget)
+[2022.09.01-23.26.08:138][171]LogShaderCompilers: Display: ================================================
+[2022.09.01-23.26.08:138][171]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.01-23.26.08:138][171]LogShaderCompilers: Display: Total job queries 1074, among them cache hits 69 (6.42%)
+[2022.09.01-23.26.08:138][171]LogShaderCompilers: Display: Tracking 924 distinct input hashes that result in 245 distinct outputs (26.52%)
+[2022.09.01-23.26.08:138][171]LogShaderCompilers: Display: RAM used: 1.26 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.15%
+[2022.09.01-23.26.08:138][171]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.01-23.26.08:138][171]LogShaderCompilers: Display: Shaders Compiled: 936
+[2022.09.01-23.26.08:138][171]LogShaderCompilers: Display: Jobs assigned 924, completed 924 (100.00%)
+[2022.09.01-23.26.08:138][171]LogShaderCompilers: Display: Average time worker was idle: 8.25 s
+[2022.09.01-23.26.08:138][171]LogShaderCompilers: Display: Time job spent in pending queue: average 105.93 s, longest 253.45 s
+[2022.09.01-23.26.08:139][171]LogShaderCompilers: Display: Job execution time: average 8.10 s, max 18.71 s
+[2022.09.01-23.26.08:139][171]LogShaderCompilers: Display: Job life time (pending + execution): average 114.03 s, max 254.56
+[2022.09.01-23.26.08:139][171]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 324.18 s
+[2022.09.01-23.26.08:139][171]LogShaderCompilers: Display: Jobs were issued in 245 batches (only local compilation was used), average 3.77 jobs/batch
+[2022.09.01-23.26.08:139][171]LogShaderCompilers: Display: Average processing rate: 2.85 jobs/sec
+[2022.09.01-23.26.08:139][171]LogShaderCompilers: Display: Effective parallelization: 2.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2022.09.01-23.26.08:139][171]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.09.01-23.26.08:139][171]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled   23 times, average 1.81 sec, max 3.06 sec, min 1.37 sec)
+[2022.09.01-23.26.08:139][171]LogShaderCompilers: Display:         TMaterialCHSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled   23 times, average 1.81 sec, max 2.92 sec, min 1.40 sec)
+[2022.09.01-23.26.08:139][171]LogShaderCompilers: Display:                                TMaterialCHSTLightMapPolicyLQ (compiled   23 times, average 1.73 sec, max 2.48 sec, min 1.42 sec)
+[2022.09.01-23.26.08:139][171]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   23 times, average 1.73 sec, max 2.76 sec, min 1.36 sec)
+[2022.09.01-23.26.08:139][171]LogShaderCompilers: Display:                                TMaterialCHSTLightMapPolicyHQ (compiled   23 times, average 1.71 sec, max 2.68 sec, min 1.28 sec)
+[2022.09.01-23.26.08:139][171]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.09.01-23.26.08:139][171]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.00% of total time (compiled   81 times, average 0.76 sec, max 2.41 sec, min 0.51 sec)
+[2022.09.01-23.26.08:139][171]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.66% of total time (compiled   81 times, average 0.72 sec, max 3.00 sec, min 0.43 sec)
+[2022.09.01-23.26.08:139][171]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy - 4.76% of total time (compiled   23 times, average 1.81 sec, max 3.06 sec, min 1.37 sec)
+[2022.09.01-23.26.08:139][171]LogShaderCompilers: Display:         TMaterialCHSTDistanceFieldShadowsAndLightMapPolicyHQ - 4.75% of total time (compiled   23 times, average 1.81 sec, max 2.92 sec, min 1.40 sec)
+[2022.09.01-23.26.08:139][171]LogShaderCompilers: Display:                                TMaterialCHSTLightMapPolicyLQ - 4.55% of total time (compiled   23 times, average 1.73 sec, max 2.48 sec, min 1.42 sec)
+[2022.09.01-23.26.08:139][171]LogShaderCompilers: Display: ================================================
+[2022.09.01-23.26.09:306][171]LogTexture: Display: Building textures: /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData:NewReflectionComponentTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.09.01-23.26.09:432][172]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.09.01-23.26.09:432][172]MapCheck: New page: TFG_Map - Sep 2, 2022, 3:26:09 AM
+[2022.09.01-23.26.09:585][172]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2022.09.01-23.26.09:907][172]MapCheck: Warning: Wall_DoorFrame_Blueprint__C_0 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:907][172]MapCheck: Warning: Wall_Window_Blueprint__C_0 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:907][172]MapCheck: Warning: Wall_100x300_Blueprint_C_0 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:907][172]MapCheck: Warning: Wall_200x300_Blueprint_C_0 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:907][172]MapCheck: Warning: Wall_200x200_Blueprint_C_0 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:907][172]MapCheck: Warning: Wall_300x200_Blueprint_C_0 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:907][172]MapCheck: Warning: Fence_100x100_Blueprint_C_2 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:907][172]MapCheck: Warning: Fence_200x100_Blueprint_C_2 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:907][172]MapCheck: Warning: Fence_300x100_Blueprint_C_2 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:907][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_13 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:907][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_7 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:907][172]MapCheck: Warning: Wall_DoorFrame_300x300_Blueprint_C_0 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:907][172]MapCheck: Warning: B_Tool_Stairs_BGM2_Blueprint_C_0 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:907][172]MapCheck: Warning: Wall_DoorBalcony_300x300_Blueprint_C_0 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:907][172]MapCheck: Warning: Beam_30x250x30_Blueprint_C_0 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:907][172]MapCheck: Warning: Beam_30x350x30_Blueprint_C_0 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:907][172]MapCheck: Warning: Beam_Arch_Blueprint_C_2 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:907][172]MapCheck: Warning: Beam_Arch_Small_Blueprint_C_1 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: Beam_Arch_Blueprint_C_5 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: Beam_Arch_Blueprint_C_8 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: Beam_Arch_Blueprint_C_9 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: Beam_30x100x30_Blueprint_C_7 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: Doorl_100x240_Blueprint_C_0 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: PlantPot_Blueprint_C_0 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: Wall_100x200_Blueprint_C_6 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: Roof_300x300_Blueprint_C_0 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: Roof_200x300_Blueprint_C_0 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: Roof_100x300_Blueprint2_Blueprint_C_0 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: Roof_300x200_Blueprint_C_0 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: Roof_200x200_Blueprint_C_0 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: Roof_100x200_Blueprint_C_0 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: Roof_300x100_Blueprint_C_0 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: Roof_200x100_Blueprint_C_0 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: Roof_100x100_Blueprint_C_0 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: B_GeneratedTube_C_11 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: B_GeneratedTube_C_15 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: B_GeneratedTube_C_16 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: B_GeneratedTube_C_17 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: B_GeneratedTube_C_18 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: StairStep_Blueprint_C_0 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: Roof_Wall_1_Blueprint_C_0 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: Roof_Wall_2_Blueprint_C_0 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: Roof_Wall_Big_Blueprint_C_0 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: Roof_Wall_145x200_Blueprint_C_0 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: Wall_300x300_Blueprint_C_51 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:908][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_77 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:909][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_130 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:909][172]MapCheck: Warning: Wall_Window_Blueprint_C_42 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:909][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_154 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:909][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_181 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:909][172]MapCheck: Warning: Wall_Window_Blueprint_C_43 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:909][172]MapCheck: Warning: Wall_200x300_Blueprint_C_22 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:909][172]MapCheck: Warning: Wall_200x300_Blueprint_C_28 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:909][172]MapCheck: Warning: Wall_DoorFrame_Blueprint_C_3 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:909][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_199 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:909][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_204 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:909][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_206 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:909][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_207 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:909][172]MapCheck: Warning: Wall_Window_Blueprint_C_44 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:909][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_210 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:909][172]MapCheck: Warning: Wall_200x300_Blueprint_C_29 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:909][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_211 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:909][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_212 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:909][172]MapCheck: Warning: Wall_200x300_Blueprint_C_33 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:909][172]MapCheck: Warning: Wall_300x300_Blueprint_C_94 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:909][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_229 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:909][172]MapCheck: Warning: Wall_300x300_Blueprint_C_95 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:909][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_230 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:909][172]MapCheck: Warning: Wall_300x300_Blueprint_C_96 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:909][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_231 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:909][172]MapCheck: Warning: Wall_300x300_Blueprint_C_97 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:909][172]MapCheck: Warning: Wall_300x300_Blueprint_C_98 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:909][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_232 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:910][172]MapCheck: Warning: Wall_300x300_Blueprint_C_99 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:910][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_233 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:910][172]MapCheck: Warning: Wall_300x300_Blueprint_C_100 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:910][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_234 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:910][172]MapCheck: Warning: Wall_300x300_Blueprint_C_101 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:910][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_235 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:910][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_236 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:910][172]MapCheck: Warning: Wall_Window_Blueprint_C_50 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:910][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_237 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:910][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_239 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:910][172]MapCheck: Warning: Wall_Window_Blueprint_C_51 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:910][172]MapCheck: Warning: Wall_200x300_Blueprint_C_39 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:910][172]MapCheck: Warning: Wall_200x300_Blueprint_C_40 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:910][172]MapCheck: Warning: Wall_DoorFrame_Blueprint_C_6 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:910][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_240 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:910][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_241 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:910][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_242 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:910][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_243 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:910][172]MapCheck: Warning: Wall_Window_Blueprint_C_52 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:910][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_246 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:910][172]MapCheck: Warning: Wall_200x300_Blueprint_C_41 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:910][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_247 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:910][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_248 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:910][172]MapCheck: Warning: Wall_200x300_Blueprint_C_42 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:910][172]MapCheck: Warning: Wall_300x300_Blueprint_C_106 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:910][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_255 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:911][172]MapCheck: Warning: Wall_300x300_Blueprint_C_107 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:911][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_256 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:911][172]MapCheck: Warning: Wall_300x300_Blueprint_C_108 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:911][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_257 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:911][172]MapCheck: Warning: Wall_300x300_Blueprint_C_109 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:911][172]MapCheck: Warning: Wall_300x300_Blueprint_C_110 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:911][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_258 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:911][172]MapCheck: Warning: Wall_300x300_Blueprint_C_111 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:911][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_259 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:911][172]MapCheck: Warning: Wall_300x300_Blueprint_C_112 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:911][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_260 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:911][172]MapCheck: Warning: Wall_300x300_Blueprint_C_113 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:911][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_269 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:911][172]MapCheck: Warning: Wall_200x300_Blueprint_C_47 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:911][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_270 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:911][172]MapCheck: Warning: Wall_200x300_Blueprint_C_48 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:911][172]MapCheck: Warning: Wall_200x300_Blueprint_C_49 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:911][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_271 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:911][172]MapCheck: Warning: Wall_200x300_Blueprint_C_50 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:911][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_272 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:911][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_274 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:911][172]MapCheck: Warning: Wall_Window_Blueprint_C_54 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:911][172]MapCheck: Warning: Wall_200x300_Blueprint_C_51 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:911][172]MapCheck: Warning: Wall_200x300_Blueprint_C_52 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:911][172]MapCheck: Warning: Wall_DoorFrame_Blueprint_C_9 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:911][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_275 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:912][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_276 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:912][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_278 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:912][172]MapCheck: Warning: Wall_Window_Blueprint_C_55 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:912][172]MapCheck: Warning: Wall_200x300_Blueprint_C_53 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:912][172]MapCheck: Warning: Wall_200x300_Blueprint_C_54 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:912][172]MapCheck: Warning: Wall_DoorFrame_Blueprint_C_10 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:912][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_279 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:912][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_280 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:912][172]MapCheck: Warning: Wall_200x200_Blueprint_C_9 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:912][172]MapCheck: Warning: Wall_300x200_Blueprint_C_56 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:912][172]MapCheck: Warning: Wall_200x200_Blueprint_C_10 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:912][172]MapCheck: Warning: Wall_300x200_Blueprint_C_57 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:912][172]MapCheck: Warning: Wall_200x200_Blueprint_C_16 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:912][172]MapCheck: Warning: Wall_200x200_Blueprint_C_17 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:912][172]MapCheck: Warning: Wall_200x200_Blueprint_C_18 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:912][172]MapCheck: Warning: Wall_200x200_Blueprint_C_19 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:912][172]MapCheck: Warning: Wall_200x200_Blueprint_C_20 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:912][172]MapCheck: Warning: Wall_200x200_Blueprint_C_21 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:912][172]MapCheck: Warning: Wall_200x200_Blueprint_C_22 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:912][172]MapCheck: Warning: Wall_200x200_Blueprint_C_23 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:912][172]MapCheck: Warning: Wall_300x200_Blueprint_C_58 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:912][172]MapCheck: Warning: Wall_300x200_Blueprint_C_59 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:912][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_49 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:912][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_91 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:913][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_92 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:913][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_93 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:913][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_94 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:913][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_95 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:913][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_96 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:913][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_107 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:913][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_115 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:913][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_116 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:913][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_117 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:913][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_119 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:913][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_122 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:913][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_127 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:913][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_128 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:913][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_129 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:913][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_130 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:913][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_131 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:913][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_132 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:913][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_133 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:913][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_134 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:913][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_135 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:914][172]MapCheck: Warning: Wall_300x200_Blueprint_C_60 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:914][172]MapCheck: Warning: Wall_300x200_Blueprint_C_61 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:914][172]MapCheck: Warning: Wall_300x200_Blueprint_C_62 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:914][172]MapCheck: Warning: Wall_300x200_Blueprint_C_63 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:914][172]MapCheck: Warning: Wall_300x200_Blueprint_C_64 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:914][172]MapCheck: Warning: Wall_300x200_Blueprint_C_65 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:914][172]MapCheck: Warning: Wall_300x200_Blueprint_C_66 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:914][172]MapCheck: Warning: Wall_300x200_Blueprint_C_67 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:914][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_281 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:914][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_282 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:914][172]MapCheck: Warning: Wall_Window_Blueprint_C_56 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:914][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_283 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:914][172]MapCheck: Warning: Wall_200x300_Blueprint_C_55 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:914][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_284 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:914][172]MapCheck: Warning: Wall_200x300_Blueprint_C_56 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:914][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_285 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:914][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_286 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:914][172]MapCheck: Warning: Wall_Window_Blueprint_C_57 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:914][172]MapCheck: Warning: Wall_200x300_Blueprint_C_57 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:914][172]MapCheck: Warning: Wall_200x300_Blueprint_C_58 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:914][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_287 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:914][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_288 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:914][172]MapCheck: Warning: Wall_200x300_Blueprint_C_59 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:915][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_289 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:915][172]MapCheck: Warning: Wall_300x300_Blueprint_C_114 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:915][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_290 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:915][172]MapCheck: Warning: Wall_300x300_Blueprint_C_115 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:915][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_291 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:915][172]MapCheck: Warning: Wall_300x300_Blueprint_C_116 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:915][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_292 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:915][172]MapCheck: Warning: Wall_300x300_Blueprint_C_117 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:915][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_293 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:915][172]MapCheck: Warning: Wall_300x300_Blueprint_C_118 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:915][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_294 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:915][172]MapCheck: Warning: Wall_300x300_Blueprint_C_119 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:915][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_295 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:915][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_296 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:915][172]MapCheck: Warning: Wall_Window_Blueprint_C_58 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:915][172]MapCheck: Warning: Wall_200x300_Blueprint_C_60 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:915][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_297 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:915][172]MapCheck: Warning: Wall_200x300_Blueprint_C_61 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:915][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_298 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:915][172]MapCheck: Warning: Wall_Window_Blueprint_C_59 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:915][172]MapCheck: Warning: Wall_200x300_Blueprint_C_62 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:915][172]MapCheck: Warning: Wall_200x300_Blueprint_C_63 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:916][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_299 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:916][172]MapCheck: Warning: Beam_30x300x30_Blueprint_C_300 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:916][172]MapCheck: Warning: Wall_300x300_Blueprint_C_121 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:916][172]MapCheck: Warning: Wall_300x300_Blueprint_C_132 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:916][172]MapCheck: Warning: Wall_300x300_Blueprint_C_139 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:916][172]MapCheck: Warning: Wall_300x300_Blueprint_C_158 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:916][172]MapCheck: Warning: Wall_300x300_Blueprint_C_159 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:916][172]MapCheck: Warning: Wall_300x300_Blueprint_C_164 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:916][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_136 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:916][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_137 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:916][172]MapCheck: Warning: Fence_300x100_Blueprint_C_68 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:916][172]MapCheck: Warning: Fence_300x100_Blueprint_C_69 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:916][172]MapCheck: Warning: Fence_300x100_Blueprint_C_70 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:916][172]MapCheck: Warning: Fence_300x100_Blueprint_C_71 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:916][172]MapCheck: Warning: Fence_300x100_Blueprint_C_72 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:916][172]MapCheck: Warning: Fence_300x100_Blueprint_C_73 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:916][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_138 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:916][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_139 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:916][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_140 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:916][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_141 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:916][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_142 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:917][172]MapCheck: Warning: Beam_30x200x30_Blueprint_C_143 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:917][172]MapCheck: Warning: Wall_DoorFrame_Blueprint_C_11 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:917][172]MapCheck: Warning: Fence_300x100_Blueprint_C_76 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:917][172]MapCheck: Warning: Fence_300x100_Blueprint_C_77 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:917][172]MapCheck: Warning: Wall_300x300_Blueprint_C_166 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:917][172]MapCheck: Warning: Wall_300x300_Blueprint_C_168 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:917][172]MapCheck: Warning: Wall_300x300_Blueprint_C_169 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:917][172]MapCheck: Warning: Wall_300x300_Blueprint_C_170 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:917][172]MapCheck: Warning: Wall_300x300_Blueprint_C_171 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:917][172]MapCheck: Warning: Wall_300x300_Blueprint_C_180 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:917][172]MapCheck: Warning: Wall_300x300_Blueprint_C_183 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:917][172]MapCheck: Warning: Wall_300x300_Blueprint_C_184 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:917][172]MapCheck: Warning: Wall_300x300_Blueprint_C_185 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:917][172]MapCheck: Warning: Wall_300x300_Blueprint_C_186 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:917][172]MapCheck: Warning: Wall_300x300_Blueprint_C_187 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:917][172]MapCheck: Warning: Wall_300x300_Blueprint_C_188 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:917][172]MapCheck: Warning: Wall_300x300_Blueprint_C_189 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:917][172]MapCheck: Warning: Wall_300x300_Blueprint_C_190 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:917][172]MapCheck: Warning: Wall_300x300_Blueprint_C_202 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:917][172]MapCheck: Warning: Wall_300x300_Blueprint_C_219 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:917][172]MapCheck: Warning: Wall_300x300_Blueprint_C_227 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:918][172]MapCheck: Warning: Wall_300x300_Blueprint_C_228 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:918][172]MapCheck: Warning: Wall_300x300_Blueprint_C_92 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:918][172]MapCheck: Warning: Wall_300x300_Blueprint_C_93 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:918][172]MapCheck: Warning: Wall_300x300_Blueprint_C_102 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:918][172]MapCheck: Warning: Wall_300x300_Blueprint_C_103 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:918][172]MapCheck: Warning: Wall_300x300_Blueprint_C_104 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:918][172]MapCheck: Warning: Wall_300x300_Blueprint_C_105 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:918][172]MapCheck: Warning: Wall_300x300_Blueprint_C_235 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:918][172]MapCheck: Warning: Wall_300x300_Blueprint_C_236 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:918][172]MapCheck: Warning: Wall_300x300_Blueprint_C_237 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:918][172]MapCheck: Warning: Wall_300x300_Blueprint_C_238 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:918][172]MapCheck: Warning: Wall_300x300_Blueprint_C_239 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:918][172]MapCheck: Warning: Wall_300x300_Blueprint_C_240 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:919][172]MapCheck: Warning: Fence_200x100_Blueprint_C_64 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:919][172]MapCheck: Warning: Fence_200x100_Blueprint_C_68 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:919][172]MapCheck: Warning: Fence_200x100_Blueprint_C_72 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:919][172]MapCheck: Warning: Fence_200x100_Blueprint_C_73 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:919][172]MapCheck: Warning: Fence_200x100_Blueprint_C_83 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:919][172]MapCheck: Warning: Fence_200x100_Blueprint_C_84 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:919][172]MapCheck: Warning: Fence_200x100_Blueprint_C_85 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:919][172]MapCheck: Warning: Fence_200x100_Blueprint_C_86 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:919][172]MapCheck: Warning: Fence_200x100_Blueprint_C_87 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:919][172]MapCheck: Warning: Fence_200x100_Blueprint_C_88 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:919][172]MapCheck: Warning: Fence_200x100_Blueprint_C_89 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:919][172]MapCheck: Warning: Fence_200x100_Blueprint_C_90 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:919][172]MapCheck: Warning: Fence_200x100_Blueprint_C_91 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:919][172]MapCheck: Warning: Fence_200x100_Blueprint_C_92 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:919][172]MapCheck: Warning: Fence_200x100_Blueprint_C_93 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:919][172]MapCheck: Warning: Fence_200x100_Blueprint_C_94 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:919][172]MapCheck: Warning: Fence_200x100_Blueprint_C_95 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:919][172]MapCheck: Warning: Fence_200x100_Blueprint_C_96 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:919][172]MapCheck: Warning: Fence_200x100_Blueprint_C_97 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:919][172]MapCheck: Warning: Fence_200x100_Blueprint_C_98 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:920][172]MapCheck: Warning: Fence_200x100_Blueprint_C_99 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:920][172]MapCheck: Warning: Fence_200x100_Blueprint_C_100 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:920][172]MapCheck: Warning: Roof_200x200_Blueprint_C_2 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:920][172]MapCheck: Warning: Roof_200x200_Blueprint_C_3 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:920][172]MapCheck: Warning: Roof_200x200_Blueprint_C_4 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:920][172]MapCheck: Warning: Roof_200x200_Blueprint_C_5 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:920][172]MapCheck: Warning: Roof_200x200_Blueprint_C_6 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:920][172]MapCheck: Warning: Roof_200x200_Blueprint_C_7 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:920][172]MapCheck: Warning: Roof_200x200_Blueprint_C_8 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:920][172]MapCheck: Warning: Roof_200x200_Blueprint_C_9 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:920][172]MapCheck: Warning: Roof_200x200_Blueprint_C_10 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:920][172]MapCheck: Warning: Roof_200x200_Blueprint_C_11 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:920][172]MapCheck: Warning: Roof_200x200_Blueprint_C_12 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:920][172]MapCheck: Warning: Roof_200x200_Blueprint_C_13 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:920][172]MapCheck: Warning: Roof_200x200_Blueprint_C_14 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:920][172]MapCheck: Warning: Roof_200x200_Blueprint_C_15 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:920][172]MapCheck: Warning: Roof_200x200_Blueprint_C_16 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:920][172]MapCheck: Warning: Roof_200x200_Blueprint_C_17 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:921][172]MapCheck: Warning: Roof_200x200_Blueprint_C_18 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:921][172]MapCheck: Warning: Roof_200x200_Blueprint_C_19 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:921][172]MapCheck: Warning: Wall_300x300_Blueprint_C_242 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:921][172]MapCheck: Warning: Wall_300x300_Blueprint_C_255 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:921][172]MapCheck: Warning: Wall_300x300_Blueprint_C_256 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:921][172]MapCheck: Warning: Wall_300x300_Blueprint_C_261 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:921][172]MapCheck: Warning: Wall_300x300_Blueprint_C_262 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:921][172]MapCheck: Warning: Wall_300x300_Blueprint_C_263 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:921][172]MapCheck: Warning: Roof_200x200_Blueprint_C_20 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:921][172]MapCheck: Warning: Roof_200x200_Blueprint_C_22 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:921][172]MapCheck: Warning: Roof_200x200_Blueprint_C_23 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:921][172]MapCheck: Warning: Roof_200x200_Blueprint_C_24 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:921][172]MapCheck: Warning: Roof_200x200_Blueprint_C_25 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:921][172]MapCheck: Warning: Roof_200x200_Blueprint_C_26 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:921][172]MapCheck: Warning: Roof_200x200_Blueprint_C_27 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:921][172]MapCheck: Warning: Roof_200x200_Blueprint_C_28 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:921][172]MapCheck: Warning: Roof_200x200_Blueprint_C_29 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:921][172]MapCheck: Warning: Roof_200x200_Blueprint_C_30 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:922][172]MapCheck: Warning: Roof_200x200_Blueprint_C_31 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:922][172]MapCheck: Warning: Roof_200x200_Blueprint_C_32 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:922][172]MapCheck: Warning: Roof_200x200_Blueprint_C_33 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:922][172]MapCheck: Warning: Roof_200x200_Blueprint_C_34 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:922][172]MapCheck: Warning: Roof_200x200_Blueprint_C_35 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:922][172]MapCheck: Warning: Roof_200x200_Blueprint_C_36 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:922][172]MapCheck: Warning: Roof_200x200_Blueprint_C_38 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:922][172]MapCheck: Warning: Roof_200x200_Blueprint_C_39 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:922][172]MapCheck: Warning: B_Tool_RampMakerControl_BGM_C_16 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:922][172]MapCheck: Warning: B_Tool_RampMakerControl_BGM_C_17 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:922][172]MapCheck: Warning: B_Tool_RampMakerControl_BGM_C_18 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:922][172]MapCheck: Warning: B_Tool_RampMakerControl_BGM_C_19 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:922][172]MapCheck: Warning: B_Tool_RampMakerControl_BGM_C_20 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:922][172]MapCheck: Warning: B_Tool_RampMakerControl_BGM_C_21 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:922][172]MapCheck: Warning: B_Tool_RampMakerControl_BGM_C_22 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:922][172]MapCheck: Warning: B_Tool_RampMakerControl_BGM_C_23 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:922][172]MapCheck: Warning: Fence_200x100_Blueprint_C_104 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:922][172]MapCheck: Warning: Fence_200x100_Blueprint_C_105 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:922][172]MapCheck: Warning: Fence_200x100_Blueprint_C_106 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:923][172]MapCheck: Warning: Fence_200x100_Blueprint_C_107 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:923][172]MapCheck: Warning: Fence_200x100_Blueprint_C_108 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:923][172]MapCheck: Warning: Fence_200x100_Blueprint_C_109 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:923][172]MapCheck: Warning: Fence_200x100_Blueprint_C_110 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:923][172]MapCheck: Warning: Fence_200x100_Blueprint_C_111 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:923][172]MapCheck: Warning: Fence_200x100_Blueprint_C_112 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:923][172]MapCheck: Warning: Fence_200x100_Blueprint_C_113 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:923][172]MapCheck: Warning: Fence_200x100_Blueprint_C_114 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:923][172]MapCheck: Warning: Fence_200x100_Blueprint_C_115 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:923][172]MapCheck: Warning: Fence_200x100_Blueprint_C_116 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:923][172]MapCheck: Warning: Fence_200x100_Blueprint_C_117 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:923][172]MapCheck: Warning: Fence_200x100_Blueprint_C_118 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:923][172]MapCheck: Warning: Fence_200x100_Blueprint_C_119 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.09:997][172]MapCheck: Warning: StaticMeshActor_4024 Static mesh actor has NULL StaticMesh property 
+[2022.09.01-23.26.10:038][172]MapCheck: Map check complete: 1 Error(s), 358 Warning(s), took 606.187ms to complete.
+[2022.09.01-23.27.43:681][861]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/v2/Materials/Wood_Stone_Metal.Wood_Stone_Metal
+[2022.09.01-23.27.44:024][861]LogMaterial: Display: Missing cached shadermap for Preview:Wood_Stone_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: 579FEBAB2278DE26DD3F692038CF874B2CD0B8DA), compiling. 
+[2022.09.01-23.27.44:210][861]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.01-23.28.14:057][861]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.09.01-23.28.14:057][861]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049988s
+[2022.09.01-23.28.14:060][861]LogMaterial: Display: Missing cached shadermap for Preview:Wood_Stone_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: 235AC03D0F3CF812DC3BF64AB993A1DCE159877F), compiling. 
+[2022.09.01-23.28.14:176][861]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.09.01-23.28.14:179][861]LogMaterial: Display: Missing cached shadermap for Preview:Wood_Stone_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: BF91899D42EA4B03D32D4C62A92570D44C191BA8), compiling. 
+[2022.09.01-23.28.14:182][861]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7D44CDD2E8EEE8005D6EAF42C6E01D646F1B2551), compiling. 
+[2022.09.01-23.28.14:184][861]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 36FCD0FE43CCB5E0C9CC4EC7C24A3B3776B43B2B), compiling. 
+[2022.09.01-23.28.14:217][861]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.003406s (0.213579s overbudget)
+[2022.09.01-23.28.14:225][861]MaterialEditorStats: Texture samplers: 0/16
+[2022.09.01-23.28.14:225][861]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.09.01-23.28.14:225][861]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.09.01-23.28.14:225][861]MaterialEditorStats: Shader Count: 0
+[2022.09.01-23.28.14:288][861]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=5708
+[2022.09.01-23.28.14:310][861]LogViewport: Scene viewport resized to 214x334, mode Windowed.
+[2022.09.01-23.28.14:727][862]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [27445ms] waiting for h/w. InstanceID=1
+[2022.09.01-23.28.14:749][863]MaterialEditorStats: Texture samplers: 4/16
+[2022.09.01-23.28.14:749][863]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.09.01-23.28.14:749][863]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.09.01-23.28.14:749][863]MaterialEditorStats: Shader Count: 8
+[2022.09.01-23.28.15:139][874]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=44100, DeviceID={0.0.0.00000000}.{6ff34d0c-0f82-4b03-8ddd-77509b8e03e4}, Name=Altavoces (Logitech PRO X Gaming Headset)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=665.64
+[2022.09.01-23.28.15:295][874]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2022.09.01-23.28.15:305][875]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.01-23.28.17:799][ 94]LogSlate: Window 'Wood_Stone_Metal' being destroyed
+[2022.09.01-23.28.17:804][ 94]LogSlate: Window 'Wood_Stone_Metal' being destroyed
+[2022.09.01-23.28.17:832][ 94]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-23.28.17:832][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-23.29.33:409][ 35]Cmd: MODE SCALEGRID=0
+[2022.09.01-23.30.07:117][461]Cmd: TRANSACTION UNDO
+[2022.09.01-23.30.07:118][461]LogEditorTransaction: Undo Rotate Elements
+[2022.09.01-23.30.08:391][553]Cmd: TRANSACTION UNDO
+[2022.09.01-23.30.08:391][553]LogEditorTransaction: Undo Rotate Elements
+[2022.09.01-23.30.38:279][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/TFG_Map" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/TFG_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.01-23.30.38:308][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.09.01-23.30.39:073][907]LogSavePackage: Moving output files for package: /Game/Assets/TFG_Map
+[2022.09.01-23.30.39:074][907]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/TFG_MapDA47159F4F3419AE4856D39C1106F69F.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/TFG_Map.umap'
+[2022.09.01-23.30.39:149][907]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Assets/TFG_Map_BuiltData
+[2022.09.01-23.30.39:149][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/TFG_Map_BuiltData" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/TFG_Map_BuiltData.uasset" SILENT=true
+[2022.09.01-23.30.54:385][907]LogSavePackage: Moving output files for package: /Game/Assets/TFG_Map_BuiltData
+[2022.09.01-23.30.54:385][907]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/TFG_Map_BuiltData42DD10C24E85CA7ACD6D71886844BBFA.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/TFG_Map_BuiltData.uasset'
+[2022.09.01-23.30.54:386][907]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Assets/TFG_Map_BuiltData
+[2022.09.01-23.30.54:503][907]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.01-23.30.54:503][907]LogContentValidation: Display: Validating World /Game/Assets/TFG_Map.TFG_Map
+[2022.09.01-23.30.54:503][907]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/TFG_Map_BuiltData.TFG_Map_BuiltData
+[2022.09.01-23.31.12:284][695]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.01-23.31.18:877][362]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.01-23.31.33:453][ 16]Cmd: DELETE
+[2022.09.01-23.31.33:454][ 16]Cmd: ACTOR DELETE
+[2022.09.01-23.31.33:636][ 16]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.01-23.31.33:668][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.09.01-23.31.33:671][ 16]LogEditorActor: Deleted 1 Actors (0.212 secs)
+[2022.09.01-23.31.58:585][657]Cmd: DELETE
+[2022.09.01-23.31.58:585][657]Cmd: ACTOR DELETE
+[2022.09.01-23.31.58:626][657]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.01-23.31.58:637][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.09.01-23.31.58:640][657]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2022.09.01-23.32.05:910][459]Cmd: DELETE
+[2022.09.01-23.32.05:910][459]Cmd: ACTOR DELETE
+[2022.09.01-23.32.05:951][459]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.01-23.32.05:961][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.09.01-23.32.05:963][459]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2022.09.01-23.32.20:066][766]Cmd: TRANSACTION UNDO
+[2022.09.01-23.32.20:066][766]LogEditorTransaction: Undo Move Elements
+[2022.09.01-23.33.56:346][713]Cmd: DELETE
+[2022.09.01-23.33.56:346][713]Cmd: ACTOR DELETE
+[2022.09.01-23.33.56:383][713]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.01-23.33.56:394][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.09.01-23.33.56:396][713]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2022.09.01-23.34.00:308][148]Cmd: DELETE
+[2022.09.01-23.34.00:308][148]Cmd: ACTOR DELETE
+[2022.09.01-23.34.00:347][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.01-23.34.00:358][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.09.01-23.34.00:359][148]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2022.09.01-23.34.00:839][196]Cmd: DELETE
+[2022.09.01-23.34.00:839][196]Cmd: ACTOR DELETE
+[2022.09.01-23.34.00:877][196]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.01-23.34.00:887][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.01-23.34.00:889][196]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2022.09.01-23.34.01:368][247]Cmd: DELETE
+[2022.09.01-23.34.01:368][247]Cmd: ACTOR DELETE
+[2022.09.01-23.34.01:406][247]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.01-23.34.01:417][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.01-23.34.01:418][247]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2022.09.01-23.34.01:861][290]Cmd: DELETE
+[2022.09.01-23.34.01:861][290]Cmd: ACTOR DELETE
+[2022.09.01-23.34.01:899][290]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.01-23.34.01:909][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.09.01-23.34.01:911][290]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2022.09.01-23.34.02:377][336]Cmd: DELETE
+[2022.09.01-23.34.02:377][336]Cmd: ACTOR DELETE
+[2022.09.01-23.34.02:415][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.01-23.34.02:428][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.01-23.34.02:430][336]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2022.09.01-23.34.02:812][372]Cmd: DELETE
+[2022.09.01-23.34.02:812][372]Cmd: ACTOR DELETE
+[2022.09.01-23.34.02:850][372]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.01-23.34.02:863][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.09.01-23.34.02:864][372]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2022.09.01-23.34.03:247][408]Cmd: DELETE
+[2022.09.01-23.34.03:247][408]Cmd: ACTOR DELETE
+[2022.09.01-23.34.03:286][408]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.01-23.34.03:297][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.09.01-23.34.03:299][408]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2022.09.01-23.34.03:662][441]Cmd: DELETE
+[2022.09.01-23.34.03:662][441]Cmd: ACTOR DELETE
+[2022.09.01-23.34.03:703][441]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.01-23.34.03:714][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.09.01-23.34.03:716][441]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2022.09.01-23.34.04:121][483]Cmd: DELETE
+[2022.09.01-23.34.04:121][483]Cmd: ACTOR DELETE
+[2022.09.01-23.34.04:159][483]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.01-23.34.04:171][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.01-23.34.04:172][483]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2022.09.01-23.34.04:608][529]Cmd: DELETE
+[2022.09.01-23.34.04:608][529]Cmd: ACTOR DELETE
+[2022.09.01-23.34.04:646][529]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.01-23.34.04:657][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.01-23.34.04:658][529]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2022.09.01-23.34.05:851][662]Cmd: DELETE
+[2022.09.01-23.34.05:851][662]Cmd: ACTOR DELETE
+[2022.09.01-23.34.05:889][662]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.01-23.34.05:900][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.01-23.34.05:902][662]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2022.09.01-23.34.17:082][819]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.01-23.35.28:199][804]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.01-23.36.23:675][886]Cmd: MODE GRID=0
+[2022.09.01-23.36.45:707][247]Cmd: MODE GRID=1
+[2022.09.01-23.39.03:034][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/TFG_Map" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/TFG_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.01-23.39.03:047][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.09.01-23.39.03:784][369]LogSavePackage: Moving output files for package: /Game/Assets/TFG_Map
+[2022.09.01-23.39.03:785][369]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/TFG_Map2A8C86C54926BC17307670AC1F0D736A.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/TFG_Map.umap'
+[2022.09.01-23.39.03:815][369]LogFileHelpers: No new changes to save!
+[2022.09.01-23.39.03:830][369]AssetCheck: New page: Asset Save: TFG_Map
+[2022.09.01-23.39.03:830][369]LogContentValidation: Display: Validating World /Game/Assets/TFG_Map.TFG_Map
+[2022.09.01-23.39.23:597][500]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.01-23.40.01:925][622]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.01-23.40.15:576][ 44]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.01-23.40.53:031][971]Cmd: DELETE
+[2022.09.01-23.40.53:031][971]Cmd: ACTOR DELETE
+[2022.09.01-23.40.53:070][971]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.01-23.40.53:081][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.09.01-23.40.53:083][971]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2022.09.01-23.40.58:822][591]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.01-23.41.05:974][296]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.01-23.41.37:412][476]Cmd: TRANSACTION UNDO
+[2022.09.01-23.41.37:412][476]LogEditorTransaction: Undo Scale Elements
+[2022.09.01-23.41.38:151][505]Cmd: TRANSACTION UNDO
+[2022.09.01-23.41.38:151][505]LogEditorTransaction: Undo Scale Elements
+[2022.09.01-23.41.38:704][551]Cmd: TRANSACTION UNDO
+[2022.09.01-23.41.38:704][551]LogEditorTransaction: Undo Scale Elements
+[2022.09.01-23.42.41:525][383]Cmd: MODE GRID=0
+[2022.09.01-23.43.26:619][477]Cmd: TRANSACTION UNDO
+[2022.09.01-23.43.26:619][477]LogEditorTransaction: Undo Move Elements
+[2022.09.01-23.44.18:232][959]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.01-23.44.22:859][397]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.01-23.44.24:502][581]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.01-23.44.45:286][724]Cmd: DELETE
+[2022.09.01-23.44.45:286][724]Cmd: ACTOR DELETE
+[2022.09.01-23.44.45:326][724]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.01-23.44.45:380][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.09.01-23.44.45:382][724]LogEditorActor: Deleted 1 Actors (0.096 secs)
+[2022.09.01-23.45.42:645][770]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.01-23.45.47:950][305]Cmd: TRANSACTION UNDO
+[2022.09.01-23.45.47:950][305]LogEditorTransaction: Undo Move Elements
+[2022.09.01-23.45.49:018][372]Cmd: MODE GRID=1
+[2022.09.01-23.46.29:085][491]LogDerivedDataCache: C:/Users/PcCom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:28.365 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.01-23.46.46:717][423]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.01-23.47.22:601][225]Cmd: DELETE
+[2022.09.01-23.47.22:601][225]Cmd: ACTOR DELETE
+[2022.09.01-23.47.22:640][225]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.01-23.47.22:652][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.09.01-23.47.22:655][225]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2022.09.01-23.47.31:357][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/TFG_Map" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/TFG_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.01-23.47.31:367][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.09.01-23.47.32:112][134]LogSavePackage: Moving output files for package: /Game/Assets/TFG_Map
+[2022.09.01-23.47.32:113][134]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/TFG_MapC63FF20448ACEA0D61EFFA9E1C4CB1A4.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/TFG_Map.umap'
+[2022.09.01-23.47.32:128][134]LogFileHelpers: No new changes to save!
+[2022.09.01-23.47.32:144][134]AssetCheck: New page: Asset Save: TFG_Map
+[2022.09.01-23.47.32:144][134]LogContentValidation: Display: Validating World /Game/Assets/TFG_Map.TFG_Map
+[2022.09.01-23.47.46:289][553]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.01-23.48.27:389][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/TFG_Map" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/TFG_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.01-23.48.27:403][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.09.01-23.48.28:138][  3]LogSavePackage: Moving output files for package: /Game/Assets/TFG_Map
+[2022.09.01-23.48.28:139][  3]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/TFG_MapAD81EA8A43E2187C7051F8A4DF3FABD7.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/TFG_Map.umap'
+[2022.09.01-23.48.28:154][  3]LogFileHelpers: No new changes to save!
+[2022.09.01-23.48.28:170][  3]AssetCheck: New page: Asset Save: TFG_Map
+[2022.09.01-23.48.28:170][  3]LogContentValidation: Display: Validating World /Game/Assets/TFG_Map.TFG_Map
+[2022.09.01-23.48.37:471][ 33]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.01-23.48.47:654][ 65]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.01-23.49.30:038][437]Cmd: TRANSACTION UNDO
+[2022.09.01-23.49.30:038][437]LogEditorTransaction: Undo Rotate Elements
+[2022.09.01-23.49.54:312][992]Cmd: DELETE
+[2022.09.01-23.49.54:312][992]Cmd: ACTOR DELETE
+[2022.09.01-23.49.54:349][992]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.01-23.49.54:362][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.09.01-23.49.54:364][992]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2022.09.01-23.49.56:249][209]Cmd: DELETE
+[2022.09.01-23.49.56:249][209]Cmd: ACTOR DELETE
+[2022.09.01-23.49.56:288][209]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.01-23.49.56:299][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.01-23.49.56:300][209]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2022.09.01-23.50.15:317][207]Cmd: TRANSACTION UNDO
+[2022.09.01-23.50.15:317][207]LogEditorTransaction: Undo Scale Elements
+[2022.09.01-23.50.18:063][456]Cmd: TRANSACTION UNDO
+[2022.09.01-23.50.18:063][456]LogEditorTransaction: Undo Scale Elements
+[2022.09.01-23.52.44:961][339]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.01-23.53.52:640][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/TFG_Map" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/TFG_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.01-23.53.52:651][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.09.01-23.53.53:386][951]LogSavePackage: Moving output files for package: /Game/Assets/TFG_Map
+[2022.09.01-23.53.53:387][951]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/TFG_MapA37296BA4367670D4637B2BF83A16D8D.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/TFG_Map.umap'
+[2022.09.01-23.53.53:402][951]LogFileHelpers: No new changes to save!
+[2022.09.01-23.53.53:417][951]AssetCheck: New page: Asset Save: TFG_Map
+[2022.09.01-23.53.53:417][951]LogContentValidation: Display: Validating World /Game/Assets/TFG_Map.TFG_Map
+[2022.09.01-23.54.09:038][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.09.01-23.54.14:574][728]LogSlate: Window 'Save Content' being destroyed
+[2022.09.01-23.54.14:657][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Balcony" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/Balcony.uasset" SILENT=true
+[2022.09.01-23.54.14:710][728]LogSavePackage: Moving output files for package: /Game/Textures/Balcony
+[2022.09.01-23.54.14:710][728]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/BalconyCDFF48BB4B94D61BDAB623AD58FB4BBA.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/Balcony.uasset'
+[2022.09.01-23.54.14:744][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Beam" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/Beam.uasset" SILENT=true
+[2022.09.01-23.54.14:770][728]LogSavePackage: Moving output files for package: /Game/Textures/Beam
+[2022.09.01-23.54.14:770][728]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/BeamE195CBC3410E691A94043C8813D8D84B.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/Beam.uasset'
+[2022.09.01-23.54.14:780][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Beam2" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/Beam2.uasset" SILENT=true
+[2022.09.01-23.54.14:826][728]LogSavePackage: Moving output files for package: /Game/Textures/Beam2
+[2022.09.01-23.54.14:827][728]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Beam2D9DA5BD84760D03EA8A02A898D31A21E.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/Beam2.uasset'
+[2022.09.01-23.54.14:851][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/v2/Materials/BlueRoof_Wall_Glass" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Materials/BlueRoof_Wall_Glass.uasset" SILENT=true
+[2022.09.01-23.54.14:852][728]LogSavePackage: Moving output files for package: /Game/Assets/v2/Materials/BlueRoof_Wall_Glass
+[2022.09.01-23.54.14:853][728]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/BlueRoof_Wall_GlassC431163E494D26879454499E00B96307.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Materials/BlueRoof_Wall_Glass.uasset'
+[2022.09.01-23.54.14:861][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Door" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/Door.uasset" SILENT=true
+[2022.09.01-23.54.14:885][728]LogSavePackage: Moving output files for package: /Game/Textures/Door
+[2022.09.01-23.54.14:886][728]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/DoorA6292FAC4DC9602A3A07DB8FAC306101.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/Door.uasset'
+[2022.09.01-23.54.14:899][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Fence" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/Fence.uasset" SILENT=true
+[2022.09.01-23.54.14:918][728]LogSavePackage: Moving output files for package: /Game/Textures/Fence
+[2022.09.01-23.54.14:919][728]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Fence45B665FD44B857CAB1AB19953085893B.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/Fence.uasset'
+[2022.09.01-23.54.14:927][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Water/grassMaterial" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Water/grassMaterial.uasset" SILENT=true
+[2022.09.01-23.54.14:991][728]LogSavePackage: Moving output files for package: /Game/Assets/Water/grassMaterial
+[2022.09.01-23.54.14:992][728]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/grassMaterial4C73C76D4FFD4CB2B4DEE892615810FC.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Water/grassMaterial.uasset'
+[2022.09.01-23.54.15:000][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Water/grassMaterial_Inst" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Water/grassMaterial_Inst.uasset" SILENT=true
+[2022.09.01-23.54.15:033][728]LogSavePackage: Moving output files for package: /Game/Assets/Water/grassMaterial_Inst
+[2022.09.01-23.54.15:034][728]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/grassMaterial_Inst1B5ECD3348396215A78C8DA51117C185.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Water/grassMaterial_Inst.uasset'
+[2022.09.01-23.54.15:042][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/v2/Materials/Green_Red_Roof" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Materials/Green_Red_Roof.uasset" SILENT=true
+[2022.09.01-23.54.15:076][728]LogSavePackage: Moving output files for package: /Game/Assets/v2/Materials/Green_Red_Roof
+[2022.09.01-23.54.15:077][728]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Green_Red_Roof53FB93E04C0B951281BA3F814A24E6B2.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Materials/Green_Red_Roof.uasset'
+[2022.09.01-23.54.15:085][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/v2/Materials/Ground" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Materials/Ground.uasset" SILENT=true
+[2022.09.01-23.54.15:119][728]LogSavePackage: Moving output files for package: /Game/Assets/v2/Materials/Ground
+[2022.09.01-23.54.15:119][728]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/GroundBD8724F4483622A592DF54AA20C4A031.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Materials/Ground.uasset'
+[2022.09.01-23.54.15:128][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Rocks/lambert1" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Rocks/lambert1.uasset" SILENT=true
+[2022.09.01-23.54.15:176][728]LogSavePackage: Moving output files for package: /Game/Assets/Rocks/lambert1
+[2022.09.01-23.54.15:177][728]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/lambert19385161E471B918A6EAA03835A12D306.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Rocks/lambert1.uasset'
+[2022.09.01-23.54.15:206][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/v2/Props/lambert1" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Props/lambert1.uasset" SILENT=true
+[2022.09.01-23.54.15:223][728]LogSavePackage: Moving output files for package: /Game/Assets/v2/Props/lambert1
+[2022.09.01-23.54.15:224][728]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/lambert1C1A0747347F439AF1AC17DAEB7FF9B5A.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Props/lambert1.uasset'
+[2022.09.01-23.54.15:236][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/v2/Props/Materials/MatAnvil" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Props/Materials/MatAnvil.uasset" SILENT=true
+[2022.09.01-23.54.15:269][728]LogSavePackage: Moving output files for package: /Game/Assets/v2/Props/Materials/MatAnvil
+[2022.09.01-23.54.15:270][728]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/MatAnvil6EA684574E5EA7B0FF61EEAC7B02CFCF.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Props/Materials/MatAnvil.uasset'
+[2022.09.01-23.54.15:279][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/v2/Props/Materials/MatLantA" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Props/Materials/MatLantA.uasset" SILENT=true
+[2022.09.01-23.54.15:281][728]LogSavePackage: Moving output files for package: /Game/Assets/v2/Props/Materials/MatLantA
+[2022.09.01-23.54.15:282][728]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/MatLantAF2AF280B4B885D403B0D54B01AFE54B6.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Props/Materials/MatLantA.uasset'
+[2022.09.01-23.54.15:290][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/v2/Props/Materials/MatLantB" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Props/Materials/MatLantB.uasset" SILENT=true
+[2022.09.01-23.54.15:310][728]LogSavePackage: Moving output files for package: /Game/Assets/v2/Props/Materials/MatLantB
+[2022.09.01-23.54.15:311][728]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/MatLantBBD0208D24B900880A84AFF9976BD6273.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Props/Materials/MatLantB.uasset'
+[2022.09.01-23.54.15:319][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/v2/Props/Materials/MatLantPole" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Props/Materials/MatLantPole.uasset" SILENT=true
+[2022.09.01-23.54.15:336][728]LogSavePackage: Moving output files for package: /Game/Assets/v2/Props/Materials/MatLantPole
+[2022.09.01-23.54.15:337][728]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/MatLantPole0D0B04FD493D1A1646B430AA5FCD47AC.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Props/Materials/MatLantPole.uasset'
+[2022.09.01-23.54.15:345][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/roofA" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/roofA.uasset" SILENT=true
+[2022.09.01-23.54.15:372][728]LogSavePackage: Moving output files for package: /Game/Textures/roofA
+[2022.09.01-23.54.15:372][728]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/roofA97CDC55A49A9AC095DC3D8862522BAFE.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/roofA.uasset'
+[2022.09.01-23.54.15:381][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/roofB" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/roofB.uasset" SILENT=true
+[2022.09.01-23.54.15:427][728]LogSavePackage: Moving output files for package: /Game/Textures/roofB
+[2022.09.01-23.54.15:428][728]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/roofBA95A668443BEA4100FE1DCB72B7F8CDB.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/roofB.uasset'
+[2022.09.01-23.54.15:437][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/roofSquare" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/roofSquare.uasset" SILENT=true
+[2022.09.01-23.54.15:462][728]LogSavePackage: Moving output files for package: /Game/Textures/roofSquare
+[2022.09.01-23.54.15:463][728]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/roofSquare4E14BFC84CA94E38F13374821C4703BE.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/roofSquare.uasset'
+[2022.09.01-23.54.15:471][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/v2/Materials/StoneGround" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Materials/StoneGround.uasset" SILENT=true
+[2022.09.01-23.54.15:492][728]LogSavePackage: Moving output files for package: /Game/Assets/v2/Materials/StoneGround
+[2022.09.01-23.54.15:493][728]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/StoneGround192F705F4562CC9109D663A58AC11E91.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Materials/StoneGround.uasset'
+[2022.09.01-23.54.15:517][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Water/StylizedWater" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Water/StylizedWater.uasset" SILENT=true
+[2022.09.01-23.54.15:584][728]LogSavePackage: Moving output files for package: /Game/Assets/Water/StylizedWater
+[2022.09.01-23.54.15:585][728]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/StylizedWater8DA858914175CE04DD8217BAF1E6FE90.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/Water/StylizedWater.uasset'
+[2022.09.01-23.54.15:594][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Wall" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/Wall.uasset" SILENT=true
+[2022.09.01-23.54.15:615][728]LogSavePackage: Moving output files for package: /Game/Textures/Wall
+[2022.09.01-23.54.15:616][728]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Wall35FC86B4444B3DCD0F12C49EDF93025D.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/Wall.uasset'
+[2022.09.01-23.54.15:624][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/v2/Walls/B/Wall_Cube_B_" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Walls/B/Wall_Cube_B_.uasset" SILENT=true
+[2022.09.01-23.54.15:629][728]LogSavePackage: Moving output files for package: /Game/Assets/v2/Walls/B/Wall_Cube_B_
+[2022.09.01-23.54.15:630][728]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Wall_Cube_B_41A3F5A34631ACC7B2AD7F900A309F6B.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Walls/B/Wall_Cube_B_.uasset'
+[2022.09.01-23.54.15:639][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Window_L" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/Window_L.uasset" SILENT=true
+[2022.09.01-23.54.15:666][728]LogSavePackage: Moving output files for package: /Game/Textures/Window_L
+[2022.09.01-23.54.15:667][728]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Window_L6AD1585A4B9C823BAF88F69A09552D2E.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Textures/Window_L.uasset'
+[2022.09.01-23.54.15:668][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/v2/Materials/Wood_Stone_Metal" FILE="../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Materials/Wood_Stone_Metal.uasset" SILENT=true
+[2022.09.01-23.54.15:669][728]LogSavePackage: Moving output files for package: /Game/Assets/v2/Materials/Wood_Stone_Metal
+[2022.09.01-23.54.15:670][728]LogSavePackage: Moving '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Saved/Wood_Stone_Metal9BDCB16146701737D63C4B90B67BC70C.tmp' to '../../../../../../UNI/TFG/FIX TFG/TFG/TFG 5.0 5.0/Content/Assets/v2/Materials/Wood_Stone_Metal.uasset'
+[2022.09.01-23.54.15:698][728]LogStall: Shutdown...
+[2022.09.01-23.54.15:768][728]LogStall: Shutdown complete.
+[2022.09.01-23.54.15:939][728]LogSlate: Window 'TFG - Unreal Editor' being destroyed
+[2022.09.01-23.54.17:406][728]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.01-23.54.17:407][728]LogContentValidation: Display: Validating Material /Game/Assets/v2/Materials/Green_Red_Roof.Green_Red_Roof
+[2022.09.01-23.54.17:407][728]LogContentValidation: Display: Validating Material /Game/Assets/v2/Materials/Ground.Ground
+[2022.09.01-23.54.17:407][728]LogContentValidation: Display: Validating Material /Game/Assets/v2/Materials/Wood_Stone_Metal.Wood_Stone_Metal
+[2022.09.01-23.54.17:407][728]LogContentValidation: Display: Validating Material /Game/Assets/v2/Props/Materials/MatAnvil.MatAnvil
+[2022.09.01-23.54.17:407][728]LogContentValidation: Display: Validating Material /Game/Assets/v2/Props/Materials/MatLantA.MatLantA
+[2022.09.01-23.54.17:407][728]LogContentValidation: Display: Validating Material /Game/Assets/v2/Props/Materials/MatLantB.MatLantB
+[2022.09.01-23.54.17:407][728]LogContentValidation: Display: Validating Material /Game/Assets/v2/Props/Materials/MatLantPole.MatLantPole
+[2022.09.01-23.54.17:407][728]LogContentValidation: Display: Validating Material /Game/Assets/Water/StylizedWater.StylizedWater
+[2022.09.01-23.54.17:407][728]LogContentValidation: Display: Validating Material /Game/Textures/Beam2.Beam2
+[2022.09.01-23.54.17:407][728]LogContentValidation: Display: Validating Material /Game/Textures/Door.Door
+[2022.09.01-23.54.17:407][728]LogContentValidation: Display: Validating Material /Game/Textures/Wall.Wall
+[2022.09.01-23.54.17:407][728]LogContentValidation: Display: Validating Material /Game/Textures/Balcony.Balcony
+[2022.09.01-23.54.17:407][728]LogContentValidation: Display: Validating Material /Game/Textures/Beam.Beam
+[2022.09.01-23.54.17:407][728]LogContentValidation: Display: Validating Material /Game/Textures/Fence.Fence
+[2022.09.01-23.54.17:407][728]LogContentValidation: Display: Validating Material /Game/Assets/v2/Props/lambert1.lambert1
+[2022.09.01-23.54.17:407][728]LogContentValidation: Display: Validating Material /Game/Assets/Rocks/lambert1.lambert1
+[2022.09.01-23.54.17:407][728]LogContentValidation: Display: Validating Material /Game/Textures/roofSquare.roofSquare
+[2022.09.01-23.54.17:407][728]LogContentValidation: Display: Validating Material /Game/Textures/roofA.roofA
+[2022.09.01-23.54.17:407][728]LogContentValidation: Display: Validating Material /Game/Textures/roofB.roofB
+[2022.09.01-23.54.17:408][728]LogContentValidation: Display: Validating Material /Game/Assets/v2/Materials/StoneGround.StoneGround
+[2022.09.01-23.54.17:408][728]LogContentValidation: Display: Validating Material /Game/Assets/v2/Materials/BlueRoof_Wall_Glass.BlueRoof_Wall_Glass
+[2022.09.01-23.54.17:408][728]LogContentValidation: Display: Validating StaticMesh /Game/Assets/v2/Walls/B/Wall_Cube_B_.Wall_Cube_B_
+[2022.09.01-23.54.17:408][728]LogContentValidation: Display: Validating Material /Game/Assets/Water/grassMaterial.grassMaterial
+[2022.09.01-23.54.17:408][728]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Water/grassMaterial_Inst.grassMaterial_Inst
+[2022.09.01-23.54.17:408][728]LogContentValidation: Display: Validating Material /Game/Textures/Window_L.Window_L
+[2022.09.01-23.54.17:408][729]Cmd: QUIT_EDITOR
+[2022.09.01-23.54.17:529][729]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.09.01-23.54.17:807][729]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.09.01-23.54.17:834][729]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.09.01-23.54.17:861][729]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.09.01-23.54.18:674][729]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.09.01-23.54.18:674][729]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.09.01-23.54.18:674][729]LogAudio: Display: Audio Device unregistered from world 'TFG_Map'.
+[2022.09.01-23.54.18:804][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.09.01-23.54.18:805][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.09.01-23.54.19:007][729]LogAudio: Display: Audio Device Manager Shutdown
+[2022.09.01-23.54.19:019][729]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2022.09.01-23.54.19:184][729]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.09.01-23.54.19:274][729]LogExit: Preparing to exit.
+[2022.09.01-23.54.20:028][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.09.01-23.54.27:703][729]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-23.54.27:704][729]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-23.54.28:091][729]LogWorld: UWorld::CleanupWorld for TFG_Map, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-23.54.28:427][729]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-23.54.28:745][729]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.09.01-23.54.29:433][729]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2022.09.01-23.54.29:527][729]LogExit: Editor shut down
+[2022.09.01-23.54.29:540][729]LogExit: Transaction tracking system shut down
+[2022.09.01-23.54.38:105][729]LogExit: Object subsystem successfully closed.
+[2022.09.01-23.54.38:170][729]LogShaderCompilers: Display: ================================================
+[2022.09.01-23.54.38:170][729]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.01-23.54.38:170][729]LogShaderCompilers: Display: Total job queries 1109, among them cache hits 104 (9.38%)
+[2022.09.01-23.54.38:170][729]LogShaderCompilers: Display: Tracking 924 distinct input hashes that result in 245 distinct outputs (26.52%)
+[2022.09.01-23.54.38:171][729]LogShaderCompilers: Display: RAM used: 1.26 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.15%
+[2022.09.01-23.54.38:171][729]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.01-23.54.38:171][729]LogShaderCompilers: Display: Shaders Compiled: 957
+[2022.09.01-23.54.38:171][729]LogShaderCompilers: Display: Jobs assigned 924, completed 924 (100.00%)
+[2022.09.01-23.54.38:171][729]LogShaderCompilers: Display: Average time worker was idle: 8.25 s
+[2022.09.01-23.54.38:171][729]LogShaderCompilers: Display: Time job spent in pending queue: average 105.93 s, longest 253.45 s
+[2022.09.01-23.54.38:171][729]LogShaderCompilers: Display: Job execution time: average 8.10 s, max 18.71 s
+[2022.09.01-23.54.38:171][729]LogShaderCompilers: Display: Job life time (pending + execution): average 114.03 s, max 254.56
+[2022.09.01-23.54.38:171][729]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 324.18 s
+[2022.09.01-23.54.38:171][729]LogShaderCompilers: Display: Jobs were issued in 245 batches (only local compilation was used), average 3.77 jobs/batch
+[2022.09.01-23.54.38:171][729]LogShaderCompilers: Display: Average processing rate: 2.85 jobs/sec
+[2022.09.01-23.54.38:171][729]LogShaderCompilers: Display: Effective parallelization: 2.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2022.09.01-23.54.38:171][729]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.09.01-23.54.38:171][729]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled   23 times, average 1.81 sec, max 3.06 sec, min 1.37 sec)
+[2022.09.01-23.54.38:171][729]LogShaderCompilers: Display:         TMaterialCHSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled   23 times, average 1.81 sec, max 2.92 sec, min 1.40 sec)
+[2022.09.01-23.54.38:171][729]LogShaderCompilers: Display:                                TMaterialCHSTLightMapPolicyLQ (compiled   23 times, average 1.73 sec, max 2.48 sec, min 1.42 sec)
+[2022.09.01-23.54.38:171][729]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   23 times, average 1.73 sec, max 2.76 sec, min 1.36 sec)
+[2022.09.01-23.54.38:171][729]LogShaderCompilers: Display:                                TMaterialCHSTLightMapPolicyHQ (compiled   23 times, average 1.71 sec, max 2.68 sec, min 1.28 sec)
+[2022.09.01-23.54.38:171][729]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.09.01-23.54.38:171][729]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.00% of total time (compiled   81 times, average 0.76 sec, max 2.41 sec, min 0.51 sec)
+[2022.09.01-23.54.38:171][729]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.66% of total time (compiled   81 times, average 0.72 sec, max 3.00 sec, min 0.43 sec)
+[2022.09.01-23.54.38:171][729]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy - 4.76% of total time (compiled   23 times, average 1.81 sec, max 3.06 sec, min 1.37 sec)
+[2022.09.01-23.54.38:171][729]LogShaderCompilers: Display:         TMaterialCHSTDistanceFieldShadowsAndLightMapPolicyHQ - 4.75% of total time (compiled   23 times, average 1.81 sec, max 2.92 sec, min 1.40 sec)
+[2022.09.01-23.54.38:171][729]LogShaderCompilers: Display:                                TMaterialCHSTLightMapPolicyLQ - 4.55% of total time (compiled   23 times, average 1.73 sec, max 2.48 sec, min 1.42 sec)
+[2022.09.01-23.54.38:171][729]LogShaderCompilers: Display: ================================================
+[2022.09.01-23.54.38:224][729]LogShaderCompilers: Display: Shaders left to compile 0
